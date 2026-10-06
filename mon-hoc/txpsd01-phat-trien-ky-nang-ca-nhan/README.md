@@ -10,7 +10,7 @@
 | Số tín chỉ | 3 |
 | Học phần tiên quyết | Không |
 | Đơn vị quản lý | Trung tâm Đào tạo từ xa — ĐH Kinh tế Quốc dân |
-| Học kỳ | |
+| Học kỳ | 05/07 |
 | Giảng viên | Theo phân công: TS. Nguyễn Thị Ngọc Anh, PGS.TS. Nguyễn Thị Hoài Dung, PGS.TS. Đàm Quang Vinh, PGS.TS. Đoàn Xuân Hậu, ThS. Phan Thị Kim Nga, ThS. Đỗ Thị Thu Trang, ThS. Nguyễn Đức Hòa |
 | Hình thức thi cuối kỳ | Trắc nghiệm trên giấy, **40 câu / 60 phút**, 0,25 điểm/câu, không dùng tài liệu |
 
