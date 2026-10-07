@@ -1,28 +1,46 @@
 # Đề cương — <Tên môn học>
 
-> Mỗi chương: tóm tắt ngắn + khái niệm/công thức cốt lõi + mức độ quan trọng.
-> Mức độ: ⭐⭐⭐ chắc chắn ra thi · ⭐⭐ hay ra · ⭐ ít ra
+> **Nguồn:** bài giảng và slide trong [`tai-lieu/`](tai-lieu/).
+>
+> **Mức độ ra thi:** ⭐⭐⭐ chắc chắn ra · ⭐⭐ hay ra · ⭐ ít ra.
+>
+> **Mỗi bài có mục 🎯 "Đề hỏi gì"**, lấy từ đề thi mẫu, câu ôn tập và trắc nghiệm hệ thống. Câu hỏi và đáp án nằm ở [ngan-hang-theo-chu-de.md](ngan-hang-theo-chu-de.md).
+>
+> ⚡ là chỗ **đáp án hệ thống khác bài giảng**. Làm trên hệ thống thì theo đáp án hệ thống.
+>
+> Nếu các nguồn đánh số bài khác nhau (đề cương, CTDH, file bài giảng, hệ thống), thêm bảng đối chiếu ở đây.
 
-## Chương 1: <Tên chương> — ⭐⭐
+## Mục lục
 
-### Tóm tắt
--
-
-### Khái niệm / công thức cần nhớ
--
-
-### Câu hỏi tự kiểm tra
-1.
+- [Bài 1: <Tên bài>](#bài-1-tên-bài--)
+- [Bài 2: <Tên bài>](#bài-2-tên-bài--)
 
 ---
 
-## Chương 2: <Tên chương> — ⭐⭐
+## Bài 1: <Tên bài> — ⭐⭐
 
 ### Tóm tắt
 -
 
-### Khái niệm / công thức cần nhớ
+### Khái niệm / danh sách / con số cần thuộc
 -
 
-### Câu hỏi tự kiểm tra
-1.
+### 🎯 Đề hỏi gì
+- **Đề thi mẫu:**
+- **Câu ôn tập:**
+- **Trắc nghiệm hệ thống (<số> câu):**
+
+---
+
+## Bài 2: <Tên bài> — ⭐⭐
+
+### Tóm tắt
+-
+
+### Khái niệm / danh sách / con số cần thuộc
+-
+
+### 🎯 Đề hỏi gì
+- **Đề thi mẫu:**
+- **Câu ôn tập:**
+- **Trắc nghiệm hệ thống (<số> câu):**

@@ -8,6 +8,7 @@ Tổng hợp tài liệu, đề cương, ngân hàng câu hỏi và phương ph�
 |-----|--------|---------|------------|----------|---------|------|
 | [Phát triển kỹ năng cá nhân](mon-hoc/txpsd01-phat-trien-ky-nang-ca-nhan/README.md) (TXPSD01) | 05/07 | 3 | 🟡 | [📄](mon-hoc/txpsd01-phat-trien-ky-nang-ca-nhan/de-cuong.md) | [❓](mon-hoc/txpsd01-phat-trien-ky-nang-ca-nhan/ngan-hang-theo-chu-de.md) | |
 | [Nhập môn Internet và E-learning](mon-hoc/txict01-nhap-mon-internet-va-elearning/README.md) (TXICT01) | 05/07 | 3 | 🟡 | [📄](mon-hoc/txict01-nhap-mon-internet-va-elearning/de-cuong.md) | [❓](mon-hoc/txict01-nhap-mon-internet-va-elearning/ngan-hang-theo-chu-de.md) | |
+| [Kỹ năng quản trị](mon-hoc/txqtkd116-ky-nang-quan-tri/README.md) (TXQTKD116) | 06/09 | 3 | 🟡 | [📄](mon-hoc/txqtkd116-ky-nang-quan-tri/de-cuong.md) | [❓](mon-hoc/txqtkd116-ky-nang-quan-tri/ngan-hang-theo-chu-de.md) | |
 
 Học kỳ: ghi theo **mã học kỳ** của trường (VD `05/07`). Một năm có 4 học kỳ, không theo chu kỳ cố định.
 Trạng thái: 🟢 đã xong · 🟡 đang học · ⚪ chưa học
