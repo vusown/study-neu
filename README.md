@@ -18,6 +18,16 @@ Mẫu một dòng:
 | [Kinh tế vi mô 1](mon-hoc/kinh-te-vi-mo-1/README.md) | 05/07 | 3 | 🟡 | [📄](mon-hoc/kinh-te-vi-mo-1/de-cuong.md) | [❓](mon-hoc/kinh-te-vi-mo-1/ngan-hang-cau-hoi.md) | |
 -->
 
+## Tra cứu bằng NotebookLM
+
+Mỗi môn có file `ban-do-notebooklm.md`: bản đồ cho biết câu hỏi, kiến thức nằm ở file nào, mục nào. Tạo **một notebook cho mỗi môn**, tải lên các file `.md` của môn (kèm tài liệu gốc trong `tai-lieu/` nếu cần).
+
+Sau khi sửa ngân hàng câu hỏi hoặc đề cương, tạo lại bản đồ:
+
+```bash
+python3 scripts/tao-ban-do-notebooklm.py
+```
+
 ## Thêm môn mới
 
 ```bash

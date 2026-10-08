@@ -91,6 +91,7 @@
 - [Ngân hàng câu hỏi](ngan-hang-cau-hoi.md): cùng 270 câu, xếp theo nguồn. Câu 1–23 là 4 đề thi mẫu, câu 127 trở đi là trắc nghiệm hệ thống.
 - [Đề cương theo bài](de-cuong.md)
 - [Cách học thuộc](cach-hoc-thuoc.md)
+- [Bản đồ tra cứu cho NotebookLM](ban-do-notebooklm.md): file nào, mục nào, câu số mấy thuộc chủ đề nào. Tải lên NotebookLM cùng các file .md của môn. Tạo lại bằng `python3 scripts/tao-ban-do-notebooklm.py`
 
 ## Phương pháp ôn tập
 

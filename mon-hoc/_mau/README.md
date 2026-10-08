@@ -66,6 +66,7 @@
 - [Ngân hàng câu hỏi](ngan-hang-cau-hoi.md): cùng <N> câu, xếp theo nguồn (đề thi, bài luyện tập hệ thống lần 1, 2…). Dùng để tự kiểm tra như đề thật.
 - [Đề cương theo bài](de-cuong.md)
 - [Cách học thuộc](cach-hoc-thuoc.md)
+- [Bản đồ tra cứu cho NotebookLM](ban-do-notebooklm.md): file nào, mục nào, câu số mấy thuộc chủ đề nào. Tải lên NotebookLM cùng các file .md của môn. Tạo lại bằng `python3 scripts/tao-ban-do-notebooklm.py`
 
 ## Kinh nghiệm ôn tập
 

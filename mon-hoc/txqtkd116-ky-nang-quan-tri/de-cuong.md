@@ -4,9 +4,9 @@
 >
 > **Mức độ ra thi:** ⭐⭐⭐ chắc chắn ra · ⭐⭐ hay ra · ⭐ ít ra.
 >
-> **Mỗi bài có mục 🎯 "Đề hỏi gì"**, lấy từ đề thi mẫu, câu ôn tập và trắc nghiệm hệ thống (8 lần làm, 144 câu, chỉ có ở Bài 1–4).
+> **Mỗi bài có mục 🎯 "Đề hỏi gì"**, lấy từ đề thi mẫu, câu ôn tập và trắc nghiệm hệ thống (8 lần làm, 144 câu, chỉ có ở Bài 1–4). Câu hỏi và đáp án nằm ở [ngan-hang-theo-chu-de.md](ngan-hang-theo-chu-de.md).
 >
-> ⚡ là chỗ **đáp án hệ thống khác bài giảng**. Làm trên hệ thống thì theo đáp án hệ thống; thi giấy thì viết theo bài giảng. Câu hỏi và đáp án nằm ở [ngan-hang-theo-chu-de.md](ngan-hang-theo-chu-de.md).
+> ⚡ là chỗ **đáp án hệ thống khác bài giảng**. Làm trên hệ thống thì theo đáp án hệ thống; thi giấy thì viết theo bài giảng.
 >
 > **Lưu ý về thứ tự bài.** Mỗi nguồn đánh số bài khác nhau:
 >

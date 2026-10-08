@@ -91,6 +91,7 @@
 - [Ngân hàng câu hỏi theo chủ đề](ngan-hang-theo-chu-de.md): 120 câu gom thành 31 chủ đề, mỗi chủ đề có dòng 🔑 Ghi nhớ. **Dùng file này để học thuộc**
 - [Ngân hàng câu hỏi](ngan-hang-cau-hoi.md): 120 câu từ bài luyện tập trên hệ thống, xếp theo thứ tự gặp. Dùng để tự kiểm tra như đề thật
 - [Cách học thuộc](cach-hoc-thuoc.md): mẹo nhớ từng bài, cặp dễ nhầm, bẫy đề, lịch học
+- [Bản đồ tra cứu cho NotebookLM](ban-do-notebooklm.md): file nào, mục nào, câu số mấy thuộc chủ đề nào. Tải lên NotebookLM cùng các file .md của môn. Tạo lại bằng `python3 scripts/tao-ban-do-notebooklm.py`
 
 ## Kinh nghiệm ôn tập
 

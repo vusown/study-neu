@@ -81,6 +81,7 @@
 - [Ngân hàng câu hỏi](ngan-hang-cau-hoi.md): 50 câu đề thi thử (câu 1–50, theo thứ tự đề) + câu bài luyện tập hệ thống (câu 51 trở đi). Dùng để tự kiểm tra như đề thật
 - [Đề cương theo bài](de-cuong.md)
 - [Cách học thuộc](cach-hoc-thuoc.md)
+- [Bản đồ tra cứu cho NotebookLM](ban-do-notebooklm.md): file nào, mục nào, câu số mấy thuộc chủ đề nào. Tải lên NotebookLM cùng các file .md của môn. Tạo lại bằng `python3 scripts/tao-ban-do-notebooklm.py`
 
 ## Phương pháp ôn tập
 
