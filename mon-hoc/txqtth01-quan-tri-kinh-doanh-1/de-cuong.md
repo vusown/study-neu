@@ -156,7 +156,7 @@
 - **Đề thi thử Phần 1:** mỗi chỉ tiêu có một tiêu chuẩn cho chỉ tiêu đó (**Đúng**) / chỉ có một tiêu chuẩn chung (**Sai**); hiệu quả và kết quả giống nhau (**Sai**); hiệu quả phản ánh mặt chất lượng của kết quả (**Đúng**).
 - **Đề thi thử Phần 3 (3 điểm):** bảng 4 năm, tính H^TN, D^TR, D^VKD rồi so với ngành.
 - **Ôn tập:** 12 câu Đúng/Sai, 4 câu luận, 4 bài tập tính.
-- **Trắc nghiệm hệ thống:** H^TN năm 2012 = **101,57%** (bảng DN bánh kẹo); nhân tố ảnh hưởng; "chiến lược đúng thì chắc chắn hiệu quả cao" (**Sai**).
+- **Trắc nghiệm hệ thống (LTTN 3 và bài tổng hợp):** bảng **DN bánh kẹo** 4 năm (có sẵn cột tiền trả lãi vốn vay), hỏi D^VKD, D^TR, H^TN và so với ngành; công thức sức sản xuất vốn kinh doanh (TR / V^KD), hệ số tận dụng công suất máy móc (Q thực tế / Q thiết kế); nhân tố ảnh hưởng; "chiến lược đúng thì chắc chắn hiệu quả cao" (**Sai**). ⚡ "Tính kiểu Việt Nam" hệ thống vẫn cộng lãi vay.
 
 ---
 

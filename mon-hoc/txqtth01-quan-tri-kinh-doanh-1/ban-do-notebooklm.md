@@ -15,7 +15,7 @@
 | Mã học phần | **TXQTTH01** (CTDH, hệ từ xa). Đề cương chi tiết ghi **QTTH1102** |
 | Học kỳ | 06/09 |
 | Hình thức thi cuối kỳ | Thi trên giấy, **90 phút**, trắc nghiệm kết hợp tự luận. **5 câu Đúng/Sai có giải thích (5 điểm) + 2 câu trắc nghiệm 4 phương án (2 điểm) + 1 câu tự luận (3 điểm)**. Đề thi thử khớp cấu trúc này, câu tự luận là bài tập tính chỉ tiêu hiệu quả |
-| Tổng số câu trong ngân hàng | **188** |
+| Tổng số câu trong ngân hàng | **245** |
 
 ## 1. Nguồn tải lên NotebookLM
 
@@ -24,8 +24,8 @@ Tạo **một notebook cho mỗi môn**, tải lên các file sau.
 | File | Nội dung | Dùng khi hỏi |
 |---|---|---|
 | `ban-do-notebooklm.md` | Bản đồ này | Câu hỏi nằm ở đâu, chủ đề nào có câu nào |
-| `ngan-hang-theo-chu-de.md` | 188 câu gom theo bài, chủ đề, mỗi chủ đề có dòng 🔑 Ghi nhớ | Học thuộc, ôn theo chủ đề, tạo quiz |
-| `ngan-hang-cau-hoi.md` | Cùng 188 câu, xếp theo nguồn (đề thi, lần làm hệ thống) | Tra số câu gốc, nguồn của câu |
+| `ngan-hang-theo-chu-de.md` | 245 câu gom theo bài, chủ đề, mỗi chủ đề có dòng 🔑 Ghi nhớ | Học thuộc, ôn theo chủ đề, tạo quiz |
+| `ngan-hang-cau-hoi.md` | Cùng 245 câu, xếp theo nguồn (đề thi, lần làm hệ thống) | Tra số câu gốc, nguồn của câu |
 | `de-cuong.md` | Tóm tắt kiến thức theo bài, mức ⭐, mục 🎯 Đề hỏi gì | Giải thích kiến thức, vì sao đáp án đúng |
 | `cach-hoc-thuoc.md` | Đề ra gì, bảng thuộc lòng, bẫy, cặp dễ nhầm, lịch học | Mẹo nhớ, bẫy đề, kế hoạch ôn |
 | `README.md` | Thông tin môn, cách tính điểm, lịch học | Điểm, điều kiện thi, hình thức thi |
@@ -103,39 +103,45 @@ Tạo **một notebook cho mỗi môn**, tải lên các file sau.
 | Trắc nghiệm hệ thống — lần 11 | 168–176 | 9 |
 | Trắc nghiệm hệ thống — lần 12 | 177–179 | 3 |
 | Trắc nghiệm hệ thống — lần 13 (bài luyện tập tổng hợp 30 câu, tuần 9) | 180–188 | 9 |
+| Trắc nghiệm hệ thống — lần 14 (LTTN 3, Bài 3) | 189–198 | 10 |
+| Trắc nghiệm hệ thống — lần 15 (bài luyện tập tổng hợp 30 câu, làm lại ngày 12/10) | 199–207 | 9 |
+| Trắc nghiệm hệ thống — lần 17 (bài luyện tập tổng hợp 30 câu, làm lại ngày 12/10 lúc 15h42) | 208–219 | 12 |
+| Trắc nghiệm hệ thống — lần 18 (bài luyện tập tổng hợp 30 câu, ngày 12/10 lúc 15h52) | 220–228 | 9 |
+| Trắc nghiệm hệ thống — lần 19 (bài luyện tập tổng hợp 30 câu, ngày 12/10 lúc 16h37) | 229–240 | 12 |
+| Trắc nghiệm hệ thống — lần 20 (bài luyện tập tổng hợp 30 câu, ngày 12/10 lúc 16h53) | 241–245 | 5 |
 
 ## 4. Bản đồ chủ đề
 
 Mỗi dòng là một chủ đề trong `ngan-hang-theo-chu-de.md`. Cột **Câu gốc** dùng để tìm câu trong `ngan-hang-cau-hoi.md`; tìm một số câu trong cột này để biết câu đó thuộc chủ đề nào.
 
-### Bài 1 — Kinh doanh (32 câu)
+### Bài 1 — Kinh doanh (38 câu)
 
 | Mã | Chủ đề | Số câu | Câu gốc | Câu ⚡ | Từ khóa |
 |---|---|---|---|---|---|
-| 1.1 | Doanh nghiệp: khái niệm và phân loại | 17 | 1–2, 21, 23, 77–78, 80, 82, 84–85, 87–88, 90–91, 93, 182, 186 | 1–2, 23, 78, 80, 82, 85, 93, 182, 186 | Xí nghiệp · không phụ thuộc cơ chế · cân bằng tài chính · hiệu quả · kế hoạch hóa tập trung · hoàn thành kế hoạch · thị trường · đa sở hữu, tự xây dựng kế hoạch · gọi là doanh nghiệp · Mọi doanh nghiệp đều là xí nghiệp · mục tiêu · kinh doanh |
+| 1.1 | Doanh nghiệp: khái niệm và phân loại | 23 | 1–2, 21, 23, 77–78, 80, 82, 84–85, 87–88, 90–91, 93, 182, 186, 212, 224–225, 237, 244–245 | 1–2, 23, 78, 80, 82, 85, 93, 182, 186, 212 | Xí nghiệp · không phụ thuộc cơ chế · cân bằng tài chính · hiệu quả · kế hoạch hóa tập trung · hoàn thành kế hoạch · thị trường · đa sở hữu, tự xây dựng kế hoạch · gọi là doanh nghiệp · Mọi doanh nghiệp đều là xí nghiệp · mục tiêu · kinh doanh |
 | 1.2 | Kinh doanh: khái niệm và tư duy kinh doanh | 10 | 22, 26–28, 75–76, 79, 83, 86, 94 | 22 | tạo ra sản phẩm/dịch vụ cung cấp cho thị trường để kiếm lời · liên tục · sinh lợi · khả năng phân tích, tổng hợp · Vai trò · thay đổi tư duy khép kín · Biểu hiện tư duy tốt · nền tảng kiến thức tốt · định hướng chiến lược, dài hạn · độc lập, sáng tạo · đóng góp ngân sách |
 | 1.3 | Chu kì kinh tế và chu kì kinh doanh | 3 | 25, 81, 92 | 25, 92 | Chu kì kinh tế: 3 giai đoạn · phục hồi · Chu kì kinh doanh: 5 giai đoạn · trưởng thành · bão hoà |
 | 1.4 | Mô hình kinh doanh | 2 | 24, 89 | — | đại diện đơn giản hóa lý luận kinh doanh · 04 trụ cột, 09 nhân tố · sản phẩm · cơ sở hạ tầng · khách hàng · tài chính · trung gian |
 
-### Bài 2 — Môi trường kinh doanh (29 câu)
+### Bài 2 — Môi trường kinh doanh (33 câu)
 
 | Mã | Chủ đề | Số câu | Câu gốc | Câu ⚡ | Từ khóa |
 |---|---|---|---|---|---|
-| 2.1 | Môi trường kinh doanh: khái niệm và phân loại | 10 | 33–34, 97, 99, 106, 108–109, 111–113 | 34, 97, 106, 109, 111 | tổng thể các yếu tố, nhân tố bên ngoài và bên trong · vận động tương tác lẫn nhau · trực tiếp và gián tiếp · giới hạn không gian · có lợi và bất lợi · Bên trong · điểm mạnh, điểm yếu · Bên ngoài · cơ hội, thách thức · ngành · đối tượng · phạm vi |
+| 2.1 | Môi trường kinh doanh: khái niệm và phân loại | 12 | 33–34, 97, 99, 106, 108–109, 111–113, 202, 239 | 34, 97, 106, 109, 111, 202, 239 | tổng thể các yếu tố, nhân tố bên ngoài và bên trong · vận động tương tác lẫn nhau · trực tiếp và gián tiếp · giới hạn không gian · có lợi và bất lợi · Bên trong · điểm mạnh, điểm yếu · Bên ngoài · cơ hội, thách thức · ngành · đối tượng · phạm vi |
 | 2.2 | Kinh tế thị trường cạnh tranh và các yếu tố thị trường đang hình thành | 5 | 29, 31, 98, 104, 107 | — | Đại hội VI (1986) · mang bản chất cạnh tranh · cung cầu · đang hình thành · "xin, cho" · là MTKD cạnh tranh · chưa phải thị trường hoàn hảo · "chưa thị trường" |
 | 2.3 | Tư duy kinh doanh manh mún, truyền thống, cũ kĩ | 4 | 30, 96, 102, 105 | 102 | manh mún, truyền thống, cũ kĩ · 5 biểu hiện · theo phong trào · không có hoặc không đúng tính phường hội · Phường hội đúng nghĩa · liên kết, giúp đỡ nhau · có giới hạn · người thứ 3 |
-| 2.4 | Môi trường kinh doanh hội nhập quốc tế | 5 | 32, 35, 100–101, 103 | 100 | phạm vi toàn cầu · mở rộng · tính bất ổn rõ ràng, ngày càng mạnh · đầu ra lẫn nguồn lực đầu vào · phá vỡ các tính phổ biến trước đây |
-| 2.5 | Nhận thức và nghiên cứu môi trường kinh doanh | 5 | 95, 110, 114, 181, 188 | 95, 110, 114, 188 | không hoạt động biệt lập · quyết định đúng đắn · hướng đi đúng · thay đổi MTKD theo hướng có lợi · 4 thời điểm · Mạng lưới thông tin |
+| 2.4 | Môi trường kinh doanh hội nhập quốc tế | 6 | 32, 35, 100–101, 103, 215 | 100 | phạm vi toàn cầu · mở rộng · tính bất ổn rõ ràng, ngày càng mạnh · đầu ra lẫn nguồn lực đầu vào · phá vỡ các tính phổ biến trước đây |
+| 2.5 | Nhận thức và nghiên cứu môi trường kinh doanh | 6 | 95, 110, 114, 181, 188, 217 | 95, 110, 114, 188 | không hoạt động biệt lập · quyết định đúng đắn · hướng đi đúng · thay đổi MTKD theo hướng có lợi · 4 thời điểm · Mạng lưới thông tin · rủi ro |
 
-### Bài 3 — Hiệu quả kinh doanh (37 câu)
+### Bài 3 — Hiệu quả kinh doanh (80 câu)
 
 | Mã | Chủ đề | Số câu | Câu gốc | Câu ⚡ | Từ khóa |
 |---|---|---|---|---|---|
-| 3.1 | Khái niệm và bản chất hiệu quả | 6 | 7–8, 36–37, 41, 47 | 47 | trình độ lợi dụng các nguồn lực · H = K / C · Kết quả · tuyệt đối · hai phạm trù khác nhau · mặt chất lượng · phức tạp, khó đánh giá · chưa chắc · lợi nhuận kinh tế · ít hơn 7 triệu |
-| 3.2 | Phân loại hiệu quả | 5 | 42–45, 49 | 45 | xã hội · kinh tế · kinh tế – xã hội · kinh doanh · đầu tư · khác nhau · cả hiệu quả kinh doanh và đầu tư · hiệu quả kinh doanh · công ích · hiệu quả xã hội · Tổng hợp · từng lĩnh vực |
-| 3.3 | Chỉ tiêu và tiêu chuẩn hiệu quả | 7 | 5–6, 38, 40, 48, 50–51 | 6, 51 | Tiêu chuẩn hiệu quả · mốc · mỗi chỉ tiêu có mốc riêng · không có tiêu chuẩn chung · biên · trung bình · chuỗi thời gian · thực tế với kế hoạch · không gian · chưa chắc · D^VKD · chính xác nhất |
-| 3.4 | Nhân tố ảnh hưởng và biện pháp nâng cao | 5 | 39, 46, 52, 180, 184 | 180, 184 | bên trong · lực lượng lao động · công nghệ kỹ thuật · quản trị DN · hệ thống thông tin · tính toán kinh tế · Bên ngoài · pháp lý, kinh tế, cơ sở hạ tầng · cả bên trong lẫn bên ngoài · tổng hợp |
-| 3.5 | Bài tập tính hiệu quả | 14 | 13–20, 53–56, 183, 185 | 13, 15, 17–19, 53, 56, 185 | H^TN = CP thực tế × 100 / CP kế hoạch · doanh thu − lợi nhuận ròng · D^TR = Π_R × 100 / TR · D^VKD = (Π_R + lãi vay) × 100 / V^KD · vốn vay × lãi suất · D^VTC = Π_R × 100 / V^TC · S^SX_VKD = TR / V^KD · cắt bỏ · chỉ số ngành · 100,38% · cao hơn · 12,42% |
+| 3.1 | Khái niệm và bản chất hiệu quả | 10 | 7–8, 36–37, 41, 47, 200, 204, 213, 221 | 47, 200, 221 | trình độ lợi dụng các nguồn lực · H = K / C · phân bổ nguồn lực sản xuất xã hội · không lãng phí · tỷ số · chênh lệch · Kết quả · tuyệt đối · hai phạm trù khác nhau · mặt chất lượng · phức tạp, khó đánh giá · chưa chắc |
+| 3.2 | Phân loại hiệu quả | 8 | 42–45, 49, 208, 229, 232 | 45, 208, 229, 232 | xã hội · kinh tế · kinh tế – xã hội · kinh doanh · đầu tư · khác nhau · cả hiệu quả kinh doanh và đầu tư · hiệu quả kinh doanh · công ích · hiệu quả xã hội · Tổng hợp · từng lĩnh vực |
+| 3.3 | Chỉ tiêu và tiêu chuẩn hiệu quả | 20 | 5–6, 38, 40, 48, 50–51, 192, 196, 206, 210–211, 214, 220, 222, 233, 240–243 | 6, 51, 214, 220, 222, 240–242 | Tiêu chuẩn hiệu quả · mốc · mỗi chỉ tiêu có mốc riêng · không có tiêu chuẩn chung · biên · trung bình · chuỗi thời gian · thực tế với kế hoạch · không gian · chưa chắc · D^VKD · chính xác nhất |
+| 3.4 | Nhân tố ảnh hưởng và biện pháp nâng cao | 6 | 39, 46, 52, 180, 184, 238 | 180, 184, 238 | bên trong · lực lượng lao động · công nghệ kỹ thuật · quản trị DN · hệ thống thông tin · tính toán kinh tế · Bên ngoài · pháp lý, kinh tế, cơ sở hạ tầng · không mang tính quyết định · cả bên trong lẫn bên ngoài · tổng hợp |
+| 3.5 | Bài tập tính hiệu quả | 36 | 13–20, 53–56, 183, 185, 189–191, 193–195, 197–199, 201, 203, 205, 209, 216, 218–219, 223, 226–227, 230, 234, 236 | 13, 15–20, 53, 56, 185, 189, 191, 193–195, 197, 201, 205, 209, 219, 223, 226–227, 230, 234 | H^TN = CP thực tế × 100 / CP kế hoạch · doanh thu − lợi nhuận ròng · D^TR = Π_R × 100 / TR · D^VKD = (Π_R + lãi vay) × 100 / V^KD · vốn vay × lãi suất · D^VTC = Π_R × 100 / V^TC · S^SX_VKD = TR / V^KD · cắt bỏ · chỉ số ngành · 100,38% · cao hơn · 12,42% |
 
 ### Bài 4 — Khái lược về quản trị kinh doanh (22 câu)
 
@@ -146,13 +152,13 @@ Mỗi dòng là một chủ đề trong `ngan-hang-theo-chu-de.md`. Cột **Câu
 | 4.3 | Phương pháp quản trị: khái quát | 2 | 59, 127 | — | cách thức tác động của chủ thể đến khách thể · con người cụ thể · thường xuyên thay đổi · có mục đích · khoa học · nghệ thuật · lựa chọn đúng đắn và kết hợp linh hoạt · bổ sung cho nhau |
 | 4.4 | Các phương pháp quản trị chủ yếu | 13 | 58, 61–63, 116, 119–122, 124–126, 142 | 125, 142 | Hành chính · tổ chức và kỷ luật · bắt buộc, không được lựa chọn · Kinh tế · lợi ích kinh tế · không cưỡng bức · Giáo dục, thuyết phục · tâm lý xã hội · không có khuôn mẫu chung · khác nhau · thiếu giáo dục thuyết phục |
 
-### Bài 5 — Nhà quản trị (43 câu)
+### Bài 5 — Nhà quản trị (47 câu)
 
 | Mã | Chủ đề | Số câu | Câu gốc | Câu ⚡ | Từ khóa |
 |---|---|---|---|---|---|
 | 5.1 | Nhà quản trị (khái niệm, đặc điểm, tiêu chuẩn) | 3 | 64, 147, 156 | — | lập kế hoạch, tổ chức, lãnh đạo, kiểm tra · nguồn lực thấp nhất · cùng cấp dưới · tư duy sáng tạo (toàn cầu) |
-| 5.2 | Kỹ năng quản trị | 10 | 3–4, 65–66, 130, 140, 143, 146, 150, 152 | 66, 130 | kỹ thuật · quan hệ với con người · bẩm sinh · nhận thức chiến lược · mọi cấp · tầm quan trọng tương đối thay đổi theo cấp · cấp cao → nhận thức chiến lược · cấp trung gian → quan hệ với con người · cấp cơ sở → kỹ thuật · chất lượng |
-| 5.3 | Phong cách quản trị | 15 | 67–68, 128, 131, 133–134, 136, 138–139, 141, 144, 153–154, 157, 187 | 153–154 | mang tính ổn định · cá tính · 6 phong cách · mị dân · cơ hội · quan liêu · độc đoán, chuyên quyền · không tưởng · chuyên quyền · độc đoán chuyên quyền · giữ khoảng cách · ít tin đối tác |
+| 5.2 | Kỹ năng quản trị | 11 | 3–4, 65–66, 130, 140, 143, 146, 150, 152, 228 | 66, 130 | kỹ thuật · quan hệ với con người · bẩm sinh · nhận thức chiến lược · mọi cấp · tầm quan trọng tương đối thay đổi theo cấp · cấp cao → nhận thức chiến lược · cấp trung gian → quan hệ với con người · cấp cơ sở → kỹ thuật · cao · toàn bộ tổ chức · chất lượng |
+| 5.3 | Phong cách quản trị | 18 | 67–68, 128, 131, 133–134, 136, 138–139, 141, 144, 153–154, 157, 187, 207, 231, 235 | 153–154, 235 | mang tính ổn định · cá tính · 6 phong cách · mị dân · cơ hội · quan liêu · độc đoán, chuyên quyền · không tưởng · chuyên quyền · độc đoán chuyên quyền · giữ khoảng cách · ít tin đối tác |
 | 5.4 | Nghệ thuật quản trị | 15 | 69–74, 129, 132, 135, 137, 145, 148–149, 151, 155 | 73, 132, 135, 145, 148, 151, 155 | tính linh hoạt, mềm dẻo · nguyên tắc · nhạy cảm · không mâu thuẫn · Tự quản trị · dám chịu trách nhiệm · đưa việc quan trọng nhất lên trước · tập trung việc quan trọng, chưa khẩn cấp · góc A2 · ủy quyền · thưởng phạt công minh · "tính nhạy cảm phát hiện, tận dụng cơ hội kinh doanh" |
 
 ### Bài 6 — Ra quyết định (22 câu)
@@ -224,7 +230,7 @@ Mỗi dòng là một chủ đề trong `ngan-hang-theo-chu-de.md`. Cột **Câu
 
 ## 7. Câu hỏi mẫu nên hỏi NotebookLM
 
-- "Câu 188 đáp án là gì, vì sao là bẫy? Giải thích theo đề cương."
+- "Câu 242 đáp án là gì, vì sao là bẫy? Giải thích theo đề cương."
 - "Tạo quiz 10 câu từ chủ đề 1.1, chỉ dùng câu có sẵn trong ngân hàng, giữ nguyên đáp án ✅."
 - "Liệt kê tất cả câu ⚡ của Bài 2 kèm đáp án và lý do là bẫy."
 - "Đọc dòng 🔑 Ghi nhớ của mọi chủ đề Bài 1 rồi tóm tắt thành 10 ý."

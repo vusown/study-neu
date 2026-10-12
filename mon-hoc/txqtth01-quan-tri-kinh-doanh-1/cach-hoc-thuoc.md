@@ -1,6 +1,6 @@
 # Cách học thuộc — Quản trị kinh doanh 1
 
-> **Mục tiêu: thuộc hết 188 câu** trong [ngan-hang-theo-chu-de.md](ngan-hang-theo-chu-de.md) và làm thạo bài tập tính hiệu quả. Đề thi giấy 90 phút: 5 câu Đúng/Sai có giải thích (5 điểm) + 2 câu trắc nghiệm (2 điểm) + 1 bài tập (3 điểm).
+> **Mục tiêu: thuộc hết 245 câu** trong [ngan-hang-theo-chu-de.md](ngan-hang-theo-chu-de.md) và làm thạo bài tập tính hiệu quả. Đề thi giấy 90 phút: 5 câu Đúng/Sai có giải thích (5 điểm) + 2 câu trắc nghiệm (2 điểm) + 1 bài tập (3 điểm).
 > Kiến thức nền: [de-cuong.md](de-cuong.md).
 
 ## Mục lục
@@ -23,7 +23,7 @@
 
 **Ưu tiên học:**
 1. **Bài 3**: công thức và bài tập (3 điểm chắc chắn), cùng 4 ý Đúng/Sai.
-2. **Bài 5**: kỹ năng theo cấp, 6 phong cách, nghệ thuật tự quản trị (43 câu, nhiều nhất).
+2. **Bài 5**: kỹ năng theo cấp, 6 phong cách, nghệ thuật tự quản trị (30 câu trắc nghiệm hệ thống, nhiều nhất).
 3. **Bài 1**: phân loại DN theo mục tiêu, xí nghiệp và doanh nghiệp.
 4. **Bài 4**: nguyên tắc và 3 phương pháp quản trị.
 5. **Bài 2**: 4 đặc trưng MTKD.
@@ -60,7 +60,7 @@ Hệ thống xáo thứ tự phương án. Nhớ **từ khóa của đáp án đ
 2. **H^TN** = (TR − Π_R) × 100 / CP_KH (nếu bảng có sẵn CP thực tế thì dùng luôn).
 3. **D^TR** = Π_R × 100 / TR.
 4. **D^VKD** = (Π_R + lãi vay) × 100 / V^KD. Lãi vay = vốn vay × lãi suất, hoặc lấy cột "tiền trả lãi vốn vay".
-5. **Cắt bỏ** chữ số thứ 3 sau dấu phẩy (100,5556 → 100,55).
+5. **Cắt bỏ** chữ số thứ 3 sau dấu phẩy (100,5556 → 100,55). Riêng câu hỏi con số D^TR, hệ thống **làm tròn** (8,0952 → 8,10). Mẹo: tính ra 4 chữ số thập phân rồi chọn phương án khớp.
 6. So với cột ngành: lớn hơn là "cao hơn ngành".
 7. Kiểm tra phương án nhiễu: quên lãi vay ra 9,63 hoặc 9,57; nhầm năm ra kết quả của năm khác.
 
@@ -107,6 +107,12 @@ Làm trên hệ thống thì chọn theo cột "Hệ thống chấm".
 | "Chọn đáp án sai" có câu "văn bản không là cơ sở xem xét trách nhiệm" | **Văn bản không là cơ sở…** | Không chọn "chỉ cần", "càng nhiều càng tốt" |
 | Quyết định chiến thuật | Hệ thống coi "**chính là quyết định tác nghiệp**" là đúng | |
 | H^TN năm 2012 so với ngành 101,5 | **Cao hơn ngành** (101,57) | Chỉ so số |
+| Doanh lợi vốn kinh doanh "tính kiểu Việt Nam" | Vẫn **cộng lãi vay** (16,05%) | Bài giảng nói DN Việt Nam không tính lãi vay |
+| D^TR từng năm là bao nhiêu (bảng bánh kẹo) | **Làm tròn**: 5,80% (2010), 6,51% (2011), 8,10% (2012) | Không cắt bỏ thành 5,79 / 6,50 / 8,09 |
+| Phong cách quản trị, "thiếu chính xác" | Phương án "…**vì tính cách của người trưởng thành rất ít thay đổi**" | Dù viết "không thay đổi" hay "**ổn định**" |
+| "Cần phải tác động để biến thách thức thành cơ hội" | Chấm là **sai** | Không bao giờ chấm đúng |
+| Công ty cổ phần, quan điểm đúng | **Có thể phát hành cổ phiếu khi thiếu vốn** | "Cổ phần phổ thông không thể chuyển thành ưu đãi" đúng theo luật nhưng hệ thống không chấm |
+| D^TR 2009 so với ngành 6,2 | **Bằng của ngành** | 6,204 lấy 6,2 |
 
 ## 6. Những cặp dễ nhầm
 
@@ -126,7 +132,7 @@ Làm trên hệ thống thì chọn theo cột "Hệ thống chấm".
 
 | Ngày | Nội dung |
 |---|---|
-| 1 | Bài 3: công thức; làm lại câu 13–20 (Phần 3 đề thi thử) và 4 bài tập; câu Đúng/Sai về hiệu quả |
+| 1 | Bài 3: công thức; làm lại câu 13–20 (Phần 3 đề thi thử), các câu bảng DN bánh kẹo (câu 183, 189–198 và các câu tính toán của lần 15, 17), 4 bài tập; câu Đúng/Sai về hiệu quả |
 | 2 | Bài 1 và Bài 2: mục tiêu DN, xí nghiệp, MTKD |
 | 3 | Bài 4: nguyên tắc, 3 phương pháp; Bài 6: định tính, định lượng, yêu cầu |
 | 4 | Bài 5: kỹ năng theo cấp, 6 phong cách, nghệ thuật |

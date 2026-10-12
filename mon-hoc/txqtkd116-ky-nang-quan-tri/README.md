@@ -14,9 +14,20 @@
 | Số tín chỉ | 3 |
 | Học phần tiên quyết | Không |
 | Học kỳ | 06/09 |
-| Khoa | Khoa Quản trị kinh doanh. Trưởng khoa: PGS.TS Hà Sơn Tùng |
+| Khoa | Khoa Quản trị kinh doanh (phòng 1002–1008 nhà A1). Trưởng khoa: PGS.TS Hà Sơn Tùng |
 | Giảng viên (đề cương 2025) | TS. Đặng Thị Kim Thoa, PGS.TS Nguyễn Thị Hoài Dung, TS. Nguyễn Ngọc Điệp, TS. Tạ Thu Phương, TS. Trần Thị Phương Hiền |
 | Hình thức thi cuối kỳ | Thi trên giấy, **90 phút**. CTDH ghi **trắc nghiệm 5 điểm + tự luận và bài tập 5 điểm**. [Đề thi mẫu](tai-lieu/00-de-thi-mau.docx) có 4 câu tự luận (1 + 3 + 3 + 3 điểm). **Cần xác minh** cấu trúc đề thật |
+
+**Mô tả học phần (đề cương 2025):**
+- Học phần **mang tính thực hành**, là **cầu nối** giữa các học phần lý thuyết và kỹ năng chuyên sâu của nhà quản trị.
+- Các kỹ năng được gom thành **3 nhóm**: kỹ năng **cá nhân**, kỹ năng **quan hệ con người**, kỹ năng **chuyên môn** trong quản trị điều hành doanh nghiệp. Tùy chuyên ngành, sinh viên chọn một số kỹ năng phù hợp để nghiên cứu, thảo luận.
+- **Nội dung chính:**
+  1. Giới thiệu chung về nhà quản trị và kỹ năng quản trị.
+  2. Kỹ năng quản lý thời gian và quản trị stress.
+  3. Kỹ năng giao tiếp và đàm phán.
+  4. Kỹ năng giải quyết vấn đề và ra quyết định.
+  5. Kỹ năng lập kế hoạch kinh doanh.
+  6. Kỹ năng xây dựng các yếu tố thương hiệu.
 
 ## Cách tính điểm
 

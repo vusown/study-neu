@@ -86,8 +86,8 @@
 
 ## Đề cương và câu hỏi
 
-- [Ngân hàng câu hỏi theo chủ đề](ngan-hang-theo-chu-de.md): 188 câu (74 câu đề thi thử, câu ôn tập, bài tập trong bài giảng; 114 câu trắc nghiệm hệ thống) gom theo 6 bài, mỗi chủ đề có dòng 🔑 Ghi nhớ. **Dùng file này để học thuộc**.
-- [Ngân hàng câu hỏi](ngan-hang-cau-hoi.md): cùng 188 câu, xếp theo nguồn. Câu 1–20 là đề thi thử, câu 75 trở đi là trắc nghiệm hệ thống.
+- [Ngân hàng câu hỏi theo chủ đề](ngan-hang-theo-chu-de.md): 245 câu (74 câu đề thi thử, câu ôn tập, bài tập trong bài giảng; 171 câu trắc nghiệm hệ thống) gom theo 6 bài, mỗi chủ đề có dòng 🔑 Ghi nhớ. **Dùng file này để học thuộc**.
+- [Ngân hàng câu hỏi](ngan-hang-cau-hoi.md): cùng 245 câu, xếp theo nguồn. Câu 1–20 là đề thi thử, câu 75 trở đi là trắc nghiệm hệ thống.
 - [Đề cương theo bài](de-cuong.md)
 - [Cách học thuộc](cach-hoc-thuoc.md)
 - [Bản đồ tra cứu cho NotebookLM](ban-do-notebooklm.md): file nào, mục nào, câu số mấy thuộc chủ đề nào. Tải lên NotebookLM cùng các file .md của môn. Tạo lại bằng `python3 scripts/tao-ban-do-notebooklm.py`
@@ -103,7 +103,7 @@
 
 **Lỗi hay gặp / bẫy đề:**
 - Quên cộng lãi vay khi tính doanh lợi vốn kinh doanh.
-- Làm tròn thay vì cắt bỏ chữ số thứ 3.
+- Cách lấy 2 chữ số không thống nhất: đề thi thử và hầu hết câu hệ thống **cắt bỏ**, riêng câu con số D^TR **làm tròn**. Chọn phương án gần nhất với kết quả 4 chữ số thập phân.
 - Nhầm mặt thái quá của 6 phong cách.
 
 ## Phương pháp ôn tập
@@ -112,9 +112,9 @@
 
 1. **Thuộc khung trả lời Đúng/Sai**: kết luận → căn cứ trong bài giảng → ví dụ. Câu Đúng/Sai trong đề lấy từ câu ôn tập cuối bài và các ý trọng tâm.
 2. **Luyện bài tập Bài 3** đến khi tính nhanh, đúng 3 công thức H^TN, D^TR, D^VKD.
-3. **Thuộc 114 câu trắc nghiệm hệ thống**, nhất là các câu ⚡ (bảng bẫy trong [cach-hoc-thuoc.md](cach-hoc-thuoc.md)).
+3. **Thuộc 171 câu trắc nghiệm hệ thống**, nhất là các câu ⚡ (bảng bẫy trong [cach-hoc-thuoc.md](cach-hoc-thuoc.md)).
 4. Bài 5 (phong cách, nghệ thuật) có nhiều câu hệ thống nhất: thuộc bảng 6 phong cách.
-5. Đã làm 13 lần trên hệ thống (lần 12, 13 hầu hết là câu trùng). Bài LTTN Bài 3 mới có ảnh chụp, chưa nạp.
+5. Đã nạp 21 lần làm trên hệ thống, đủ LTTN cả 6 bài và 7 lượt bài luyện tập tổng hợp tuần 9. LTTN đã hết câu mới (lần 16: 0 câu mới); bài tổng hợp cũng đã hết (lần 18: 9/30, lần 19: 12/30, lần 20: 5/30, **lần 21: 0/30**). Kho câu hệ thống coi như đã gom đủ, chuyển sang học thuộc.
 
 ## Kế hoạch ôn
 

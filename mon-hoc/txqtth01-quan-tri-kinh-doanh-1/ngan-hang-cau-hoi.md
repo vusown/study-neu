@@ -146,7 +146,12 @@
 - C. 101,22%
 - D. 101,57%
 
-> 💡 Đáp án đề. CP thực tế = 12.500 − 775 = **11.725**. H^TN = 11.725 × 100 / 11.680 = 100,385… → **100,38%**. ⚡ B là kết quả năm 2010.
+> 💡 Đáp án đề. **Cách tính hiệu quả kinh doanh tiềm năng (H^TN):**
+> 1. Công thức: **H^TN (%) = CP^KD thực tế × 100 / CP^KD kế hoạch**. Ý nghĩa: chi phí thực tế bằng bao nhiêu % kế hoạch; **càng gần 100% càng tốt**.
+> 2. Bảng không cho chi phí thực tế nên suy ra: **CP thực tế = Doanh thu − Lợi nhuận ròng** = 12.500 − 775 = **11.725**.
+> 3. Thay số năm 2009: H^TN = 11.725 × 100 / 11.680 = 100,3853…
+> 4. **Cắt bỏ** (không làm tròn) còn 2 chữ số thập phân: **100,38%**.
+> ⚡ B (100,55%) là kết quả năm 2010; làm tròn thông thường thì ra 100,39% (không có trong phương án).
 
 **Câu 14.** (Bảng số liệu ở câu 13) Xét **doanh lợi doanh thu bán hàng** của doanh nghiệp **năm 2009** là: _(Đề thi thử 01 — Phần 3)_
 
@@ -155,7 +160,11 @@
 - C. Thấp hơn ngành
 - D. Không có số liệu
 
-> 💡 Đáp án đề. D^TR = 775 × 100 / 12.500 = **6,20%** > ngành **6,1%** → cao hơn ngành.
+> 💡 Đáp án đề. **Cách tính doanh lợi doanh thu bán hàng (D^TR):**
+> 1. Công thức: **D^TR (%) = Lợi nhuận ròng × 100 / Doanh thu**. Ý nghĩa: 100 đồng doanh thu tạo ra bao nhiêu đồng lợi nhuận ròng; chỉ so sánh **cùng ngành**.
+> 2. Lấy số năm 2009: lợi nhuận ròng **775**, doanh thu **12.500**.
+> 3. Thay số: D^TR = 775 × 100 / 12.500 = 6,2000… → **6,20%**.
+> 4. So với cột ngành (D^TR ngành = **6,1**): 6,20 > 6,1 → **cao hơn ngành**.
 
 **Câu 15.** (Bảng số liệu ở câu 13) **Doanh lợi toàn bộ vốn kinh doanh năm 2009** là: _(Đề thi thử 01 — Phần 3)_
 
@@ -164,7 +173,11 @@
 - C. 10,53%
 - **D. 12,42%** ✅
 
-> 💡 Đáp án đề. Lãi vay = 1.500 × 15% = 225. D^VKD = (775 + 225) × 100 / 8.050 = **12,42%**. ⚡ Quên cộng lãi vay thì ra 775/8.050 = **9,63%** (phương án A).
+> 💡 Đáp án đề. **Cách tính doanh lợi toàn bộ vốn kinh doanh (D^VKD):**
+> 1. Công thức: **D^VKD (%) = (Lợi nhuận ròng + Tiền trả lãi vốn vay) × 100 / Vốn kinh doanh**. Phải **cộng lãi vay** vì vốn kinh doanh gồm cả vốn vay; lãi vay là phần thu nhập trả cho vốn vay.
+> 2. Lãi vay = **vốn vay × lãi suất** = 1.500 × 15% = **225**.
+> 3. Thay số năm 2009: D^VKD = (775 + 225) × 100 / 8.050 = 1.000 × 100 / 8.050 = 12,4224… → **12,42%**.
+> 4. ⚡ Nếu quên cộng lãi vay: 775 × 100 / 8.050 ≈ 9,63% → **sai** (phương án nhiễu hay gặp).
 
 **Câu 16.** (Bảng số liệu ở câu 13) Xét **doanh lợi toàn bộ vốn kinh doanh năm 2009** là: _(Đề thi thử 01 — Phần 3)_
 
@@ -173,7 +186,12 @@
 - C. Thấp hơn ngành
 - D. Không có số liệu
 
-> 💡 Đáp án đề. D^VKD = **12,42%** > ngành **9,1%** → cao hơn ngành.
+> 💡 Đáp án đề. **Cách tính doanh lợi toàn bộ vốn kinh doanh (D^VKD):**
+> 1. Công thức: **D^VKD (%) = (Lợi nhuận ròng + Tiền trả lãi vốn vay) × 100 / Vốn kinh doanh**. Phải **cộng lãi vay** vì vốn kinh doanh gồm cả vốn vay; lãi vay là phần thu nhập trả cho vốn vay.
+> 2. Lãi vay = **vốn vay × lãi suất** = 1.500 × 15% = **225**.
+> 3. Thay số năm 2009: D^VKD = (775 + 225) × 100 / 8.050 = 1.000 × 100 / 8.050 = 12,4224… → **12,42%**.
+> 4. ⚡ Nếu quên cộng lãi vay: 775 × 100 / 8.050 ≈ 9,63% → **sai** (phương án nhiễu hay gặp).
+> 5. So với cột ngành (D^VKD ngành = **9,1**): 12,42 > 9,1 → **cao hơn ngành**.
 
 **Câu 17.** (Bảng số liệu ở câu 13) **Hiệu quả kinh doanh tiềm năng năm 2010** là: _(Đề thi thử 02 — Phần 3)_
 
@@ -182,7 +200,12 @@
 - C. 101,22%
 - D. 101,57%
 
-> 💡 Đáp án đề. CP thực tế = 13.450 − 780 = **12.670**. H^TN = 12.670 × 100 / 12.600 = 100,5556… → **100,55%** (đáp án cắt bỏ, làm tròn thì ra 100,56). ⚡ A là kết quả năm 2009.
+> 💡 Đáp án đề. **Cách tính hiệu quả kinh doanh tiềm năng (H^TN):**
+> 1. Công thức: **H^TN (%) = CP^KD thực tế × 100 / CP^KD kế hoạch**. Ý nghĩa: chi phí thực tế bằng bao nhiêu % kế hoạch; **càng gần 100% càng tốt**.
+> 2. Bảng không cho chi phí thực tế nên suy ra: **CP thực tế = Doanh thu − Lợi nhuận ròng** = 13.450 − 780 = **12.670**.
+> 3. Thay số năm 2010: H^TN = 12.670 × 100 / 12.600 = 100,5556…
+> 4. **Cắt bỏ** (không làm tròn) còn 2 chữ số thập phân: **100,55%**.
+> ⚡ Làm tròn thông thường thì ra 100,56% (không có trong phương án). A (100,38%) là kết quả năm 2009.
 
 **Câu 18.** (Bảng số liệu ở câu 13) Xét **doanh lợi doanh thu bán hàng** của doanh nghiệp **năm 2010** là: _(Đề thi thử 02 — Phần 3)_
 
@@ -191,7 +214,12 @@
 - **C. Thấp hơn ngành** ✅
 - D. Không có số liệu
 
-> 💡 Đáp án đề. D^TR = 780 × 100 / 13.450 = **5,80%** < ngành **6,8%** → thấp hơn ngành. ⚡ Năm 2009 thì cao hơn ngành.
+> 💡 Đáp án đề. **Cách tính doanh lợi doanh thu bán hàng (D^TR):**
+> 1. Công thức: **D^TR (%) = Lợi nhuận ròng × 100 / Doanh thu**. Ý nghĩa: 100 đồng doanh thu tạo ra bao nhiêu đồng lợi nhuận ròng; chỉ so sánh **cùng ngành**.
+> 2. Lấy số năm 2010: lợi nhuận ròng **780**, doanh thu **13.450**.
+> 3. Thay số: D^TR = 780 × 100 / 13.450 = 5,7993… → **5,79%**.
+> 4. So với cột ngành (D^TR ngành = **6,8**): 5,79 < 6,8 → **thấp hơn ngành**.
+> ⚡ Năm 2009 thì cao hơn ngành.
 
 **Câu 19.** (Bảng số liệu ở câu 13) **Doanh lợi toàn bộ vốn kinh doanh năm 2010** là: _(Đề thi thử 02 — Phần 3)_
 
@@ -200,7 +228,12 @@
 - C. 10,53%
 - **D. 11,59%** ✅
 
-> 💡 Đáp án đề. Lãi vay = 1.100 × 15% = 165. D^VKD = (780 + 165) × 100 / 8.150 = 11,595… → **11,59%** (cắt bỏ). ⚡ Quên cộng lãi vay thì ra 780/8.150 = **9,57%** (phương án B).
+> 💡 Đáp án đề. **Cách tính doanh lợi toàn bộ vốn kinh doanh (D^VKD):**
+> 1. Công thức: **D^VKD (%) = (Lợi nhuận ròng + Tiền trả lãi vốn vay) × 100 / Vốn kinh doanh**. Phải **cộng lãi vay** vì vốn kinh doanh gồm cả vốn vay; lãi vay là phần thu nhập trả cho vốn vay.
+> 2. Lãi vay = **vốn vay × lãi suất** = 1.100 × 15% = **165**.
+> 3. Thay số năm 2010: D^VKD = (780 + 165) × 100 / 8.150 = 945 × 100 / 8.150 = 11,5951… → **11,59%**.
+> 4. ⚡ Nếu quên cộng lãi vay: 780 × 100 / 8.150 ≈ 9,57% → **sai** (phương án nhiễu hay gặp).
+> ⚡ Làm tròn thông thường thì ra 11,60% (không có trong phương án).
 
 **Câu 20.** (Bảng số liệu ở câu 13) Xét **doanh lợi toàn bộ vốn kinh doanh năm 2010** là: _(Đề thi thử 02 — Phần 3)_
 
@@ -209,7 +242,12 @@
 - C. Thấp hơn ngành
 - D. Không có số liệu
 
-> 💡 Đáp án đề. D^VKD = **11,59%** > ngành **9,7%** → cao hơn ngành.
+> 💡 Đáp án đề. **Cách tính doanh lợi toàn bộ vốn kinh doanh (D^VKD):**
+> 1. Công thức: **D^VKD (%) = (Lợi nhuận ròng + Tiền trả lãi vốn vay) × 100 / Vốn kinh doanh**. Phải **cộng lãi vay** vì vốn kinh doanh gồm cả vốn vay; lãi vay là phần thu nhập trả cho vốn vay.
+> 2. Lãi vay = **vốn vay × lãi suất** = 1.100 × 15% = **165**.
+> 3. Thay số năm 2010: D^VKD = (780 + 165) × 100 / 8.150 = 945 × 100 / 8.150 = 11,5951… → **11,59%**.
+> 4. ⚡ Nếu quên cộng lãi vay: 780 × 100 / 8.150 ≈ 9,57% → **sai** (phương án nhiễu hay gặp).
+> 5. So với cột ngành (D^VKD ngành = **9,7**): 11,59 > 9,7 → **cao hơn ngành**.
 
 ## Bài 1 — Câu hỏi trong bài giảng
 
@@ -1903,7 +1941,12 @@ _(Bài tập Bài 3)_
 - C. 101,22%
 - **D. 101,57%** ✅
 
-> 💡 ✅ Đáp án hệ thống. Phản hồi hệ thống: H^TN = (15.750.000 − 1.275.000) × 100 / 14.250.000 = **101,57%** (chi phí thực tế = doanh thu − lợi nhuận ròng). Cùng cách tính với Phần 3 đề thi thử.
+> 💡 ✅ Đáp án hệ thống. **Cách tính hiệu quả kinh doanh tiềm năng (H^TN):**
+> 1. Công thức: **H^TN (%) = CP^KD thực tế × 100 / CP^KD kế hoạch**. Ý nghĩa: chi phí thực tế bằng bao nhiêu % kế hoạch; **càng gần 100% càng tốt**.
+> 2. Bảng không cho chi phí thực tế nên suy ra: **CP thực tế = Doanh thu − Lợi nhuận ròng** = 15.750.000 − 1.275.000 = **14.475.000**.
+> 3. Thay số năm 2012: H^TN = 14.475.000 × 100 / 14.250.000 = 101,5789…
+> 4. **Cắt bỏ** (không làm tròn) còn 2 chữ số thập phân: **101,57%**.
+> Phản hồi hệ thống ghi đúng phép tính này: (15.750.000 – 1.275.000) × 100 / 14.250.000.
 
 **Câu 184.** Khẳng định nào dưới đây là chính xác? _(Hệ thống — lần 13 (bài luyện tập tổng hợp))_
 
@@ -1914,23 +1957,19 @@ _(Bài tập Bài 3)_
 
 > 💡 ✅ Đáp án hệ thống. **Quản trị doanh nghiệp** là một nhân tố bên trong ảnh hưởng hiệu quả; quản trị tốt **tạo tiền đề** để hiệu quả cao. ⚡ Các phương án sai đều tuyệt đối hóa một nhân tố ("cao nhất ngành", "bao giờ cũng") hoặc bỏ qua nhân tố bên ngoài (chính sách vĩ mô).
 
-**Câu 185.** Có số liệu kinh doanh của **doanh nghiệp bánh kẹo** theo bảng:
-
-> | Năm | V^KD | TR_Tt | Π_R | Tiền trả lãi vốn vay | TC^KD_KH | Ngành: D^VKD | Ngành: D^TR | Ngành: TC^KD_Tt/TC^KD_KH |
-> |---|---|---|---|---|---|---|---|---|
-> | 2009 | 8.050.000 | 12.500.000 | 775.500 | 120.000 | 11.680.500 | 9,1 | 6,2 | 100,3 |
-> | 2010 | 8.150.000 | 13.450.000 | 780.000 | 125.000 | 12.600.000 | 9,75 | 6,0 | 100,5 |
-> | 2011 | 8.500.000 | 13.750.000 | 895.000 | 140.000 | 12.700.000 | 10,2 | 6,6 | 101,3 |
-> | 2012 | 9.000.000 | 15.750.000 | 1.275.000 | 170.000 | 14.250.000 | 15,0 | 8,2 | 101,5 |
-
-Xét **hiệu quả kinh doanh tiềm năng** của doanh nghiệp **năm 2012** là _(Hệ thống — lần 13 (bài luyện tập tổng hợp))_
+**Câu 185.** (Bảng số liệu doanh nghiệp bánh kẹo ở câu 183) Xét **hiệu quả kinh doanh tiềm năng** của doanh nghiệp **năm 2012** là _(Hệ thống — lần 13 (bài luyện tập tổng hợp))_
 
 - **A. Cao hơn ngành** ✅
 - B. Bằng của ngành
 - C. Thấp hơn ngành
 - D. Không có số liệu
 
-> 💡 ✅ Đáp án hệ thống. Phản hồi hệ thống: H^TN năm 2012 = **101,57** > ngành **101,5** → **cao hơn ngành**. ⚡ Hệ thống chỉ so số lớn hơn hay nhỏ hơn. Về ý nghĩa, H^TN **càng gần 100% càng tốt**, nên 101,57 thực ra xa 100% hơn mức ngành.
+> 💡 ✅ Đáp án hệ thống. **Cách tính hiệu quả kinh doanh tiềm năng (H^TN):**
+> 1. Công thức: **H^TN (%) = CP^KD thực tế × 100 / CP^KD kế hoạch**. Ý nghĩa: chi phí thực tế bằng bao nhiêu % kế hoạch; **càng gần 100% càng tốt**.
+> 2. Bảng không cho chi phí thực tế nên suy ra: **CP thực tế = Doanh thu − Lợi nhuận ròng** = 15.750.000 − 1.275.000 = **14.475.000**.
+> 3. Thay số năm 2012: H^TN = 14.475.000 × 100 / 14.250.000 = 101,5789…
+> 4. **Cắt bỏ** (không làm tròn) còn 2 chữ số thập phân: **101,57%**.
+> 5. So với cột ngành (H^TN ngành = **101,5**): 101,57 > 101,5 → **cao hơn ngành**. ⚡ Câu này chỉ so số lớn hơn hay nhỏ hơn; về ý nghĩa thì H^TN càng gần 100% càng tốt.
 
 **Câu 186.** Khẳng định nào dưới đây là đúng? _(Hệ thống — lần 13 (bài luyện tập tổng hợp))_
 
@@ -1958,3 +1997,654 @@ Xét **hiệu quả kinh doanh tiềm năng** của doanh nghiệp **năm 2012**
 - **D. Quyết định mang tính chiến lược được xây dựng dựa trên kết quả phân tích các yếu tố MTKD chỉ trong quá khứ và hiện tại** ✅
 
 > 💡 ✅ Đáp án hệ thống. Quyết định chiến lược phải dựa trên phân tích **và dự báo** MTKD (cả **tương lai**), không "chỉ" quá khứ và hiện tại. ⚡ Hệ thống coi "hai nhóm nhân tố: cơ hội – nguy cơ và điểm mạnh – điểm yếu" là **đúng** (khác câu "hai nhóm là nhà cung cấp và khách hàng" bị chấm sai).
+
+## Trắc nghiệm hệ thống — lần 14 (LTTN 3, Bài 3)
+
+> Bài luyện tập 3 (tuần 3), đọc từ bản PDF chụp trang review. Các câu tính toán dùng **bảng số liệu doanh nghiệp bánh kẹo ở câu 183**. Đáp án theo phần "The correct answer is"; số trong lời giải đã kiểm tra bằng python.
+
+**Câu 189.** (Bảng số liệu doanh nghiệp bánh kẹo ở câu 183) Xét **doanh lợi vốn kinh doanh** của doanh nghiệp **năm 2012** là _(Hệ thống — lần 14 (LTTN 3))_
+
+- **A. Cao hơn ngành** ✅
+- B. Bằng của ngành
+- C. Thấp hơn ngành
+- D. Không có số liệu
+
+> 💡 ✅ Đáp án hệ thống. **Cách tính doanh lợi toàn bộ vốn kinh doanh (D^VKD):**
+> 1. Công thức: **D^VKD (%) = (Lợi nhuận ròng + Tiền trả lãi vốn vay) × 100 / Vốn kinh doanh**. Phải **cộng lãi vay** vì vốn kinh doanh gồm cả vốn vay; lãi vay là phần thu nhập trả cho vốn vay.
+> 2. Tiền trả lãi vốn vay lấy thẳng ở cột **"Tiền trả lãi vốn vay"**: **170.000**.
+> 3. Thay số năm 2012: D^VKD = (1.275.000 + 170.000) × 100 / 9.000.000 = 1.445.000 × 100 / 9.000.000 = 16,0556… → **16,05%**.
+> 4. ⚡ Nếu quên cộng lãi vay: 1.275.000 × 100 / 9.000.000 ≈ 14,17% → **sai** (phương án nhiễu hay gặp).
+> 5. So với cột ngành (D^VKD ngành = **15,0**): 16,05 > 15,0 → **cao hơn ngành**.
+> Phản hồi hệ thống ghi nhầm chữ "thấp hơn" nhưng đáp án là **cao hơn ngành**.
+
+**Câu 190.** (Bảng số liệu doanh nghiệp bánh kẹo ở câu 183) Xét **doanh lợi doanh thu bán hàng** của doanh nghiệp **năm 2010** là _(Hệ thống — lần 14 (LTTN 3))_
+
+- A. Cao hơn ngành
+- B. Bằng của ngành
+- **C. Thấp hơn ngành** ✅
+- D. Không có số liệu
+
+> 💡 ✅ Đáp án hệ thống. **Cách tính doanh lợi doanh thu bán hàng (D^TR):**
+> 1. Công thức: **D^TR (%) = Lợi nhuận ròng × 100 / Doanh thu**. Ý nghĩa: 100 đồng doanh thu tạo ra bao nhiêu đồng lợi nhuận ròng; chỉ so sánh **cùng ngành**.
+> 2. Lấy số năm 2010: lợi nhuận ròng **780.000**, doanh thu **13.450.000**.
+> 3. Thay số: D^TR = 780.000 × 100 / 13.450.000 = 5,7993… → **5,79%**.
+> 4. So với cột ngành (D^TR ngành = **6,0**): 5,79 < 6,0 → **thấp hơn ngành**.
+
+**Câu 191.** (Bảng số liệu doanh nghiệp bánh kẹo ở câu 183) Xét **doanh lợi vốn kinh doanh** của doanh nghiệp **năm 2009** là _(Hệ thống — lần 14 (LTTN 3))_
+
+- **A. Cao hơn ngành** ✅
+- B. Bằng của ngành
+- C. Thấp hơn ngành
+- D. Không có số liệu
+
+> 💡 ✅ Đáp án hệ thống. **Cách tính doanh lợi toàn bộ vốn kinh doanh (D^VKD):**
+> 1. Công thức: **D^VKD (%) = (Lợi nhuận ròng + Tiền trả lãi vốn vay) × 100 / Vốn kinh doanh**. Phải **cộng lãi vay** vì vốn kinh doanh gồm cả vốn vay; lãi vay là phần thu nhập trả cho vốn vay.
+> 2. Tiền trả lãi vốn vay lấy thẳng ở cột **"Tiền trả lãi vốn vay"**: **120.000**.
+> 3. Thay số năm 2009: D^VKD = (775.500 + 120.000) × 100 / 8.050.000 = 895.500 × 100 / 8.050.000 = 11,1242… → **11,12%**.
+> 4. ⚡ Nếu quên cộng lãi vay: 775.500 × 100 / 8.050.000 ≈ 9,63% → **sai** (phương án nhiễu hay gặp).
+> 5. So với cột ngành (D^VKD ngành = **9,1**): 11,12 > 9,1 → **cao hơn ngành**.
+
+**Câu 192.** Công thức để xác định **Sức sản xuất của vốn kinh doanh** là: _(Hệ thống — lần 14 (LTTN 3))_
+
+- A. DVKD (%) = ((ΠR + TLV) x 100)/VKD
+- **B. SSXVKD (%) = TR/VKD** ✅
+- C. DTR (%) = ΠR x 100/TR
+- D. HTN (%) = (CPKDTt x 100)/ CPKDKH
+
+> 💡 ✅ Đáp án hệ thống. Sức sản xuất vốn kinh doanh = **doanh thu bán hàng / toàn bộ vốn kinh doanh** (TR / V^KD). A là doanh lợi vốn kinh doanh, C là doanh lợi doanh thu, D là hiệu quả kinh doanh tiềm năng.
+
+**Câu 193.** (Bảng số liệu doanh nghiệp bánh kẹo ở câu 183) **Doanh lợi toàn bộ vốn kinh doanh năm 2009** là _(Hệ thống — lần 14 (LTTN 3))_
+
+- A. 10,53%
+- **B. 11,12%** ✅
+- C. 14,17%
+- D. 9,57%
+
+> 💡 ✅ Đáp án hệ thống. **Cách tính doanh lợi toàn bộ vốn kinh doanh (D^VKD):**
+> 1. Công thức: **D^VKD (%) = (Lợi nhuận ròng + Tiền trả lãi vốn vay) × 100 / Vốn kinh doanh**. Phải **cộng lãi vay** vì vốn kinh doanh gồm cả vốn vay; lãi vay là phần thu nhập trả cho vốn vay.
+> 2. Tiền trả lãi vốn vay lấy thẳng ở cột **"Tiền trả lãi vốn vay"**: **120.000**.
+> 3. Thay số năm 2009: D^VKD = (775.500 + 120.000) × 100 / 8.050.000 = 895.500 × 100 / 8.050.000 = 11,1242… → **11,12%**.
+> 4. ⚡ Nếu quên cộng lãi vay: 775.500 × 100 / 8.050.000 ≈ 9,63% → **sai** (phương án nhiễu hay gặp).
+> Các phương án nhiễu khác là doanh lợi không cộng lãi vay của năm khác: 10,53% (2011), 14,17% (2012), 9,57% (2010).
+
+**Câu 194.** (Bảng số liệu doanh nghiệp bánh kẹo ở câu 183) Xét **hiệu quả kinh doanh tiềm năng** của doanh nghiệp **năm 2010** là _(Hệ thống — lần 14 (LTTN 3))_
+
+- A. Bằng của ngành
+- B. Thấp hơn ngành
+- C. Không có số liệu
+- **D. Cao hơn ngành** ✅
+
+> 💡 ✅ Đáp án hệ thống. **Cách tính hiệu quả kinh doanh tiềm năng (H^TN):**
+> 1. Công thức: **H^TN (%) = CP^KD thực tế × 100 / CP^KD kế hoạch**. Ý nghĩa: chi phí thực tế bằng bao nhiêu % kế hoạch; **càng gần 100% càng tốt**.
+> 2. Bảng không cho chi phí thực tế nên suy ra: **CP thực tế = Doanh thu − Lợi nhuận ròng** = 13.450.000 − 780.000 = **12.670.000**.
+> 3. Thay số năm 2010: H^TN = 12.670.000 × 100 / 12.600.000 = 100,5556…
+> 4. **Cắt bỏ** (không làm tròn) còn 2 chữ số thập phân: **100,55%**.
+> 5. So với cột ngành (H^TN ngành = **100,5**): 100,55 > 100,5 → **cao hơn ngành**. ⚡ Câu này chỉ so số lớn hơn hay nhỏ hơn; về ý nghĩa thì H^TN càng gần 100% càng tốt.
+
+**Câu 195.** (Bảng số liệu doanh nghiệp bánh kẹo ở câu 183) Xét **doanh lợi vốn kinh doanh** của doanh nghiệp **năm 2010** là _(Hệ thống — lần 14 (LTTN 3))_
+
+- A. Thấp hơn ngành
+- B. Bằng của ngành
+- C. Không có số liệu
+- **D. Cao hơn ngành** ✅
+
+> 💡 ✅ Đáp án hệ thống. **Cách tính doanh lợi toàn bộ vốn kinh doanh (D^VKD):**
+> 1. Công thức: **D^VKD (%) = (Lợi nhuận ròng + Tiền trả lãi vốn vay) × 100 / Vốn kinh doanh**. Phải **cộng lãi vay** vì vốn kinh doanh gồm cả vốn vay; lãi vay là phần thu nhập trả cho vốn vay.
+> 2. Tiền trả lãi vốn vay lấy thẳng ở cột **"Tiền trả lãi vốn vay"**: **125.000**.
+> 3. Thay số năm 2010: D^VKD = (780.000 + 125.000) × 100 / 8.150.000 = 905.000 × 100 / 8.150.000 = 11,1043… → **11,10%**.
+> 4. ⚡ Nếu quên cộng lãi vay: 780.000 × 100 / 8.150.000 ≈ 9,57% → **sai** (phương án nhiễu hay gặp).
+> 5. So với cột ngành (D^VKD ngành = **9,75**): 11,10 > 9,75 → **cao hơn ngành**.
+
+**Câu 196.** Công thức xác định **Hệ số tận dụng công suất máy móc thiết bị** là: _(Hệ thống — lần 14 (LTTN 3))_
+
+- A. ΠBQVLĐ = ΠR/VLĐ
+- **B. HMMS = QTt/QTK** ✅
+- C. SSXVCĐ = TR/ VCĐ
+- D. ΠBQVCĐ = ΠR/VCĐ
+
+> 💡 ✅ Đáp án hệ thống. Hệ số tận dụng công suất máy móc = **sản lượng thực tế / sản lượng thiết kế** (Q_Tt / Q_TK). A là sức sinh lời vốn lưu động; C là sức sản xuất vốn cố định; D là sức sinh lời vốn cố định. ⚠️ Bài giảng không ghi chỉ tiêu này.
+
+**Câu 197.** (Bảng số liệu doanh nghiệp bánh kẹo ở câu 183) **Doanh lợi toàn bộ vốn kinh doanh năm 2012** (tính kiểu Việt Nam) là _(Hệ thống — lần 14 (LTTN 3))_
+
+- **A. 16,05%** ✅
+- B. 10,53%
+- C. 10,94%
+- D. 9,57%
+
+> 💡 ✅ Đáp án hệ thống. **Cách tính doanh lợi toàn bộ vốn kinh doanh (D^VKD):**
+> 1. Công thức: **D^VKD (%) = (Lợi nhuận ròng + Tiền trả lãi vốn vay) × 100 / Vốn kinh doanh**. Phải **cộng lãi vay** vì vốn kinh doanh gồm cả vốn vay; lãi vay là phần thu nhập trả cho vốn vay.
+> 2. Tiền trả lãi vốn vay lấy thẳng ở cột **"Tiền trả lãi vốn vay"**: **170.000**.
+> 3. Thay số năm 2012: D^VKD = (1.275.000 + 170.000) × 100 / 9.000.000 = 1.445.000 × 100 / 9.000.000 = 16,0556… → **16,05%**.
+> 4. ⚡ Nếu quên cộng lãi vay: 1.275.000 × 100 / 9.000.000 ≈ 14,17% → **sai** (phương án nhiễu hay gặp).
+> ⚡ Đề ghi "tính kiểu Việt Nam". Bài giảng nói thực tế DN nước ta **không** tính khoản trả lãi vốn vay, nhưng phản hồi hệ thống vẫn **cộng lãi vay**: (1.275.000 + 170.000) × 100 / 9.000.000 = **16,05%**.
+
+**Câu 198.** (Bảng số liệu doanh nghiệp bánh kẹo ở câu 183) Xét **doanh lợi doanh thu bán hàng** của doanh nghiệp **năm 2012** là _(Hệ thống — lần 14 (LTTN 3))_
+
+- **A. Thấp hơn ngành** ✅
+- B. Cao hơn ngành
+- C. Bằng của ngành
+- D. Không có số liệu
+
+> 💡 ✅ Đáp án hệ thống. **Cách tính doanh lợi doanh thu bán hàng (D^TR):**
+> 1. Công thức: **D^TR (%) = Lợi nhuận ròng × 100 / Doanh thu**. Ý nghĩa: 100 đồng doanh thu tạo ra bao nhiêu đồng lợi nhuận ròng; chỉ so sánh **cùng ngành**.
+> 2. Lấy số năm 2012: lợi nhuận ròng **1.275.000**, doanh thu **15.750.000**.
+> 3. Thay số: D^TR = 1.275.000 × 100 / 15.750.000 = 8,0952… → **8,09%**.
+> 4. So với cột ngành (D^TR ngành = **8,2**): 8,09 < 8,2 → **thấp hơn ngành**.
+> Phản hồi hệ thống làm tròn thành 8,1; kết luận không đổi.
+
+## Trắc nghiệm hệ thống — lần 15 (bài luyện tập tổng hợp 30 câu, làm lại ngày 12/10)
+
+> Bài "Luyện tập tổng hợp không tính điểm" (tuần 9) làm lại, đọc từ bản PDF chụp trang review. Câu tính toán dùng **bảng doanh nghiệp bánh kẹo ở câu 183**. Chỉ ghi các câu mới.
+
+**Câu 199.** (Bảng số liệu doanh nghiệp bánh kẹo ở câu 183) **Hiệu quả kinh doanh tiềm năng năm 2010** là _(Hệ thống — lần 15 (bài luyện tập tổng hợp))_
+
+- A. 100,37%
+- **B. 100,55%** ✅
+- C. 101,22%
+- D. 101,57%
+
+> 💡 ✅ Đáp án hệ thống. **Cách tính hiệu quả kinh doanh tiềm năng (H^TN):**
+> 1. Công thức: **H^TN (%) = CP^KD thực tế × 100 / CP^KD kế hoạch**. Ý nghĩa: chi phí thực tế bằng bao nhiêu % kế hoạch; **càng gần 100% càng tốt**.
+> 2. Bảng không cho chi phí thực tế nên suy ra: **CP thực tế = Doanh thu − Lợi nhuận ròng** = 13.450.000 − 780.000 = **12.670.000**.
+> 3. Thay số năm 2010: H^TN = 12.670.000 × 100 / 12.600.000 = 100,5556…
+> 4. **Cắt bỏ** (không làm tròn) còn 2 chữ số thập phân: **100,55%**.
+> Phản hồi hệ thống: (13.450.000 − 780.000) × 100 / 12.600.000 = 100,55. Các phương án nhiễu là H^TN của năm khác: 100,37% (2009), 101,22% (2011), 101,57% (2012).
+
+**Câu 200.** Những khẳng định nào dưới đây là chính xác? _(Hệ thống — lần 15 (bài luyện tập tổng hợp))_
+
+- **A. Hiệu quả kinh doanh phản ánh mặt chất lượng các hoạt động kinh doanh** ✅
+- B. Hiệu quả kinh doanh phản ánh mặt số lượng các hoạt động kinh doanh
+- C. Hiệu quả kinh doanh chính là lợi nhuận đạt được
+- D. Hiệu quả kinh doanh là các hoạt động phi lợi nhuận trong doanh nghiệp
+
+> 💡 ✅ Đáp án hệ thống. Hiệu quả kinh doanh phản ánh **mặt chất lượng**: thể hiện **trình độ lợi dụng các nguồn lực** để đạt mục tiêu, không phụ thuộc số lượng hoạt động hay chỉ là lợi nhuận. ⚡ "Chính là lợi nhuận" sai: lợi nhuận là **kết quả**.
+
+**Câu 201.** (Bảng số liệu doanh nghiệp bánh kẹo ở câu 183) Xét **doanh lợi vốn kinh doanh** của doanh nghiệp **năm 2011** là _(Hệ thống — lần 15 (bài luyện tập tổng hợp))_
+
+- **A. Cao hơn ngành** ✅
+- B. Bằng của ngành
+- C. Thấp hơn ngành
+- D. Không có số liệu
+
+> 💡 ✅ Đáp án hệ thống. **Cách tính doanh lợi toàn bộ vốn kinh doanh (D^VKD):**
+> 1. Công thức: **D^VKD (%) = (Lợi nhuận ròng + Tiền trả lãi vốn vay) × 100 / Vốn kinh doanh**. Phải **cộng lãi vay** vì vốn kinh doanh gồm cả vốn vay; lãi vay là phần thu nhập trả cho vốn vay.
+> 2. Tiền trả lãi vốn vay lấy thẳng ở cột **"Tiền trả lãi vốn vay"**: **140.000**.
+> 3. Thay số năm 2011: D^VKD = (895.000 + 140.000) × 100 / 8.500.000 = 1.035.000 × 100 / 8.500.000 = 12,1765… → **12,17%**.
+> 4. ⚡ Nếu quên cộng lãi vay: 895.000 × 100 / 8.500.000 ≈ 10,53% → **sai** (phương án nhiễu hay gặp).
+> 5. So với cột ngành (D^VKD ngành = **10,2**): 12,17 > 10,2 → **cao hơn ngành**.
+
+**Câu 202.** Khẳng định nào dưới đây là **sai**? _(Hệ thống — lần 15 (bài luyện tập tổng hợp))_
+
+- A. Tính phường hội thể hiện ở những người kinh doanh nhỏ liên kết, giúp đỡ nhau trong kinh doanh
+- **B. Các yếu tố thuộc môi trường kinh doanh luôn vận động nhưng không tương tác lẫn nhau** ✅
+- C. Phân tích môi trường kinh doanh là tìm ra điểm mạnh, điểm yếu, cũng như cơ hội và nguy cơ
+- D. MTKD biến động là do các nhân tố trong MTKD luôn thay đổi
+
+> 💡 ✅ Đáp án hệ thống. Các yếu tố MTKD **vận động tương tác lẫn nhau**. ⚡ Bẫy "không tương tác".
+
+**Câu 203.** (Bảng số liệu doanh nghiệp bánh kẹo ở câu 183) Chỉ tiêu **doanh lợi doanh thu bán hàng năm 2012** là _(Hệ thống — lần 15 (bài luyện tập tổng hợp))_
+
+- A. 6,20%
+- B. 5,80%
+- C. 6,51%
+- **D. 8,10%** ✅
+
+> 💡 ✅ Đáp án hệ thống. **Cách tính doanh lợi doanh thu bán hàng (D^TR):**
+> 1. Công thức: **D^TR (%) = Lợi nhuận ròng × 100 / Doanh thu**. Ý nghĩa: 100 đồng doanh thu tạo ra bao nhiêu đồng lợi nhuận ròng; chỉ so sánh **cùng ngành**.
+> 2. Lấy số năm 2012: lợi nhuận ròng **1.275.000**, doanh thu **15.750.000**.
+> 3. Thay số: D^TR = 1.275.000 × 100 / 15.750.000 = 8,0952… → **8,10%** (câu này hệ thống **làm tròn**, không cắt bỏ).
+> Phản hồi hệ thống: 1.275.000 × 100 / 15.750.000 = **8,10%**. Các phương án nhiễu là D^TR của năm khác: 6,20% (2009), 5,80% (2010), 6,51% (2011).
+
+**Câu 204.** Ở góc độ nào thì **hiệu quả là không lãng phí**? _(Hệ thống — lần 15 (bài luyện tập tổng hợp))_
+
+- A. Xét ở góc độ doanh nghiệp công ích
+- **B. Xét trên giác độ phân bổ các nguồn lực sản xuất xã hội** ✅
+- C. Xét trên giác độ quản trị kinh doanh
+- D. Xét trên giác độ quản lý xã hội
+
+> 💡 ✅ Đáp án hệ thống. Góc độ **kinh tế học vĩ mô (phân bổ nguồn lực sản xuất xã hội)**: hiệu quả là **không lãng phí**, tức khai thác nguồn lực triệt để, tiết kiệm; nguyên nhân là **sự khan hiếm nguồn lực**. Nền kinh tế hiệu quả nằm trên **giới hạn khả năng sản xuất**.
+
+**Câu 205.** (Bảng số liệu doanh nghiệp bánh kẹo ở câu 183) Xét **doanh lợi doanh thu bán hàng** của doanh nghiệp **năm 2009** là _(Hệ thống — lần 15 (bài luyện tập tổng hợp))_
+
+- A. Cao hơn ngành
+- **B. Bằng của ngành** ✅
+- C. Thấp hơn ngành
+- D. Không có số liệu
+
+> 💡 ✅ Đáp án hệ thống. **Cách tính doanh lợi doanh thu bán hàng (D^TR):**
+> 1. Công thức: **D^TR (%) = Lợi nhuận ròng × 100 / Doanh thu**. Ý nghĩa: 100 đồng doanh thu tạo ra bao nhiêu đồng lợi nhuận ròng; chỉ so sánh **cùng ngành**.
+> 2. Lấy số năm 2009: lợi nhuận ròng **775.500**, doanh thu **12.500.000**.
+> 3. Thay số: D^TR = 775.500 × 100 / 12.500.000 = 6,2040… → **6,20%**.
+> 4. So với cột ngành (D^TR ngành = **6,2**): 6,20 = 6,2 → **bằng ngành**.
+> ⚡ Phản hồi hệ thống: D^TR 2009 = **6,2**, **bằng** số liệu ngành **6,2** → "bằng của ngành". Đừng chọn "cao hơn" vì thấy 6,204 > 6,2.
+
+**Câu 206.** Công thức xác định **Sức sinh lời bình quân vốn dài hạn** là _(Hệ thống — lần 15 (bài luyện tập tổng hợp))_
+
+- **A. ΠBQVCĐ = ΠR/ VCĐ** ✅
+- B. SSXVCĐ = TR/ VCĐ
+- C. HMMS = QTt/QTK
+- D. ΠBQVLĐ = ΠR/ VLĐ
+
+> 💡 ✅ Đáp án hệ thống. Sức sinh lời bình quân vốn dài hạn = **lợi nhuận ròng / vốn cố định** (vốn cố định là vốn dài hạn). Phân biệt: **sức sinh lời** dùng **lợi nhuận** (Π_R), **sức sản xuất** dùng **doanh thu** (TR); VCĐ là vốn cố định (dài hạn), VLĐ là vốn lưu động (ngắn hạn).
+
+**Câu 207.** Khẳng định nào dưới đây là **không chính xác**? Nhà quản trị có phong cách **tổ chức** _(Hệ thống — lần 15 (bài luyện tập tổng hợp))_
+
+- A. Thiết lập các mối quan hệ ngôi thứ trên dưới đúng đắn
+- B. Rất thận trọng và luôn giữ một khoảng cách nhất định với nhân viên dưới quyền
+- **C. Nhà quản trị gắn với nhân viên dưới quyền thành một ê kíp làm việc** ✅
+- D. Trong quan hệ với bên ngoài, nhà quản trị luôn tìm hiểu kỹ và dự kiến các tình huống có thể xảy ra
+
+> 💡 ✅ Đáp án hệ thống. Phong cách **tổ chức**: quan hệ ngôi thứ đúng đắn, **thận trọng, giữ khoảng cách** với cấp dưới; với bên ngoài thì **tìm hiểu kỹ, dự kiến tình huống**. "Gắn với nhân viên thành ê kíp" không phải phong cách tổ chức.
+
+## Trắc nghiệm hệ thống — lần 16
+
+> Chỉ ghi các câu mới.
+
+
+
+## Trắc nghiệm hệ thống — lần 17 (bài luyện tập tổng hợp 30 câu, làm lại ngày 12/10 lúc 15h42)
+
+> Bài "Luyện tập tổng hợp không tính điểm" (tuần 9), đọc từ bản PDF chụp trang review. Câu tính toán dùng **bảng doanh nghiệp bánh kẹo ở câu 183**. Chỉ ghi các câu mới.
+
+**Câu 208.** Khẳng định nào dưới đây là chính xác? _(Hệ thống — lần 17 (bài luyện tập tổng hợp))_
+
+- A. Vì kết quả và chi phí đều rõ ràng nên hiệu quả kinh doanh là một phạm trù luôn đo lường được một cách dễ dàng
+- B. Lợi nhuận phản ánh hiệu quả kinh doanh của một doanh nghiệp trong một thời kỳ cụ thể
+- C. Trong cùng một thời kỳ doanh nghiệp nào tạo ra nhiều lợi nhuận hơn ắt đạt hiệu quả kinh doanh cao hơn doanh nghiệp khác cùng ngành
+- **D. Các chỉ tiêu hiệu quả kinh doanh tổng hợp đánh giá hiệu quả toàn doanh nghiệp** ✅
+
+> 💡 ✅ Đáp án hệ thống. Chỉ tiêu hiệu quả **tổng hợp** đánh giá mức độ hiệu quả **chung, trong phạm vi toàn doanh nghiệp**; chỉ tiêu **từng lĩnh vực** chỉ đánh giá từng lĩnh vực cụ thể. ⚡ A sai: hiệu quả **phức tạp, khó đánh giá** vì kết quả và hao phí đều khó xác định chính xác. B, C sai: lợi nhuận là **kết quả**, không phải hiệu quả.
+
+**Câu 209.** (Bảng số liệu doanh nghiệp bánh kẹo ở câu 183) **Doanh lợi toàn bộ vốn kinh doanh năm 2011** là _(Hệ thống — lần 17 (bài luyện tập tổng hợp))_
+
+- A. 10,94%
+- B. 9,57%
+- **C. 12,17%** ✅
+- D. 14,17%
+
+> 💡 ✅ Đáp án hệ thống. **Cách tính doanh lợi toàn bộ vốn kinh doanh (D^VKD):**
+> 1. Công thức: **D^VKD (%) = (Lợi nhuận ròng + Tiền trả lãi vốn vay) × 100 / Vốn kinh doanh**. Phải **cộng lãi vay** vì vốn kinh doanh gồm cả vốn vay; lãi vay là phần thu nhập trả cho vốn vay.
+> 2. Tiền trả lãi vốn vay lấy thẳng ở cột **"Tiền trả lãi vốn vay"**: **140.000**.
+> 3. Thay số năm 2011: D^VKD = (895.000 + 140.000) × 100 / 8.500.000 = 1.035.000 × 100 / 8.500.000 = 12,1765… → **12,17%**.
+> 4. ⚡ Nếu quên cộng lãi vay: 895.000 × 100 / 8.500.000 ≈ 10,53% → **sai** (phương án nhiễu hay gặp).
+> Phản hồi hệ thống ghi phép tính "(895000 + 140000)/ 8050000", tức chép nhầm vốn năm 2009; vốn năm 2011 là **8.500.000** mới ra 12,17%.
+
+**Câu 210.** Chỉ tiêu nào dưới đây **không phải** là chỉ tiêu hiệu quả kinh doanh **tổng hợp**? _(Hệ thống — lần 17 (bài luyện tập tổng hợp))_
+
+- A. Doanh lợi của toàn bộ vốn kinh doanh
+- B. Doanh lợi của vốn tự có.
+- C. Doanh lợi của doanh thu bán hàng
+- **D. Hiệu quả sử dụng vốn ngắn hạn của toàn doanh nghiệp** ✅
+
+> 💡 ✅ Đáp án hệ thống. Chỉ tiêu tổng hợp: doanh lợi **toàn bộ vốn kinh doanh**, doanh lợi **vốn tự có**, doanh lợi **doanh thu**, hiệu quả kinh doanh **tiềm năng**, sức sản xuất vốn kinh doanh. **Hiệu quả sử dụng vốn ngắn hạn (vốn lưu động)** là chỉ tiêu **từng lĩnh vực**.
+
+**Câu 211.** Công thức để xác định **doanh lợi vốn kinh doanh** là _(Hệ thống — lần 17 (bài luyện tập tổng hợp))_
+
+- A. DTR (%) = ΠR x 100/TR
+- B. HTN (%) = (CPKDTt x 100)/ CPKDKH
+- C. SSXVKD (%) = TR/VKD
+- **D. DVKD (%) = ((ΠR + TLV) x 100)/VKD** ✅
+
+> 💡 ✅ Đáp án hệ thống. Doanh lợi vốn kinh doanh = **(lãi ròng + tiền trả lãi vay) × 100 / toàn bộ vốn kinh doanh**. A là doanh lợi doanh thu, B là hiệu quả tiềm năng, C là sức sản xuất vốn kinh doanh.
+
+**Câu 212.** Khẳng định nào dưới đây là đúng? _(Hệ thống — lần 17 (bài luyện tập tổng hợp))_
+
+- A. Mọi xí nghiệp đều phấn đấu tối đa hoá lợi nhuận
+- B. Mọi doanh nghiệp đều có mục tiêu tối đa hoá lợi nhuận
+- C. Doanh nghiệp công ích có mục tiêu chủ yếu là tối đa hoá lợi nhuận
+- **D. Doanh nghiệp kinh doanh có mục tiêu chủ yếu là tối đa hoá lợi nhuận** ✅
+
+> 💡 ✅ Đáp án hệ thống. Phân loại theo **mục tiêu hoạt động chủ yếu**: **DN kinh doanh** tối đa hóa lợi nhuận (ròng); **DN công ích** tối đa hóa lợi ích xã hội. ⚡ "Mọi" doanh nghiệp, xí nghiệp đều sai.
+
+**Câu 213.** Mệnh đề nào dưới đây **không** giải đáp được câu hỏi thế nào là hiệu quả? _(Hệ thống — lần 17 (bài luyện tập tổng hợp))_
+
+- A. Hiệu quả kinh doanh được xác định bởi tỉ số giữa kết quả đạt được và chi phí phải bỏ ra để đạt được kết qủa đó
+- **B. Hiệu quả kinh doanh là đại lượng được xác định bởi sự chênh lệch giữa kết quả và chi phí** ✅
+- C. Hiệu quả kinh doanh là đại lượng phản ánh trình độ lợi dụng các nguồn lực để đạt được mục tiêu xác định
+- D. Hiệu quả kinh doanh được xác định. bằng cách lấy kết quả tính theo đơn vị giá trị chia cho chi phí kinh doanh
+
+> 💡 ✅ Đáp án hệ thống. Hiệu quả là **tỷ số** K / C, không phải **chênh lệch** kết quả − chi phí. Chênh lệch (như lợi nhuận) vẫn chỉ phản ánh **kết quả**, chưa phản ánh **chất lượng**, trình độ lợi dụng nguồn lực.
+
+**Câu 214.** Công thức xác định **Sức sản xuất của một đồng vốn dài hạn** là _(Hệ thống — lần 17 (bài luyện tập tổng hợp))_
+
+- A. ΠBQVCĐ = ΠR/VCĐ
+- **B. SSXVCĐ = TR/VCĐ** ✅
+- C. HMMS = QTt/QTK
+- D. ΠBQVLĐ = ΠR/VLĐ
+
+> 💡 ✅ Đáp án hệ thống. Sức **sản xuất** vốn dài hạn = **doanh thu / vốn cố định** (TR / V^CĐ). ⚡ Đừng nhầm với sức **sinh lời** vốn dài hạn = Π_R / V^CĐ.
+
+**Câu 215.** Khẳng định nào dưới đây là đúng? _(Hệ thống — lần 17 (bài luyện tập tổng hợp))_
+
+- **A. Môi trường luôn tiềm ẩn những tác động có tính rủi ro tới hoạt động kinh doanh** ✅
+- B. Nhận thức đúng hay sai về môi trường kinh doanh đều không ảnh hưởng đến việc ra quyết định quản trị
+- C. Dự báo môi trường kinh doanh là không cần thiết
+- D. Môi trường kinh doanh bất biến nên không cần phân tích và dự báo
+
+> 💡 ✅ Đáp án hệ thống. MTKD **bất ổn, biến động**, luôn tiềm ẩn **rủi ro** cho hoạt động kinh doanh; vì vậy phải **phân tích, dự báo**, và nhận thức đúng mới ra quyết định đúng. B, C, D đều sai.
+
+**Câu 216.** (Bảng số liệu doanh nghiệp bánh kẹo ở câu 183) **Doanh lợi doanh thu bán hàng năm 2009** là _(Hệ thống — lần 17 (bài luyện tập tổng hợp))_
+
+- **A. 6,20%** ✅
+- B. 5,80%
+- C. 6,51%
+- D. 8,10%
+
+> 💡 ✅ Đáp án hệ thống. **Cách tính doanh lợi doanh thu bán hàng (D^TR):**
+> 1. Công thức: **D^TR (%) = Lợi nhuận ròng × 100 / Doanh thu**. Ý nghĩa: 100 đồng doanh thu tạo ra bao nhiêu đồng lợi nhuận ròng; chỉ so sánh **cùng ngành**.
+> 2. Lấy số năm 2009: lợi nhuận ròng **775.500**, doanh thu **12.500.000**.
+> 3. Thay số: D^TR = 775.500 × 100 / 12.500.000 = 6,2040… → **6,20%**.
+> Các phương án nhiễu là D^TR của năm khác: 5,80% (2010), 6,51% (2011), 8,10% (2012).
+
+**Câu 217.** Khẳng định nào dưới đây là **sai**? _(Hệ thống — lần 17 (bài luyện tập tổng hợp))_
+
+- A. Nhận thức đúng hay sai về môi trường kinh doanh sẽ ảnh hưởng rất lớn đến việc ra quyết định quản trị
+- **B. Dự báo môi trường kinh doanh là không cần thiết** ✅
+- C. Nền kinh tế thị trường cạnh tranh là giữa người mua và giữa người bán có sự cạnh tranh
+- D. Các yếu tố thuộc môi trường kinh doanh luôn vận động và tương tác lẫn nhau
+
+> 💡 ✅ Đáp án hệ thống. Dự báo MTKD **cần thiết**: MTKD luôn biến động; phân tích và dự báo là cơ sở ra quyết định quản trị (đặc biệt quyết định chiến lược).
+
+**Câu 218.** (Bảng số liệu doanh nghiệp bánh kẹo ở câu 183) Xét **doanh lợi doanh thu bán hàng** của doanh nghiệp **năm 2011** là _(Hệ thống — lần 17 (bài luyện tập tổng hợp))_
+
+- A. Cao hơn ngành
+- B. Bằng của ngành
+- **C. Thấp hơn ngành** ✅
+- D. Không có số liệu
+
+> 💡 ✅ Đáp án hệ thống. **Cách tính doanh lợi doanh thu bán hàng (D^TR):**
+> 1. Công thức: **D^TR (%) = Lợi nhuận ròng × 100 / Doanh thu**. Ý nghĩa: 100 đồng doanh thu tạo ra bao nhiêu đồng lợi nhuận ròng; chỉ so sánh **cùng ngành**.
+> 2. Lấy số năm 2011: lợi nhuận ròng **895.000**, doanh thu **13.750.000**.
+> 3. Thay số: D^TR = 895.000 × 100 / 13.750.000 = 6,5091… → **6,50%**.
+> 4. So với cột ngành (D^TR ngành = **6,6**): 6,50 < 6,6 → **thấp hơn ngành**.
+> Phản hồi hệ thống: D^TR 2011 = 6,5; thấp hơn ngành 6,6.
+
+**Câu 219.** (Bảng số liệu doanh nghiệp bánh kẹo ở câu 183) Xét **hiệu quả kinh doanh tiềm năng** của doanh nghiệp **năm 2009** là _(Hệ thống — lần 17 (bài luyện tập tổng hợp))_
+
+- **A. Cao hơn ngành** ✅
+- B. Bằng của ngành
+- C. Thấp hơn ngành
+- D. Không có số liệu
+
+> 💡 ✅ Đáp án hệ thống. **Cách tính hiệu quả kinh doanh tiềm năng (H^TN):**
+> 1. Công thức: **H^TN (%) = CP^KD thực tế × 100 / CP^KD kế hoạch**. Ý nghĩa: chi phí thực tế bằng bao nhiêu % kế hoạch; **càng gần 100% càng tốt**.
+> 2. Bảng không cho chi phí thực tế nên suy ra: **CP thực tế = Doanh thu − Lợi nhuận ròng** = 12.500.000 − 775.500 = **11.724.500**.
+> 3. Thay số năm 2009: H^TN = 11.724.500 × 100 / 11.680.500 = 100,3767…
+> 4. **Cắt bỏ** (không làm tròn) còn 2 chữ số thập phân: **100,37%**.
+> 5. So với cột ngành (H^TN ngành = **100,3**): 100,37 > 100,3 → **cao hơn ngành**. ⚡ Câu này chỉ so số lớn hơn hay nhỏ hơn; về ý nghĩa thì H^TN càng gần 100% càng tốt.
+> Phản hồi hệ thống: H^TN 2009 = 100,37; cao hơn ngành 100,3.
+
+## Trắc nghiệm hệ thống — lần 18 (bài luyện tập tổng hợp 30 câu, ngày 12/10 lúc 15h52)
+
+> Bài "Luyện tập tổng hợp không tính điểm" (tuần 9), đọc từ bản PDF chụp trang review. Câu tính toán dùng **bảng doanh nghiệp bánh kẹo ở câu 183**. Chỉ ghi các câu mới.
+
+**Câu 220.** Công thức xác định Sức sinh lời của một đồng vốn ngắn hạn là _(Hệ thống — lần 18 (bài luyện tập tổng hợp))_
+
+- A. ΠBQVCĐ = ΠR/ VCĐ
+- B. SSXVCĐ = TR/ VCĐ
+- C. HMMS = QTt/QTK
+- **D. ΠBQVLĐ = ΠR/ VLĐ** ✅
+
+> 💡 ✅ Đáp án hệ thống. Sức **sinh lời** của một đồng vốn **ngắn hạn** = **lợi nhuận ròng / vốn lưu động bình quân** (Π_R / V^LĐ). Phản hồi hệ thống: tỉ số giữa lợi nhuận ròng với vốn ngắn hạn (vốn lưu động) bình quân. ⚡ A là sức sinh lời vốn **dài hạn** (Π_R / V^CĐ); B là sức **sản xuất** vốn dài hạn (TR / V^CĐ); C là hệ số tận dụng công suất máy móc. Ngắn hạn = **lưu động (LĐ)**, dài hạn = **cố định (CĐ)**.
+
+**Câu 221.** Khẳng định nào dưới đây là thiếu chính xác? _(Hệ thống — lần 18 (bài luyện tập tổng hợp))_
+
+- A. Một doanh nghiệp có chỉ tiêu doanh lợi liên tục tăng cũng chưa chắc có hiệu quả kinh doanh
+- B. Một doanh nghiệp liên tục có lãi ngày càng tăng cũng chưa chắc có hiệu quả kinh doanh
+- **C. Doanh nghiệp có lãi cao nhất trong ngành là doanh nghiệp có hiệu quả kinh doanh lớn nhất** ✅
+- D. Doanh nghiệp có lãi thấp hơn vẫn có thể có hiệu quả kinh doanh cao hơn doanh nghiệp có lãi nhiều hơn
+
+> 💡 ✅ Đáp án hệ thống. ⚡ Câu hỏi tìm câu **thiếu chính xác**. Lãi (lợi nhuận) chỉ là **kết quả**, không phản ánh **hiệu quả**; hiệu quả là **tỷ số** kết quả / chi phí. DN lãi cao nhất ngành có thể dùng nhiều nguồn lực hơn hẳn nên hiệu quả chưa chắc lớn nhất. A, B, D **chính xác**: lãi hay doanh lợi tăng theo thời gian vẫn có thể thấp hơn mốc ngành; DN lãi ít mà dùng ít nguồn lực vẫn có thể hiệu quả hơn.
+
+**Câu 222.** Công thức xác định Năng suất lao động bình quân là: _(Hệ thống — lần 18 (bài luyện tập tổng hợp))_
+
+- A. SSXVKD = TR/VKD
+- B. SSXCPKD = TR/CPKD
+- C. ΠBQLD = ΠR/LBQ
+- **D. NSBQLĐ = K/LBQ** ✅
+
+> 💡 ✅ Đáp án hệ thống. Năng suất lao động bình quân = **kết quả (K) / số lao động bình quân (L_BQ)**. Phản hồi hệ thống: tỉ số giữa kết quả tạo ra bởi lao động và số lao động bình quân. ⚡ C (Π_R / L_BQ) là **sức sinh lời bình quân của lao động** (dùng lợi nhuận, không phải kết quả); A là sức sản xuất vốn kinh doanh; B là sức sản xuất của chi phí kinh doanh.
+
+**Câu 223.** (Bảng số liệu doanh nghiệp bánh kẹo ở câu 183) Doanh lợi doanh thu bán hàng năm 2011 là _(Hệ thống — lần 18 (bài luyện tập tổng hợp))_
+
+- A. 6,20%
+- B. 5,80%
+- **C. 6,51%** ✅
+- D. 8,10%
+
+> 💡 ✅ Đáp án hệ thống. **Cách tính doanh lợi doanh thu bán hàng (D^TR):**
+> 1. Công thức: **D^TR (%) = Lợi nhuận ròng × 100 / Doanh thu**. Ý nghĩa: 100 đồng doanh thu tạo ra bao nhiêu đồng lợi nhuận ròng; chỉ so sánh **cùng ngành**.
+> 2. Lấy số năm 2011: lợi nhuận ròng **895.000**, doanh thu **13.750.000**.
+> 3. Thay số: D^TR = 895.000 × 100 / 13.750.000 = 6,5091… → **6,51%** (câu này hệ thống **làm tròn**, không cắt bỏ).
+> ⚡ Nếu **cắt bỏ** sẽ ra 6,50%, không có trong phương án; câu này hệ thống làm tròn lên **6,51%**. Phản hồi hệ thống ghi đúng phép tính 895.000 × 100 / 13.750.000.
+
+**Câu 224.** Trong các quan điểm dưới đây quan điểm nào đúng? Công ty TNHH: _(Hệ thống — lần 18 (bài luyện tập tổng hợp))_
+
+- A. Được phát hành cổ phiếu khi thiếu vốn
+- B. Thành viên phải chịu trách nhiệm bằng toàn bộ tài sản đối với các khoản nợ của công ty
+- **C. Được phép phát hành trái phiếu để tăng vốn kinh doanh** ✅
+- D. Tất cả các thành viên góp vốn được gọi là Hội đồng quản trị
+
+> 💡 ✅ Đáp án hệ thống. Công ty TNHH **được phát hành trái phiếu** để huy động vốn, nhưng **không được phát hành cổ phiếu** (A sai; chỉ công ty cổ phần phát hành cổ phiếu). B sai: thành viên công ty TNHH chịu trách nhiệm **hữu hạn**, trong phạm vi vốn góp. D sai: các thành viên hợp thành **Hội đồng thành viên**; Hội đồng quản trị là của **công ty cổ phần**. ⚠️ Bài giảng không ghi chi tiết; theo Luật Doanh nghiệp.
+
+**Câu 225.** Trong các quan điểm dưới đây quan điểm nào đúng? Doanh nghiệp tư nhân _(Hệ thống — lần 18 (bài luyện tập tổng hợp))_
+
+- A. Có thể phát hành cổ phiếu khi thiếu vốn
+- B. Được phép phát hành trái phiếu để tăng vốn kinh doanh
+- C. Gồm có thành viên hợp danh và thành viên góp vốn
+- **D. Chủ sở hữu phải chịu trách nhiệm về các khoản nợ của doanh nghiệp bằng toàn bộ tài sản của mình** ✅
+
+> 💡 ✅ Đáp án hệ thống. Chủ **DN tư nhân** chịu trách nhiệm **vô hạn**: bằng **toàn bộ tài sản của mình** về các khoản nợ của doanh nghiệp. A, B sai: DN tư nhân **không được phát hành bất kỳ loại chứng khoán nào** (cổ phiếu, trái phiếu). C sai: thành viên hợp danh và thành viên góp vốn là của **công ty hợp danh**. ⚠️ Bài giảng không ghi chi tiết; theo Luật Doanh nghiệp.
+
+**Câu 226.** (Bảng số liệu doanh nghiệp bánh kẹo ở câu 183) Hiệu quả kinh doanh tiềm năng năm 2009 là _(Hệ thống — lần 18 (bài luyện tập tổng hợp))_
+
+- **A. 100,37%** ✅
+- B. 100,55%
+- C. 101,22%
+- D. 101,57%
+
+> 💡 ✅ Đáp án hệ thống. **Cách tính hiệu quả kinh doanh tiềm năng (H^TN):**
+> 1. Công thức: **H^TN (%) = CP^KD thực tế × 100 / CP^KD kế hoạch**. Ý nghĩa: chi phí thực tế bằng bao nhiêu % kế hoạch; **càng gần 100% càng tốt**.
+> 2. Bảng không cho chi phí thực tế nên suy ra: **CP thực tế = Doanh thu − Lợi nhuận ròng** = 12.500.000 − 775.500 = **11.724.500**.
+> 3. Thay số năm 2009: H^TN = 11.724.500 × 100 / 11.680.500 = 100,3767…
+> 4. **Cắt bỏ** (không làm tròn) còn 2 chữ số thập phân: **100,37%**.
+> ⚡ Phương án nhiễu là kết quả các năm khác: 100,55% (2010), 101,22% (2011), 101,57% (2012). Phản hồi hệ thống ghi đúng phép tính (12.500.000 − 775.500) × 100 / 11.680.500.
+
+**Câu 227.** (Bảng số liệu doanh nghiệp bánh kẹo ở câu 183) Doanh lợi doanh thu bán hàng năm 2010 là _(Hệ thống — lần 18 (bài luyện tập tổng hợp))_
+
+- A. 6,20%
+- **B. 5,80%** ✅
+- C. 6,51%
+- D. 8,10%
+
+> 💡 ✅ Đáp án hệ thống. **Cách tính doanh lợi doanh thu bán hàng (D^TR):**
+> 1. Công thức: **D^TR (%) = Lợi nhuận ròng × 100 / Doanh thu**. Ý nghĩa: 100 đồng doanh thu tạo ra bao nhiêu đồng lợi nhuận ròng; chỉ so sánh **cùng ngành**.
+> 2. Lấy số năm 2010: lợi nhuận ròng **780.000**, doanh thu **13.450.000**.
+> 3. Thay số: D^TR = 780.000 × 100 / 13.450.000 = 5,7993… → **5,80%** (câu này hệ thống **làm tròn**, không cắt bỏ).
+> ⚡ Nếu **cắt bỏ** sẽ ra 5,79%, không có trong phương án; câu này hệ thống làm tròn lên **5,80%**. Phản hồi hệ thống ghi đúng phép tính 780.000 × 100 / 13.450.000. Phương án nhiễu 6,20% là D^TR **ngành** năm 2009, 6,51% là D^TR năm 2011.
+
+**Câu 228.** Người chịu trách nhiệm quản trị toàn bộ tổ chức, quyết định các chiến lược, các chính sách và thiết lập mối quan hệ giữa tổ chức với môi trường bên ngoài là _(Hệ thống — lần 18 (bài luyện tập tổng hợp))_
+
+- A. Nhà quản trị cấp trung gian
+- B. Nhà quản trị cấp cơ sở
+- **C. Nhà quản trị cấp cao** ✅
+- D. Nhân viên thuộc cấp
+
+> 💡 ✅ Đáp án hệ thống. Nhà quản trị **cấp cao** chịu trách nhiệm quản trị **toàn bộ tổ chức**: quyết định **chiến lược, chính sách**, thiết lập quan hệ giữa tổ chức với **môi trường bên ngoài**. Cấp **trung gian** là cầu nối, triển khai chiến lược thành kế hoạch và chỉ đạo cấp cơ sở; cấp **cơ sở** điều hành trực tiếp người lao động. Phản hồi hệ thống dẫn giáo trình trang 55, tiểu mục 1.1 "Nhà quản trị".
+
+## Trắc nghiệm hệ thống — lần 19 (bài luyện tập tổng hợp 30 câu, ngày 12/10 lúc 16h37)
+
+> Bài "Luyện tập tổng hợp không tính điểm" (tuần 9), đọc từ bản PDF chụp trang review. Câu tính toán dùng **bảng doanh nghiệp bánh kẹo ở câu 183**. Chỉ ghi các câu mới.
+
+**Câu 229.** Khẳng định nào dưới đây là chính xác? _(Hệ thống — lần 19 (bài luyện tập tổng hợp))_
+
+- A. Hiệu quả kinh doanh, hiệu quả kinh tế và hiệu quả xã hội giống nhau ở chỗ cùng được phản ánh bởi các chỉ tiêu như nhau
+- B. Đã đạt được hiệu quả kinh doanh thì phải đạt được hiệu quả kinh tế và hiệu quả xã hội
+- **C. Đạt được hiệu quả kinh doanh nhưng chưa chắc đạt được hiệu quả kinh tế và hiệu quả xã hộ** ✅
+- D. Doanh nghiệp chỉ cần quan tâm đến hiệu quả kinh doanh mà không cần quan tâm đến hiệu quả xã hội
+
+> 💡 ✅ Đáp án hệ thống. Hiệu quả kinh doanh (của DN, mục tiêu lợi nhuận), hiệu quả kinh tế (vĩ mô) và hiệu quả xã hội (mục tiêu xã hội) là **các phạm trù khác nhau**, phản ánh bằng **chỉ tiêu khác nhau**. DN đạt hiệu quả kinh doanh **chưa chắc** đạt hiệu quả kinh tế, xã hội (ví dụ có lãi nhưng gây ô nhiễm). Phản hồi hệ thống: DN thường quan tâm hiệu quả kinh doanh của mình mà ít quan tâm hiệu quả kinh tế và xã hội. ⚡ A sai (chỉ tiêu khác nhau), B sai ("phải đạt"), D sai (vẫn phải quan tâm hiệu quả xã hội).
+
+**Câu 230.** (Bảng số liệu doanh nghiệp bánh kẹo ở câu 183) Xét hiệu quả kinh doanh tiềm năng của doanh nghiệp năm 2011 là _(Hệ thống — lần 19 (bài luyện tập tổng hợp))_
+
+- A. Cao hơn ngành
+- B. Bằng của ngành
+- **C. Thấp hơn ngành** ✅
+- D. Không có số liệu
+
+> 💡 ✅ Đáp án hệ thống. **Cách tính hiệu quả kinh doanh tiềm năng (H^TN):**
+> 1. Công thức: **H^TN (%) = CP^KD thực tế × 100 / CP^KD kế hoạch**. Ý nghĩa: chi phí thực tế bằng bao nhiêu % kế hoạch; **càng gần 100% càng tốt**.
+> 2. Bảng không cho chi phí thực tế nên suy ra: **CP thực tế = Doanh thu − Lợi nhuận ròng** = 13.750.000 − 895.000 = **12.855.000**.
+> 3. Thay số năm 2011: H^TN = 12.855.000 × 100 / 12.700.000 = 101,2205…
+> 4. **Cắt bỏ** (không làm tròn) còn 2 chữ số thập phân: **101,22%**.
+> 5. So với cột ngành (H^TN ngành = **101,3**): 101,22 < 101,3 → **thấp hơn ngành**. ⚡ Câu này chỉ so số lớn hơn hay nhỏ hơn; về ý nghĩa thì H^TN càng gần 100% càng tốt.
+> Phản hồi hệ thống ghi H^TN năm 2011 là 101,2, thấp hơn ngành 101,3.
+
+**Câu 231.** Khẳng định nào dưới đây là thiếu chính xác? Nhà quản trị có phong cách thực tế _(Hệ thống — lần 19 (bài luyện tập tổng hợp))_
+
+- A. Quan hệ với cấp dưới trên cơ sở lòng tin và sự tôn trọng
+- B. Thường xuyên tiếp xúc với cấp dưới, gây ảnh hưởng đến cấp dưới
+- **C. Tự ra quyết định không cần tham khảo ý kiến cấp dưới** ✅
+- D. Chú ý đến điều kiện và tạo điều kiện để cấp dưới trực tiếp thực hiện
+
+> 💡 ✅ Đáp án hệ thống. Phong cách **thực tế** (bài giảng): quan hệ cấp trên – cấp dưới dựa trên **lòng tin và tôn trọng**; **thường xuyên tiếp cận** cấp dưới; **luôn tham khảo ý kiến cấp dưới** và tạo điều kiện để cấp dưới hoàn thành nhiệm vụ; bất đồng thì **chủ động thương lượng**. → "Tự ra quyết định không cần tham khảo ý kiến cấp dưới" là **thiếu chính xác** (đó là kiểu tập trung chỉ huy, độc đoán). Thái quá → phong cách **cơ hội**.
+
+**Câu 232.** Khẳng định nào dưới đây thiếu căn cứ khoa học? _(Hệ thống — lần 19 (bài luyện tập tổng hợp))_
+
+- A. Phải đánh giá hiệu quả kinh doanh ngắn hạn theo quan điểm hiệu quả dài hạn
+- **B. Chỉ cần đánh giá hiệu quả kinh doanh từng thời kỳ mà không cần quan tâm đến hiệu quả kinh doanh của các thời kỳ khác** ✅
+- C. Hiệu quả kinh doanh là một phạm trù phức tạp, việc đánh giá hiệu quả kinh doanh là không đơn giản
+- D. Hiệu quả kinh doanh bao gồm cả hiệu quả lĩnh vực và bộ phận
+
+> 💡 ✅ Đáp án hệ thống. ⚡ Câu hỏi tìm câu **thiếu căn cứ khoa học**. Mọi DN cần đạt **hiệu quả kinh doanh dài hạn**, nên phải đánh giá hiệu quả từng thời kỳ **gắn với các thời kỳ khác** (phản hồi hệ thống). A, C, D đều đúng: đánh giá ngắn hạn theo quan điểm dài hạn; hiệu quả là phạm trù phức tạp, khó đánh giá; hiệu quả kinh doanh gồm cả hiệu quả từng lĩnh vực, bộ phận.
+
+**Câu 233.** Chỉ tiêu nào dưới đây không phản ánh hiệu quả kinh doanh Tổng hợp của doanh nghiệp? _(Hệ thống — lần 19 (bài luyện tập tổng hợp))_
+
+- A. Doanh lợi của toàn bộ vốn kinh doanh
+- B. Doanh lợi của vốn tự có
+- C. Doanh lợi của doanh thu bán hàng
+- **D. Hiệu quả sử dụng vốn dài hạn** ✅
+
+> 💡 ✅ Đáp án hệ thống. Chỉ tiêu tổng hợp: doanh lợi **toàn bộ vốn kinh doanh**, doanh lợi **vốn tự có**, doanh lợi **doanh thu**, hiệu quả kinh doanh **tiềm năng**. **Hiệu quả sử dụng vốn dài hạn (vốn cố định)** chỉ phản ánh **một lĩnh vực** (sử dụng vốn, tài sản dài hạn) nên là chỉ tiêu **từng lĩnh vực**. Cùng dạng câu hỏi về vốn ngắn hạn ở chủ đề này.
+
+**Câu 234.** (Bảng số liệu doanh nghiệp bánh kẹo ở câu 183) Doanh lợi toàn bộ vốn kinh doanh năm 2010 là _(Hệ thống — lần 19 (bài luyện tập tổng hợp))_
+
+- A. 10,94%
+- **B. 11,10%** ✅
+- C. 10,53%
+- D. 14,17%
+
+> 💡 ✅ Đáp án hệ thống. **Cách tính doanh lợi toàn bộ vốn kinh doanh (D^VKD):**
+> 1. Công thức: **D^VKD (%) = (Lợi nhuận ròng + Tiền trả lãi vốn vay) × 100 / Vốn kinh doanh**. Phải **cộng lãi vay** vì vốn kinh doanh gồm cả vốn vay; lãi vay là phần thu nhập trả cho vốn vay.
+> 2. Tiền trả lãi vốn vay lấy thẳng ở cột **"Tiền trả lãi vốn vay"**: **125.000**.
+> 3. Thay số năm 2010: D^VKD = (780.000 + 125.000) × 100 / 8.150.000 = 905.000 × 100 / 8.150.000 = 11,1043… → **11,10%**.
+> 4. ⚡ Nếu quên cộng lãi vay: 780.000 × 100 / 8.150.000 ≈ 9,57% → **sai** (phương án nhiễu hay gặp).
+> Phản hồi hệ thống ghi đúng phép tính (780.000 + 125.000) / 8.150.000. Phương án nhiễu 10,53% và 14,17% là lợi nhuận ròng / vốn kinh doanh của năm 2011 và 2012 (**quên cộng lãi vay** và lấy sai năm).
+
+**Câu 235.** Khẳng định nào dưới đây là thiếu chính xác? Phong cách quản trị _(Hệ thống — lần 19 (bài luyện tập tổng hợp))_
+
+- A. Là tổng thể các phương thức ứng xử ổn định của chủ thể quản trị trong quá trình thực hiện các chức năng quản trị của mình
+- B. Là kết quả của mối quan hệ giữa các nhà quản trị và các sự kiện diễn ra trong môi trường kinh doanh
+- C. Chịu ảnh hưởng của khí chất và nhân cách của mỗi nhà quản trị
+- **D. Ổn định vì tính cách của người trưởng thành rất ít thay đổi** ✅
+
+> 💡 ✅ Đáp án hệ thống. ⚡ **Bẫy:** câu cũ cùng dạng (câu 134) có phương án "**Không thay đổi** vì tính cách của người trưởng thành rất ít thay đổi"; câu này đổi thành "**Ổn định** vì tính cách…" mà hệ thống **vẫn chấm là thiếu chính xác**. Bài giảng: phong cách là phương thức ứng xử **mang tính ổn định**, biểu hiện **cá tính** NQT **trong môi trường cụ thể**, chịu ảnh hưởng của khí chất, nhân cách và môi trường; NQT phải **lựa chọn hoặc thích nghi** phong cách. Cái sai là **lý do** "vì tính cách người trưởng thành ít thay đổi". A, B, C là nguyên văn khái niệm và yếu tố ảnh hưởng. → Gặp phương án "…vì tính cách của người trưởng thành rất ít thay đổi" thì chọn là câu **thiếu chính xác**.
+
+**Câu 236.** (Bảng số liệu doanh nghiệp bánh kẹo ở câu 183) Hiệu quả kinh doanh tiềm năng năm 2011 là _(Hệ thống — lần 19 (bài luyện tập tổng hợp))_
+
+- A. 100,37%
+- B. 100,55%
+- **C. 101,22%** ✅
+- D. 101,57%
+
+> 💡 ✅ Đáp án hệ thống. **Cách tính hiệu quả kinh doanh tiềm năng (H^TN):**
+> 1. Công thức: **H^TN (%) = CP^KD thực tế × 100 / CP^KD kế hoạch**. Ý nghĩa: chi phí thực tế bằng bao nhiêu % kế hoạch; **càng gần 100% càng tốt**.
+> 2. Bảng không cho chi phí thực tế nên suy ra: **CP thực tế = Doanh thu − Lợi nhuận ròng** = 13.750.000 − 895.000 = **12.855.000**.
+> 3. Thay số năm 2011: H^TN = 12.855.000 × 100 / 12.700.000 = 101,2205…
+> 4. **Cắt bỏ** (không làm tròn) còn 2 chữ số thập phân: **101,22%**.
+> Phản hồi hệ thống ghi đúng phép tính (13.750.000 − 895.000) × 100 / 12.700.000. Phương án nhiễu là kết quả các năm khác: 100,37% (2009), 100,55% (2010), 101,57% (2012).
+
+**Câu 237.** Trong các quan điểm dưới đây quan điểm nào đúng? _(Hệ thống — lần 19 (bài luyện tập tổng hợp))_
+
+- **A. Công ty cổ phần có thể phát hành cổ phiếu khi thiếu vốn** ✅
+- B. Thành viên công ty cổ phần phải chịu trách nhiệm về các khoản nợ của công ty bằng toàn bộ tài sản của mình
+- C. Cổ phần phổ thông không thể chuyển đổi thành cổ phần ưu đãi
+- D. Cổ đông sáng lập phải mua hết tối thiểu 25% cổ phần phổ thông được quyền chào bán
+
+> 💡 ✅ Đáp án hệ thống. Công ty cổ phần **được phát hành cổ phiếu** (và trái phiếu) để huy động vốn; đây là đặc điểm riêng của loại hình này. B sai: cổ đông chịu trách nhiệm **hữu hạn**, trong phạm vi vốn đã góp. D sai: Luật Doanh nghiệp 2020 quy định cổ đông sáng lập phải cùng đăng ký mua ít nhất **20%** (không phải 25%) cổ phần phổ thông được quyền chào bán. ⚠️ C ("cổ phần phổ thông không thể chuyển đổi thành cổ phần ưu đãi") **cũng đúng theo Luật Doanh nghiệp 2020**, nhưng hệ thống chỉ chấm A; bài giảng không ghi chi tiết này.
+
+**Câu 238.** Khẳng định nào dưới đây thiếu chính xác? _(Hệ thống — lần 19 (bài luyện tập tổng hợp))_
+
+- A. Các thông tin kinh tế có ảnh hưởng tới hiệu quả kinh doanh của doanh nghiệp
+- B. Hiệu quả kinh doanh chịu ảnh hưởng của quan điểm tính toán kinh tế
+- C. Hiệu quả kinh doanh phụ thuộc vào quan điểm xác định các tiêu chuẩn hiệu quả
+- **D. Hiệu quả kinh doanh chịu ảnh hưởng mang tính quyết định của yếu tố cơ sở hạ tầng** ✅
+
+> 💡 ✅ Đáp án hệ thống. ⚡ Câu hỏi tìm câu **thiếu chính xác**. **Cơ sở hạ tầng** là nhân tố **bên ngoài**, có ảnh hưởng đến hiệu quả kinh doanh nhưng **không mang tính quyết định** (phản hồi hệ thống). A, B, C đúng: hệ thống thông tin, **tính toán kinh tế** và quan điểm xác định **tiêu chuẩn hiệu quả** đều ảnh hưởng đến hiệu quả kinh doanh.
+
+**Câu 239.** Khẳng định nào dưới đây là sai? _(Hệ thống — lần 19 (bài luyện tập tổng hợp))_
+
+- A. Môi trường luôn tiềm ẩn những tác động có tính rủi ro tới hoạt động kinh doanh
+- B. Nhận thức đúng hay sai về môi trường kinh doanh sẽ ảnh hưởng rất lớn đến việc ra
+- C. Môi trường kinh doanh ngày càng bất ổn
+- **D. Cần phải tác động để biến thách thức thành cơ hội** ✅
+
+> 💡 ✅ Đáp án hệ thống. ⚡ **Bẫy:** "Cần phải tác động để biến thách thức thành cơ hội" bị hệ thống chấm là **sai**; cũng phương án này **không bao giờ** được chấm đúng ở các câu "khẳng định đúng" (câu 100, 106). Lý do theo bài giảng: thách thức và cơ hội thuộc môi trường **bên ngoài**, DN **không tác động thay đổi** được mà phải **nhận thức, dự báo để thích ứng**, tận dụng cơ hội, hạn chế thách thức. A, B, C đúng: môi trường luôn tiềm ẩn rủi ro; nhận thức đúng hay sai về MTKD ảnh hưởng lớn đến việc ra quyết định; MTKD ngày càng bất ổn.
+
+**Câu 240.** Công thức xác định Số vòng luân chuyển nguyên vật liệu là: _(Hệ thống — lần 19 (bài luyện tập tổng hợp))_
+
+- **A. SVNVL = CPKDNVL/NVLDT** ✅
+- B. SVNVLSPDD = ZHHCB/NVLDT
+- C. SVVLĐ = TR/VLĐ
+- D. ΠBQVLĐ = ΠR/VLĐ
+
+> 💡 ✅ Đáp án hệ thống. Số vòng luân chuyển **nguyên vật liệu** = **chi phí kinh doanh sử dụng NVL trong kỳ / giá trị NVL dự trữ** (SV^NVL = CP^KD_NVL / NVL_DT); càng lớn càng tốt. ⚡ B là số vòng luân chuyển NVL **trong sản phẩm dở dang** (giá thành hàng hóa đã chế biến / NVL dự trữ); C là số vòng luân chuyển **vốn lưu động** (TR / V^LĐ); D là sức sinh lời vốn lưu động (Π_R / V^LĐ).
+
+## Trắc nghiệm hệ thống — lần 20 (bài luyện tập tổng hợp 30 câu, ngày 12/10 lúc 16h53)
+
+> Bài "Luyện tập tổng hợp không tính điểm" (tuần 9), đọc từ bản PDF chụp trang review. Câu tính toán dùng **bảng doanh nghiệp bánh kẹo ở câu 183**. Chỉ ghi các câu mới.
+
+**Câu 241.** Chỉ tiêu nào dưới đây không phải là chỉ tiêu hiệu quả kinh doanh bộ phận _(Hệ thống — lần 20 (bài luyện tập tổng hợp))_
+
+- **A. Doanh lợi của vốn tự có** ✅
+- B. Số vòng luân chuyển vốn ngắn hạn trong năm
+- C. Năng suất lao động bình quân năm
+- D. Lợi nhuận ròng do một đồng vốn ngắn hạn mang lại
+
+> 💡 ✅ Đáp án hệ thống. Chỉ tiêu hiệu quả **bộ phận (từng lĩnh vực)**: số vòng luân chuyển vốn ngắn hạn (vốn lưu động), **năng suất lao động** bình quân, lợi nhuận ròng do một đồng vốn ngắn hạn mang lại (sức sinh lời vốn lưu động)… **Doanh lợi vốn tự có** là chỉ tiêu **tổng hợp** (phản hồi hệ thống). ⚡ Câu ngược với dạng "chỉ tiêu nào không phải tổng hợp" (đáp án là hiệu quả sử dụng vốn ngắn hạn hoặc dài hạn).
+
+**Câu 242.** Công thức xác định Sức sinh lợi bình quân một lao động là: _(Hệ thống — lần 20 (bài luyện tập tổng hợp))_
+
+- A. SSXVKD = TR/VKD
+- B. SSXCPKD = TR/CPKD
+- **C. ΠBQLD = ΠR/LBQ** ✅
+- D. NSBQLĐ = K/LBQ
+
+> 💡 ✅ Đáp án hệ thống. Sức **sinh lợi** bình quân một lao động = **lợi nhuận ròng / số lao động bình quân** (Π_BQLĐ = Π_R / L_BQ). ⚡ Cùng bộ phương án với câu hỏi năng suất lao động bình quân: **năng suất** dùng **kết quả** (K / L_BQ), **sức sinh lợi** dùng **lợi nhuận ròng** (Π_R / L_BQ). A là sức sản xuất vốn kinh doanh, B là sức sản xuất chi phí kinh doanh.
+
+**Câu 243.** Công thức để xác định doanh lợi doanh thu bán hàng là: _(Hệ thống — lần 20 (bài luyện tập tổng hợp))_
+
+- **A. DTR (%) = ΠR x 100/TR** ✅
+- B. HTN (%) = (CPKDTt x 100)/ CPKDKH
+- C. SSXVKD (%) = TR/VKD
+- D. DVKD (%) = ((ΠR + TLV) x 100)/VKD
+
+> 💡 ✅ Đáp án hệ thống. Doanh lợi doanh thu bán hàng = **lợi nhuận ròng × 100 / doanh thu** (D^TR = Π_R × 100 / TR). B là hiệu quả kinh doanh tiềm năng, C là sức sản xuất vốn kinh doanh, D là doanh lợi toàn bộ vốn kinh doanh (cộng lãi vay). Cùng bộ 4 công thức có 3 cách hỏi: D^TR (A), sức sản xuất vốn kinh doanh (C), doanh lợi vốn kinh doanh (D).
+
+**Câu 244.** Trong các quan điểm dưới đây quan điểm nào đúng? _(Hệ thống — lần 20 (bài luyện tập tổng hợp))_
+
+- **A. Thành viên công ty TNHH chỉ chịu trách nhiệm về các khoản nợ của công ty trong phạm vi số vốn mà họ đóng góp** ✅
+- B. Thành viên công ty TNHH phải chịu trách nhiệm về các khoản nợ của công ty bằng toàn bộ tài sản của mình
+- C. Công ty TNHH được phép phát hành cổ phiếu để tăng vốn kinh doanh
+- D. Doanh nghiệp tư nhân được phép phát hành trái phiếu để tăng vốn kinh doanh
+
+> 💡 ✅ Đáp án hệ thống. Thành viên công ty TNHH chịu trách nhiệm **hữu hạn**: chỉ trong **phạm vi số vốn đã góp**. B sai (toàn bộ tài sản là trách nhiệm **vô hạn**, của chủ DN tư nhân và thành viên hợp danh). C sai: công ty TNHH **không được phát hành cổ phiếu** (chỉ phát hành trái phiếu). D sai: DN tư nhân **không được phát hành bất kỳ loại chứng khoán nào**.
+
+**Câu 245.** Trong các quan điểm dưới đây quan điểm nào đúng? Công ty cổ phần _(Hệ thống — lần 20 (bài luyện tập tổng hợp))_
+
+- A. Không được phát hành cổ phiếu khi thiếu vốn
+- B. Các cổ đông phải chịu trách nhiệm về các khoản nợ của công ty bằng toàn bộ tài sản của mình
+- **C. Được phép phát hành trái phiếu để tăng vốn kinh doanh** ✅
+- D. Tất cả các thành viên góp vốn được gọi là Hội đồng quản trị
+
+> 💡 ✅ Đáp án hệ thống. Công ty cổ phần **được phát hành trái phiếu** (và cổ phiếu) để tăng vốn kinh doanh. A sai: công ty cổ phần **được** phát hành cổ phiếu. B sai: cổ đông chịu trách nhiệm **hữu hạn**, trong phạm vi vốn góp. D sai: tất cả cổ đông hợp thành **Đại hội đồng cổ đông**; **Hội đồng quản trị** do Đại hội đồng cổ đông bầu ra. ⚠️ Bài giảng không ghi chi tiết; theo Luật Doanh nghiệp.
