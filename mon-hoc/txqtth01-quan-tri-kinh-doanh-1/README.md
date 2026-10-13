@@ -114,7 +114,7 @@
 2. **Luyện bài tập Bài 3** đến khi tính nhanh, đúng 3 công thức H^TN, D^TR, D^VKD.
 3. **Thuộc 171 câu trắc nghiệm hệ thống**, nhất là các câu ⚡ (bảng bẫy trong [cach-hoc-thuoc.md](cach-hoc-thuoc.md)).
 4. Bài 5 (phong cách, nghệ thuật) có nhiều câu hệ thống nhất: thuộc bảng 6 phong cách.
-5. Đã nạp 21 lần làm trên hệ thống, đủ LTTN cả 6 bài và 7 lượt bài luyện tập tổng hợp tuần 9. LTTN đã hết câu mới (lần 16: 0 câu mới); bài tổng hợp cũng đã hết (lần 18: 9/30, lần 19: 12/30, lần 20: 5/30, **lần 21: 0/30**). Kho câu hệ thống coi như đã gom đủ, chuyển sang học thuộc.
+5. Đã nạp 22 lần làm trên hệ thống, đủ LTTN cả 6 bài và 8 lượt bài luyện tập tổng hợp tuần 9. LTTN đã hết câu mới (lần 16: 0 câu mới); bài tổng hợp cũng đã hết (lần 18: 9/30, lần 19: 12/30, lần 20: 5/30, **lần 21 và 22: 0/30**). Kho câu hệ thống coi như đã gom đủ, chuyển sang học thuộc.
 
 ## Kế hoạch ôn
 
