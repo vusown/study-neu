@@ -10,6 +10,8 @@ Tổng hợp tài liệu, đề cương, ngân hàng câu hỏi và phương ph�
 | [Nhập môn Internet và E-learning](mon-hoc/txict01-nhap-mon-internet-va-elearning/README.md) (TXICT01) | 05/07 | 3 | 🟡 | [📄](mon-hoc/txict01-nhap-mon-internet-va-elearning/de-cuong.md) | [❓](mon-hoc/txict01-nhap-mon-internet-va-elearning/ngan-hang-theo-chu-de.md) | |
 | [Kỹ năng quản trị](mon-hoc/txqtkd116-ky-nang-quan-tri/README.md) (TXQTKD116) | 06/09 | 3 | 🟡 | [📄](mon-hoc/txqtkd116-ky-nang-quan-tri/de-cuong.md) | [❓](mon-hoc/txqtkd116-ky-nang-quan-tri/ngan-hang-theo-chu-de.md) | |
 | [Quản trị kinh doanh 1](mon-hoc/txqtth01-quan-tri-kinh-doanh-1/README.md) (TXQTTH01) | 06/09 | 3 | 🟡 | [📄](mon-hoc/txqtth01-quan-tri-kinh-doanh-1/de-cuong.md) | [❓](mon-hoc/txqtth01-quan-tri-kinh-doanh-1/ngan-hang-theo-chu-de.md) | |
+| [Kinh tế vĩ mô 1](mon-hoc/txkhma01-kinh-te-vi-mo-1/README.md) (TXKHMA01) | 06/09 | 3 | 🟡 | [📄](mon-hoc/txkhma01-kinh-te-vi-mo-1/de-cuong.md) | [❓](mon-hoc/txkhma01-kinh-te-vi-mo-1/ngan-hang-theo-chu-de.md) | |
+| [Toán cho các nhà kinh tế](mon-hoc/tocb1110-toan-cho-cac-nha-kinh-te/README.md) (TOCB1110) | 06/09 | 3 | 🟡 | [📄](mon-hoc/tocb1110-toan-cho-cac-nha-kinh-te/de-cuong.md) | [❓](mon-hoc/tocb1110-toan-cho-cac-nha-kinh-te/ngan-hang-theo-chu-de.md) | |
 
 Học kỳ: ghi theo **mã học kỳ** của trường (VD `05/07`). Một năm có 4 học kỳ, không theo chu kỳ cố định.
 Trạng thái: 🟢 đã xong · 🟡 đang học · ⚪ chưa học
