@@ -1,26 +1,26 @@
 # Ngân hàng câu hỏi theo chủ đề — Kinh tế chính trị Mác-Lênin
 
-> Gồm đúng 162 câu trong [ngan-hang-cau-hoi.md](ngan-hang-cau-hoi.md), nhưng **gom theo bài và chủ đề** để học các câu giống nhau cùng lúc.
+> Gồm đúng 170 câu trong [ngan-hang-cau-hoi.md](ngan-hang-cau-hoi.md), nhưng **gom theo bài và chủ đề** để học các câu giống nhau cùng lúc.
 > - Mỗi chủ đề mở đầu bằng 🔑 **Ghi nhớ**: thuộc dòng này là trả lời được cả nhóm câu.
 > - _(câu N)_ là số câu trong file ngân hàng gốc. ⚡ là câu có bẫy, ❌ là câu từng làm sai.
 > - Cách học và thứ tự ưu tiên: [cach-hoc-thuoc.md](cach-hoc-thuoc.md). Kiến thức nền: [de-cuong.md](de-cuong.md).
 
 ## Mục lục
 
-- [Bài 1 — Đối tượng, phương pháp nghiên cứu và chức năng của KTCT Mác-Lênin](#bài-1--đối-tượng-phương-pháp-nghiên-cứu-và-chức-năng-của-ktct-mác-lênin) — 21 câu
-- [Bài 2 — Hàng hóa, thị trường và vai trò của các chủ thể tham gia thị trường](#bài-2--hàng-hóa-thị-trường-và-vai-trò-của-các-chủ-thể-tham-gia-thị-trường) — 24 câu
-- [Bài 3 — Giá trị thặng dư trong nền kinh tế thị trường](#bài-3--giá-trị-thặng-dư-trong-nền-kinh-tế-thị-trường) — 36 câu
-- [Bài 4 — Cạnh tranh và độc quyền trong nền kinh tế thị trường](#bài-4--cạnh-tranh-và-độc-quyền-trong-nền-kinh-tế-thị-trường) — 29 câu
-- [Bài 5 — Kinh tế thị trường định hướng XHCN và các quan hệ lợi ích kinh tế ở Việt Nam](#bài-5--kinh-tế-thị-trường-định-hướng-xhcn-và-các-quan-hệ-lợi-ích-kinh-tế-ở-việt-nam) — 28 câu
-- [Bài 6 — Công nghiệp hóa, hiện đại hóa và hội nhập kinh tế quốc tế ở Việt Nam](#bài-6--công-nghiệp-hóa-hiện-đại-hóa-và-hội-nhập-kinh-tế-quốc-tế-ở-việt-nam) — 24 câu
+- [Bài 1 — Đối tượng, phương pháp nghiên cứu và chức năng của KTCT Mác-Lênin](#bài-1--đối-tượng-phương-pháp-nghiên-cứu-và-chức-năng-của-ktct-mác-lênin) — 22 câu
+- [Bài 2 — Hàng hóa, thị trường và vai trò của các chủ thể tham gia thị trường](#bài-2--hàng-hóa-thị-trường-và-vai-trò-của-các-chủ-thể-tham-gia-thị-trường) — 26 câu
+- [Bài 3 — Giá trị thặng dư trong nền kinh tế thị trường](#bài-3--giá-trị-thặng-dư-trong-nền-kinh-tế-thị-trường) — 37 câu
+- [Bài 4 — Cạnh tranh và độc quyền trong nền kinh tế thị trường](#bài-4--cạnh-tranh-và-độc-quyền-trong-nền-kinh-tế-thị-trường) — 30 câu
+- [Bài 5 — Kinh tế thị trường định hướng XHCN và các quan hệ lợi ích kinh tế ở Việt Nam](#bài-5--kinh-tế-thị-trường-định-hướng-xhcn-và-các-quan-hệ-lợi-ích-kinh-tế-ở-việt-nam) — 30 câu
+- [Bài 6 — Công nghiệp hóa, hiện đại hóa và hội nhập kinh tế quốc tế ở Việt Nam](#bài-6--công-nghiệp-hóa-hiện-đại-hóa-và-hội-nhập-kinh-tế-quốc-tế-ở-việt-nam) — 25 câu
 
 ---
 
 ## Bài 1 — Đối tượng, phương pháp nghiên cứu và chức năng của KTCT Mác-Lênin
 
-### 1.1. Lịch sử hình thành và phát triển của KTCT Mác-Lênin (16 câu)
+### 1.1. Lịch sử hình thành và phát triển của KTCT Mác-Lênin (17 câu)
 
-> 🔑 **Ghi nhớ:** KTCT Mác-Lênin kế thừa trực tiếp 3 nguồn: **triết học cổ điển Đức, KTCT cổ điển Anh (A.Smith, D.Ricardo), CNXH không tưởng Pháp**. KTCT cổ điển Anh hình thành cuối TK XVIII – đầu TK XIX. Tác phẩm cô đọng nhất lý luận KTCT của Mác-Ăngghen: **Bộ Tư bản**. Phát hiện quan trọng nhất của C.Mác (vượt D.Ricardo): **tính hai mặt của lao động sản xuất hàng hóa** (lao động cụ thể và lao động trừu tượng). V.I.Lênin (sau khi Mác-Ăngghen mất) nghiên cứu: đặc điểm kinh tế của độc quyền, độc quyền nhà nước, và KTCT thời kỳ quá độ lên CNXH. Thuật ngữ "kinh tế chính trị" xuất hiện năm **1615** trong tác phẩm "Chuyên luận về kinh tế chính trị" của **Montchretien**. Chủ nghĩa trọng thương dành trọng tâm nghiên cứu vào **lĩnh vực lưu thông** và cho rằng **lợi nhuận sinh ra trong trao đổi** (không phải sản xuất); đây cũng là **hệ thống lý luận kinh tế đầu tiên nghiên cứu về phương thức sản xuất TBCN**. Chủ nghĩa trọng nông hướng vào **lĩnh vực sản xuất nông nghiệp**. **Học thuyết giá trị thặng dư** là cơ sở khoa học luận chứng về vai trò lịch sử (ra đời, phát triển, diệt vong tất yếu) của phương thức sản xuất TBCN.
+> 🔑 **Ghi nhớ:** KTCT Mác-Lênin kế thừa trực tiếp 3 nguồn: **triết học cổ điển Đức, KTCT cổ điển Anh (A.Smith, D.Ricardo), CNXH không tưởng Pháp**. KTCT cổ điển Anh hình thành cuối TK XVIII – đầu TK XIX. Tác phẩm cô đọng nhất lý luận KTCT của Mác-Ăngghen: **Bộ Tư bản**. Phát hiện quan trọng nhất của C.Mác (vượt D.Ricardo): **tính hai mặt của lao động sản xuất hàng hóa** (lao động cụ thể và lao động trừu tượng). V.I.Lênin (sau khi Mác-Ăngghen mất) nghiên cứu: đặc điểm kinh tế của độc quyền, độc quyền nhà nước, và KTCT thời kỳ quá độ lên CNXH. Thuật ngữ "kinh tế chính trị" xuất hiện năm **1615** trong tác phẩm "Chuyên luận về kinh tế chính trị" của **Montchretien**. Chủ nghĩa trọng thương dành trọng tâm nghiên cứu vào **lĩnh vực lưu thông** và cho rằng **lợi nhuận sinh ra trong trao đổi** (không phải sản xuất); đây cũng là **hệ thống lý luận kinh tế đầu tiên nghiên cứu về phương thức sản xuất TBCN**. Chủ nghĩa trọng nông hướng vào **lĩnh vực sản xuất nông nghiệp**. **Học thuyết giá trị thặng dư** là cơ sở khoa học luận chứng về vai trò lịch sử (ra đời, phát triển, diệt vong tất yếu) của phương thức sản xuất TBCN. Lý luận KTCT của C.Mác kế thừa trực tiếp những thành quả lý luận khoa học của **D.Ricardo** (đại biểu cuối cùng, xuất sắc nhất của KTCT cổ điển Anh).
 
 **Câu 1.** _(câu 1)_ Lý luận kinh tế chính trị của C.Mác và Ăngghen được thể hiện tập trung và cô đọng nhất trong tác phẩm nào dưới đây? _(Hệ thống — LTTN 1)_
 
@@ -166,6 +166,15 @@
 
 > 💡 ✅ Đáp án hệ thống. Tham khảo: GT tr 8, mục I.1 khái quát sự hình thành và phát triển của KTCT Mác-Lênin.
 
+**Câu 17.** _(câu 167)_ Lý luận kinh tế chính trị của Mác là sự kế thừa trực tiếp những thành quả lý luận khoa học của nhà kinh tế học nào? _(Hệ thống — LTTN 18)_
+
+- A. W.Petty
+- B. A.Smith
+- **C. D.Ricardo** ✅
+- D. F.Quesnay
+
+> 💡 ✅ Đáp án hệ thống. Tham khảo: GT tr 10, mục I.1 khái quát sự hình thành và phát triển của KTCT Mác-Lênin.
+
 ### 1.2. Đối tượng, mục đích nghiên cứu của KTCT Mác-Lênin (5 câu)
 
 > 🔑 **Ghi nhớ:** Đối tượng nghiên cứu của KTCT Mác-Lênin: **các quan hệ sản xuất và trao đổi trong một phương thức sản xuất nhất định**, đặt trong mối liên hệ với cả **lực lượng sản xuất và kiến trúc thượng tầng**. Mục đích nghiên cứu: vừa **phát hiện quy luật chi phối quan hệ giữa người với người trong sản xuất, trao đổi**, vừa **cung cấp cơ sở khoa học góp phần thúc đẩy văn minh và phát triển xã hội**. Phương pháp nghiên cứu **đặc thù** của KTCT Mác-Lênin là **phương pháp trừu tượng hóa khoa học** (khác với phép biện chứng duy vật hay kết hợp logic-lịch sử, vốn là phương pháp chung).
@@ -219,9 +228,9 @@
 
 ## Bài 2 — Hàng hóa, thị trường và vai trò của các chủ thể tham gia thị trường
 
-### 2.1. Sản xuất hàng hóa và hai thuộc tính của hàng hóa (13 câu)
+### 2.1. Sản xuất hàng hóa và hai thuộc tính của hàng hóa (14 câu)
 
-> 🔑 **Ghi nhớ:** Hàng hoá có 2 thuộc tính (giá trị sử dụng, giá trị) là do **tính hai mặt của lao động sản xuất hàng hoá**: lao động cụ thể tạo giá trị sử dụng, lao động trừu tượng tạo giá trị. Trao đổi hàng hoá thực chất là **trao đổi lao động**. Tăng **cường độ lao động** → lượng lao động hao phí trong một đơn vị thời gian **tăng**. Tăng **năng suất lao động** là do **thay đổi cách thức lao động hợp lý hơn** (không phải do tăng cường độ hay kéo dài thời gian). Thời gian lao động xã hội cần thiết trong công nghiệp xác định theo **điều kiện sản xuất trung bình**. Phân công lao động **xã hội** là phân chia thành các **ngành, nghề** (công nghiệp, nông nghiệp...), khác với phân công cá biệt (nội bộ xí nghiệp) hay theo giới tính/độ tuổi. Giá trị hàng hoá chỉ tồn tại **trong nền sản xuất hàng hoá** (không có trong sản xuất tự cung tự cấp hay mọi nền sản xuất nói chung). **Lao động phức tạp** = lao động đã qua huấn luyện, đào tạo, thành thạo. Hình thái giá trị giản đơn và hình thái giá trị mở rộng **giống nhau** ở chỗ đều là **trao đổi trực tiếp H-H**. **Lượng giá trị** hàng hoá được đo/xác định bằng **thời gian lao động xã hội cần thiết** (quy về lao động giản đơn trung bình) — không phải thời gian của từng người hay từng ngành riêng lẻ. **Mâu thuẫn cơ bản** của sản xuất hàng hoá giản đơn: **lao động tư nhân và lao động xã hội** (người sản xuất tự quyết định khi sản xuất, nhưng khi trao đổi lại phải theo hao phí lao động xã hội). **Hình thái giá trị chung** KHÔNG phải là "tiền đề cho sự ra đời của CNTB" (đây là phương án sai hay gặp) — nó chỉ là nấc thang trước khi hình thành hình thái tiền tệ, có hạn chế là mỗi vùng một vật ngang giá riêng nên cần thống nhất khi trao đổi mở rộng.
+> 🔑 **Ghi nhớ:** Hàng hoá có 2 thuộc tính (giá trị sử dụng, giá trị) là do **tính hai mặt của lao động sản xuất hàng hoá**: lao động cụ thể tạo giá trị sử dụng, lao động trừu tượng tạo giá trị. Trao đổi hàng hoá thực chất là **trao đổi lao động**. Tăng **cường độ lao động** → lượng lao động hao phí trong một đơn vị thời gian **tăng**. Tăng **năng suất lao động** là do **thay đổi cách thức lao động hợp lý hơn** (không phải do tăng cường độ hay kéo dài thời gian). Thời gian lao động xã hội cần thiết trong công nghiệp xác định theo **điều kiện sản xuất trung bình**. Phân công lao động **xã hội** là phân chia thành các **ngành, nghề** (công nghiệp, nông nghiệp...), khác với phân công cá biệt (nội bộ xí nghiệp) hay theo giới tính/độ tuổi. Giá trị hàng hoá chỉ tồn tại **trong nền sản xuất hàng hoá** (không có trong sản xuất tự cung tự cấp hay mọi nền sản xuất nói chung). **Lao động phức tạp** = lao động đã qua huấn luyện, đào tạo, thành thạo. Hình thái giá trị giản đơn và hình thái giá trị mở rộng **giống nhau** ở chỗ đều là **trao đổi trực tiếp H-H**. ⚠️ Câu "Khi năng suất lao động tăng thì..." — đáp án hệ thống ghi "giá trị một đơn vị sản phẩm **không đổi**", dù phần giải thích của chính hệ thống lại lập luận ra "giảm" (mâu thuẫn trong dữ liệu nguồn); ghi theo đáp án hệ thống khi gặp lại câu này. **Lượng giá trị** hàng hoá được đo/xác định bằng **thời gian lao động xã hội cần thiết** (quy về lao động giản đơn trung bình) — không phải thời gian của từng người hay từng ngành riêng lẻ. **Mâu thuẫn cơ bản** của sản xuất hàng hoá giản đơn: **lao động tư nhân và lao động xã hội** (người sản xuất tự quyết định khi sản xuất, nhưng khi trao đổi lại phải theo hao phí lao động xã hội). **Hình thái giá trị chung** KHÔNG phải là "tiền đề cho sự ra đời của CNTB" (đây là phương án sai hay gặp) — nó chỉ là nấc thang trước khi hình thành hình thái tiền tệ, có hạn chế là mỗi vùng một vật ngang giá riêng nên cần thống nhất khi trao đổi mở rộng.
 
 **Câu 1.** _(câu 11)_ Trao đổi giữa hai hàng hóa với nhau thực chất là: _(Hệ thống — LTTN 2)_
 
@@ -341,9 +350,18 @@
 
 > 💡 ✅ Đáp án hệ thống. Hình thái giá trị chung là nấc thang trước khi hình thành hình thái tiền tệ, không phải tiền đề ra đời của chủ nghĩa tư bản. (Tham khảo: mục 2.1.3)
 
-### 2.2. Tiền tệ, quy luật lưu thông tiền tệ và quy luật giá trị (11 câu)
+**Câu 14.** _(câu 164)_ Khi năng suất lao động tăng thì: _(Hệ thống — LTTN 18)_
 
-> 🔑 **Ghi nhớ:** Lượng tiền cần thiết trong lưu thông phụ thuộc **cả 3**: lượng hàng hoá lưu thông, giá cả hàng hoá, tốc độ lưu thông của tiền — và **tỷ lệ nghịch** với tốc độ lưu thông của tiền. Quy luật giá trị tác động: **điều tiết sản xuất và lưu thông**, **kích thích cải tiến kỹ thuật tăng năng suất**, và **phân hoá giàu nghèo** (cả 3 đều đúng). Bản chất của tiền: **hàng hoá đặc biệt đóng vai trò vật ngang giá chung**, tách ra từ thế giới hàng hoá để đo giá trị các hàng hoá khác — **nguồn gốc của tiền** là do nhu cầu của sản xuất và trao đổi. Tiền làm **phương tiện thanh toán** dùng để **trả nợ, nộp thuế** (khác với phương tiện mua hàng, đo lường giá trị, hay dự trữ giá trị). Khi cung cầu không đổi các yếu tố khác, giá cả **vận động xoay quanh giá trị**. Nhân tố làm giá cả tách rời giá trị: **cung cầu hàng hoá, sức mua của tiền, và cạnh tranh** (cả 3). Nội dung (yêu cầu) của **quy luật giá trị**: sản xuất và trao đổi phải tiến hành trên cơ sở **hao phí lao động xã hội cần thiết** (không phải "giá cả bằng giá trị" — đó chỉ là trường hợp lý tưởng, không phải nội dung quy luật). Tác động của **quy luật giá trị**: điều tiết sản xuất và lưu thông hàng hoá, kích thích cải tiến kỹ thuật/tăng năng suất, thực hiện lựa chọn tự nhiên và phân hoá giàu nghèo — **cả 3**.
+- **A. Giá trị một đơn vị sản phẩm không đổi** ✅
+- B. Giá trị một đơn vị sản phẩm tăng
+- C. Giá trị một đơn vị sản phẩm giảm
+- D. Giá trị tạo ra trong một đơn vị sản không giảm.
+
+> 💡 ✅ Đáp án hệ thống. ⚠️ Đáp án hệ thống ghi là "không đổi", nhưng chính phần giải thích của hệ thống lại lập luận: "khi tăng NSLĐ thì số lượng sản phẩm sản xuất ra tăng lên, hao phí lao động không thay đổi nên giá trị tạo ra một đơn vị sản phẩm giảm" — mâu thuẫn với đáp án đã chọn. Theo quy ước đáp án hệ thống luôn thắng nên ghi phương án A, nhưng lưu ý mâu thuẫn này khi ôn tập. (Tham khảo: mục 2.1.2)
+
+### 2.2. Tiền tệ, quy luật lưu thông tiền tệ và quy luật giá trị (12 câu)
+
+> 🔑 **Ghi nhớ:** Lượng tiền cần thiết trong lưu thông phụ thuộc **cả 3**: lượng hàng hoá lưu thông, giá cả hàng hoá, tốc độ lưu thông của tiền — và **tỷ lệ nghịch** với tốc độ lưu thông của tiền. Quy luật giá trị tác động: **điều tiết sản xuất và lưu thông**, **kích thích cải tiến kỹ thuật tăng năng suất**, và **phân hoá giàu nghèo** (cả 3 đều đúng). Bản chất của tiền: **hàng hoá đặc biệt đóng vai trò vật ngang giá chung**, tách ra từ thế giới hàng hoá để đo giá trị các hàng hoá khác — **nguồn gốc của tiền** là do nhu cầu của sản xuất và trao đổi. Tiền làm **phương tiện thanh toán** dùng để **trả nợ, nộp thuế** (khác với phương tiện mua hàng, đo lường giá trị, hay dự trữ giá trị). Khi cung cầu không đổi các yếu tố khác, giá cả **vận động xoay quanh giá trị**. Nhân tố làm giá cả tách rời giá trị: **cung cầu hàng hoá, sức mua của tiền, và cạnh tranh** (cả 3). Nội dung (yêu cầu) của **quy luật giá trị**: sản xuất và trao đổi phải tiến hành trên cơ sở **hao phí lao động xã hội cần thiết** (không phải "giá cả bằng giá trị" — đó chỉ là trường hợp lý tưởng, không phải nội dung quy luật). Tác động của **quy luật giá trị**: điều tiết sản xuất và lưu thông hàng hoá, kích thích cải tiến kỹ thuật/tăng năng suất, thực hiện lựa chọn tự nhiên và phân hoá giàu nghèo — **cả 3**. Chức năng **thước đo giá trị** của tiền dùng để **đo lường giá trị của các hàng hóa** (khác chức năng phương tiện lưu thông/mua hàng, phương tiện thanh toán dùng trả nợ-nộp thuế, hay phương tiện cất trữ).
 
 **Câu 1.** _(câu 14)_ Lượng tiền cần thiết trong lưu thông phụ thuộc vào: _(Hệ thống — LTTN 2)_
 
@@ -444,13 +462,22 @@
 
 > 💡 ✅ Đáp án hệ thống. Tham khảo: mục 2.2.1.3 Giáo trình.
 
+**Câu 12.** _(câu 168)_ Chức năng thước đo giá trị của tiền dùng để _(Hệ thống — LTTN 18)_
+
+- **A. Đo lường giá trị của các hàng hóa** ✅
+- B. Phương tiện mua hàng
+- C. Trả nợ
+- D. Nộp thuế
+
+> 💡 ✅ Đáp án hệ thống. Căn cứ vào chức năng của tiền. (Tham khảo: mục 2.1.3)
+
 ---
 
 ## Bài 3 — Giá trị thặng dư trong nền kinh tế thị trường
 
-### 3.1. Hàng hóa sức lao động và sản xuất giá trị thặng dư (22 câu)
+### 3.1. Hàng hóa sức lao động và sản xuất giá trị thặng dư (23 câu)
 
-> 🔑 **Ghi nhớ:** Sức lao động (khả năng lao động) **là hàng hoá**; lao động (sự vận dụng sức lao động trong hiện thực) **không phải là hàng hoá**. Hàng hoá sức lao động chỉ trở nên **phổ biến** trong **nền sản xuất hàng hoá tư bản chủ nghĩa** (người lao động mất hết tư liệu sản xuất nhưng tự do thân thể). Lao động quá khứ = lao động vật hoá = giá trị cũ (cùng nghĩa), khác với **giá trị mới**. Phương pháp sản xuất giá trị thặng dư **tuyệt đối**: độ dài ngày lao động **lớn hơn thời gian lao động cần thiết**. Tư bản **không** sinh ra trong lưu thông xét trên phạm vi toàn xã hội (mua bán thông thường không tạo giá trị tăng thêm). Mục đích lưu thông của tư bản là **giá trị, hơn nữa là giá trị tăng thêm** (công thức tuần hoàn tư bản tiền tệ: **T-H-SX-H'-T'**). Căn cứ phân chia tư bản **cố định/lưu động** là **phương thức chu chuyển về mặt giá trị** của từng bộ phận tư bản (không phải quy mô hay tốc độ vận động). Tỷ suất giá trị thặng dư phản ánh **trình độ bóc lột** của nhà tư bản với công nhân làm thuê (không phải quy mô bóc lột — đó là khối lượng GTTD). GTTD được tạo ra **trong quá trình sản xuất** (không phải lưu thông). Trong phương pháp sản xuất GTTD **tuyệt đối**, **năng suất lao động không đổi** (chỉ tăng cường độ/kéo dài ngày lao động) — "năng suất lao động thay đổi" là luận điểm **sai** nếu gán cho phương pháp tuyệt đối (đó là đặc trưng của GTTD tương đối). Tuần hoàn tư bản công nghiệp 3 giai đoạn: **giai đoạn 1 và 3 ở lĩnh vực lưu thông** (mua TLSX+SLĐ; bán hàng hóa), **giai đoạn 2 ở lĩnh vực sản xuất**. **Tư bản khả biến** khi trao đổi với hàng hóa sức lao động chính là **nguồn gốc của giá trị thặng dư**. Đánh giá tiền công cao/thấp chính xác phải dựa vào **tiền công tính theo giờ** (không phải ngày/tuần/tháng). Giá trị hàng hóa sức lao động và hàng hóa thông thường đều được xác định bằng **thời gian lao động xã hội cần thiết**. Điểm **khác nhau** giữa GTTD siêu ngạch và GTTD tương đối: chỉ GTTD siêu ngạch mới là **động lực trực tiếp** của từng nhà tư bản (GTTD tương đối là động lực chung của toàn giai cấp tư sản). Công thức lưu thông **hàng hóa giản đơn** là **H-T-H** (khác T-H-T' là công thức lưu thông của tư bản). Mục đích lưu thông **hàng hóa giản đơn** là **giá trị sử dụng** (bán hàng lấy tiền để mua hàng mình cần) — khác với mục đích lưu thông **của tư bản** là **giá trị tăng thêm**. Đặc điểm việc mua bán hàng hóa sức lao động: mua bán chịu, giá cả **nhỏ hơn giá trị** (do cung sức lao động thường lớn hơn cầu), người lao động ứng trước lao động cho nhà tư bản — **"giá cả lớn hơn giá trị" là phương án sai** (không thuộc đặc điểm này).
+> 🔑 **Ghi nhớ:** Sức lao động (khả năng lao động) **là hàng hoá**; lao động (sự vận dụng sức lao động trong hiện thực) **không phải là hàng hoá**. Hàng hoá sức lao động chỉ trở nên **phổ biến** trong **nền sản xuất hàng hoá tư bản chủ nghĩa** (người lao động mất hết tư liệu sản xuất nhưng tự do thân thể). Lao động quá khứ = lao động vật hoá = giá trị cũ (cùng nghĩa), khác với **giá trị mới**. Phương pháp sản xuất giá trị thặng dư **tuyệt đối**: độ dài ngày lao động **lớn hơn thời gian lao động cần thiết**. Tư bản **không** sinh ra trong lưu thông xét trên phạm vi toàn xã hội (mua bán thông thường không tạo giá trị tăng thêm). Mục đích lưu thông của tư bản là **giá trị, hơn nữa là giá trị tăng thêm** (công thức tuần hoàn tư bản tiền tệ: **T-H-SX-H'-T'**). Căn cứ phân chia tư bản **cố định/lưu động** là **phương thức chu chuyển về mặt giá trị** của từng bộ phận tư bản (không phải quy mô hay tốc độ vận động). Tỷ suất giá trị thặng dư phản ánh **trình độ bóc lột** của nhà tư bản với công nhân làm thuê (không phải quy mô bóc lột — đó là khối lượng GTTD). GTTD được tạo ra **trong quá trình sản xuất** (không phải lưu thông). Trong phương pháp sản xuất GTTD **tuyệt đối**, **năng suất lao động không đổi** (chỉ tăng cường độ/kéo dài ngày lao động) — "năng suất lao động thay đổi" là luận điểm **sai** nếu gán cho phương pháp tuyệt đối (đó là đặc trưng của GTTD tương đối). Tuần hoàn tư bản công nghiệp 3 giai đoạn: **giai đoạn 1 và 3 ở lĩnh vực lưu thông** (mua TLSX+SLĐ; bán hàng hóa), **giai đoạn 2 ở lĩnh vực sản xuất**. **Tư bản khả biến** khi trao đổi với hàng hóa sức lao động chính là **nguồn gốc của giá trị thặng dư**. Đánh giá tiền công cao/thấp chính xác phải dựa vào **tiền công tính theo giờ** (không phải ngày/tuần/tháng). Giá trị hàng hóa sức lao động và hàng hóa thông thường đều được xác định bằng **thời gian lao động xã hội cần thiết**. Điểm **khác nhau** giữa GTTD siêu ngạch và GTTD tương đối: chỉ GTTD siêu ngạch mới là **động lực trực tiếp** của từng nhà tư bản (GTTD tương đối là động lực chung của toàn giai cấp tư sản). Công thức lưu thông **hàng hóa giản đơn** là **H-T-H** (khác T-H-T' là công thức lưu thông của tư bản). Mục đích lưu thông **hàng hóa giản đơn** là **giá trị sử dụng** (bán hàng lấy tiền để mua hàng mình cần) — khác với mục đích lưu thông **của tư bản** là **giá trị tăng thêm**. Đặc điểm việc mua bán hàng hóa sức lao động: mua bán chịu, giá cả **nhỏ hơn giá trị** (do cung sức lao động thường lớn hơn cầu), người lao động ứng trước lao động cho nhà tư bản — **"giá cả lớn hơn giá trị" là phương án sai** (không thuộc đặc điểm này). Công thức **lưu thông của tư bản** là **T-H-T'** (chỉ công thức này mới thu được GTTD; khác H-T-H là lưu thông hàng hóa giản đơn).
 
 **Câu 1.** _(câu 21)_ Trong những luận điểm sau, luận điểm nào đúng? _(Hệ thống — LTTN 3)_
 
@@ -649,6 +676,15 @@
 - D. Người lao động ứng trước lao động cho nhà tư bản
 
 > 💡 ✅ Đáp án hệ thống. Trong nền kinh tế, cung sức lao động luôn lớn hơn cầu sức lao động nên giá cả thường thấp hơn giá trị, không phải lớn hơn. (Tham khảo: GT tr 54, mục 3.1.1.2 Hàng hóa sức lao động)
+
+**Câu 23.** _(câu 165)_ Trong các công thức dưới đây, công thức nào là công thức lưu thông của tư bản: _(Hệ thống — LTTN 18)_
+
+- A. H-T-H
+- B. T-H-T
+- **C. T-H-T’** ✅
+- D. H-T-T
+
+> 💡 ✅ Đáp án hệ thống. Chỉ vận động theo công thức T-H-T' mới thu được giá trị thặng dư (T' > T). (Tham khảo: GT tr 53-54, mục 3.1 Lý luận của C.Mác về giá trị thặng dư)
 
 ### 3.2. Tích lũy tư bản (2 câu)
 
@@ -909,9 +945,9 @@
 
 > 💡 ✅ Đáp án hệ thống. Tham khảo: GT tr 85-86, mục 4.1.1.2 Tác động của độc quyền trong nền kinh tế.
 
-### 4.2. Đặc điểm kinh tế của độc quyền và độc quyền nhà nước (16 câu)
+### 4.2. Đặc điểm kinh tế của độc quyền và độc quyền nhà nước (17 câu)
 
-> 🔑 **Ghi nhớ:** Xuất khẩu tư bản là đặc điểm của **độc quyền** (không phải PTSX TBCN nói chung). Chế độ tham dự của tư bản tài chính thiết lập qua **số cổ phiếu khống chế** để nắm công ty mẹ-con-cháu. Sở hữu nhà nước hình thành qua: xây dựng DNNN bằng ngân sách, quốc hữu hoá/mua cổ phần DN tư nhân, mở rộng DNNN bằng vốn tích luỹ — **cả 3**. Đặc điểm kinh tế của độc quyền nhà nước: kết hợp nhân sự giữa tổ chức độc quyền và nhà nước, hình thành sở hữu nhà nước, độc quyền nhà nước là công cụ điều tiết kinh tế — **cả 3**. Biểu hiện phát triển (từ sau Thế chiến II): tỷ trọng kinh tế nhà nước tăng, kết hợp kinh tế nhà nước-tư nhân tăng, chi tiêu tài chính nhà nước để điều tiết tăng — **cả 3**. Nguyên nhân hình thành **công ty xuyên quốc gia**: LLSX phát triển trình độ cao làm xuất hiện quá trình **quốc tế hoá kinh tế và thương mại** (không phải do cạnh tranh hay điều tiết nhà nước). Cơ chế điều tiết kinh tế của độc quyền nhà nước = **cơ chế thị trường + độc quyền tư nhân + sự can thiệp của nhà nước** (cả 3). Ngày nay đầu sỏ tài chính thống trị qua **"chế độ tham dự" kết hợp "chế độ ủy nhiệm"** (chế độ tham dự được bổ sung, không bị thay thế, bởi chế độ ủy nhiệm). CNTB có giới hạn lịch sử: mục đích sản xuất vì lợi ích thiểu số tư sản, gây chiến tranh/xung đột, phân hoá giàu nghèo ngày càng sâu sắc — **cả 3**. Câu nói "Bọn tư sản chia nhau thế giới... do sự tập trung đã tới mức độ buộc chúng phải đi vào con đường ấy để kiếm lời" là của **V.I.Lênin**. Ngày nay hình thức xuất khẩu tư bản chủ yếu là **xuất khẩu tư bản kết hợp với xuất khẩu hàng hóa** (⚠️ không phải "đầu tư trực tiếp kết hợp gián tiếp" — dễ nhầm, đây là bẫy hay gặp). Chủ thể xuất khẩu tư bản chủ yếu ngày nay là **các tổ chức độc quyền xuyên quốc gia**. **Tư bản tài chính** là kết quả hợp nhất giữa tư bản ngân hàng của một số ít ngân hàng độc quyền lớn nhất với tư bản của các liên minh độc quyền ngành công nghiệp. Độc quyền nhà nước là kiểu độc quyền trong đó nhà nước nắm giữ vị thế độc quyền trên cơ sở duy trì sức mạnh của **các tổ chức độc quyền** (không phải "nhà nước" đơn thuần) ở vị trí then chốt của nền kinh tế. CNTB có vai trò **tích cực**: thúc đẩy LLSX phát triển nhanh, chuyển sản xuất nhỏ thành sản xuất lớn, thực hiện xã hội hoá sản xuất — **cả 3**.
+> 🔑 **Ghi nhớ:** Xuất khẩu tư bản là đặc điểm của **độc quyền** (không phải PTSX TBCN nói chung). Chế độ tham dự của tư bản tài chính thiết lập qua **số cổ phiếu khống chế** để nắm công ty mẹ-con-cháu. Sở hữu nhà nước hình thành qua: xây dựng DNNN bằng ngân sách, quốc hữu hoá/mua cổ phần DN tư nhân, mở rộng DNNN bằng vốn tích luỹ — **cả 3**. Đặc điểm kinh tế của độc quyền nhà nước: kết hợp nhân sự giữa tổ chức độc quyền và nhà nước, hình thành sở hữu nhà nước, độc quyền nhà nước là công cụ điều tiết kinh tế — **cả 3**. Biểu hiện phát triển (từ sau Thế chiến II): tỷ trọng kinh tế nhà nước tăng, kết hợp kinh tế nhà nước-tư nhân tăng, chi tiêu tài chính nhà nước để điều tiết tăng — **cả 3**. Nguyên nhân hình thành **công ty xuyên quốc gia**: LLSX phát triển trình độ cao làm xuất hiện quá trình **quốc tế hoá kinh tế và thương mại** (không phải do cạnh tranh hay điều tiết nhà nước). Cơ chế điều tiết kinh tế của độc quyền nhà nước = **cơ chế thị trường + độc quyền tư nhân + sự can thiệp của nhà nước** (cả 3). Ngày nay đầu sỏ tài chính thống trị qua **"chế độ tham dự" kết hợp "chế độ ủy nhiệm"** (chế độ tham dự được bổ sung, không bị thay thế, bởi chế độ ủy nhiệm). CNTB có giới hạn lịch sử: mục đích sản xuất vì lợi ích thiểu số tư sản, gây chiến tranh/xung đột, phân hoá giàu nghèo ngày càng sâu sắc — **cả 3**. Câu nói "Bọn tư sản chia nhau thế giới... do sự tập trung đã tới mức độ buộc chúng phải đi vào con đường ấy để kiếm lời" là của **V.I.Lênin**. Ngày nay hình thức xuất khẩu tư bản chủ yếu là **xuất khẩu tư bản kết hợp với xuất khẩu hàng hóa** (⚠️ không phải "đầu tư trực tiếp kết hợp gián tiếp" — dễ nhầm, đây là bẫy hay gặp). Chủ thể xuất khẩu tư bản chủ yếu ngày nay là **các tổ chức độc quyền xuyên quốc gia**. **Tư bản tài chính** là kết quả hợp nhất giữa tư bản ngân hàng của một số ít ngân hàng độc quyền lớn nhất với tư bản của các liên minh độc quyền ngành công nghiệp. Độc quyền nhà nước là kiểu độc quyền trong đó nhà nước nắm giữ vị thế độc quyền trên cơ sở duy trì sức mạnh của **các tổ chức độc quyền** (không phải "nhà nước" đơn thuần) ở vị trí then chốt của nền kinh tế. CNTB có vai trò **tích cực**: thúc đẩy LLSX phát triển nhanh, chuyển sản xuất nhỏ thành sản xuất lớn, thực hiện xã hội hoá sản xuất — **cả 3**. Nhận định "CNTB phát triển càng cao, nguyên liệu càng thiếu thốn... cuộc đấu tranh chiếm thuộc địa càng quyết liệt" là của **V.I.Lênin**.
 
 **Câu 1.** _(câu 32)_ Xuất khẩu tư bản là đặc điểm của: _(Hệ thống — LTTN 4)_
 
@@ -1057,13 +1093,22 @@
 
 > 💡 ✅ Đáp án hệ thống. Tham khảo: GT tr 87-92, mục 4.2.1 Lý luận của Lênin về đặc điểm kinh tế của độc quyền.
 
+**Câu 17.** _(câu 163)_ “Chủ nghĩa tư bản phát triển càng cao, nguyên liệu càng thiếu thốn, sự cạnh tranh ngày càng gay gắt và việc tìm kiếm các nguồn nguyên liệu trên toàn thế giới càng ráo riết, thì cuộc đấu tranh để chiêm thuộc địa càng quyết liệt hơn”. Nhận định trên là của ai? _(Hệ thống — LTTN 18)_
+
+- A. C.Mác
+- B. Ph.Ăng ghen
+- **C. V.I.Lênin** ✅
+- D. Cả a và c
+
+> 💡 ✅ Đáp án hệ thống. Tham khảo: GT tr 87-92, mục 4.2.1 Lý luận của Lênin về đặc điểm kinh tế của độc quyền.
+
 ---
 
 ## Bài 5 — Kinh tế thị trường định hướng XHCN và các quan hệ lợi ích kinh tế ở Việt Nam
 
-### 5.1. Khái niệm, đặc trưng và tính tất yếu của KTTT định hướng XHCN (19 câu)
+### 5.1. Khái niệm, đặc trưng và tính tất yếu của KTTT định hướng XHCN (21 câu)
 
-> 🔑 **Ghi nhớ:** KTTT **không** đối lập với kinh tế hàng hóa — KTTT chính là **giai đoạn phát triển cao của kinh tế hàng hóa**, tồn tại cả trong CNTB lẫn CNXH. Phát triển KTTT định hướng XHCN là **mô hình kinh tế tổng quát trong suốt thời kỳ quá độ** lên CNXH ở Việt Nam (không chỉ giai đoạn đầu hay giai đoạn CNH-HĐH). Trình độ phát triển của **sở hữu** do trình độ phát triển của **lực lượng sản xuất** quyết định. Nội dung pháp lý của sở hữu là **quyền hạn và nghĩa vụ của chủ thể sở hữu được quy định mang tính pháp luật**. **Sở hữu** là quan hệ giữa **người với người** trong việc chiếm hữu nguồn lực và kết quả lao động. KTTT định hướng XHCN ở Việt Nam có **nhiều hình thức sở hữu, nhiều thành phần kinh tế**; các thành phần kinh tế **hợp tác và cạnh tranh lành mạnh** (bình đẳng trước pháp luật, cùng tồn tại phát triển — "cạnh tranh không lành mạnh" là phương án sai hay gặp). Kinh tế nhà nước chỉ đầu tư vào ngành **then chốt** (chi phối nền kinh tế, đảm bảo an ninh-quốc phòng, phục vụ lợi ích công cộng), không đầu tư mọi ngành. Thực hiện **đa dạng hoá các hình thức phân phối** (không chỉ theo lao động/hiệu quả hay phúc lợi). Nhà nước Việt Nam trong KTTT: **nhà nước pháp quyền XHCN, của dân, do dân, vì dân dưới sự lãnh đạo của Đảng Cộng sản** (đủ cả 2 vế, thiếu vế nào cũng sai). KTTT là **sản phẩm văn minh của nhân loại** (không phải riêng của CNTB hay CNXH). Đặc trưng về **mục tiêu** của KTTT định hướng XHCN: phát triển LLSX, xây dựng CSVC-KT CNXH, thực hiện "dân giàu, nước mạnh, dân chủ, công bằng, văn minh" — **không bao gồm** "thực hiện cuộc cách mạng về quan hệ sản xuất" (đây là phương án sai hay gặp). Sở hữu gồm **2 nội dung: kinh tế và pháp lý** (không có nội dung chính trị/văn hóa-xã hội). **Đảng lãnh đạo** nền kinh tế qua cương lĩnh, đường lối, chủ trương lớn — **Đảng không trực tiếp "quản lý"** toàn bộ nền kinh tế quốc dân (đó là vai trò của Nhà nước). Tăng trưởng kinh tế và công bằng xã hội được thực hiện **gắn liền ngay trong từng chính sách, từng giai đoạn phát triển** (không phải tuần tự trước-sau). Thứ tự đúng mục đích KTTT định hướng XHCN: **"Dân giàu, nước mạnh, dân chủ, công bằng, văn minh"** (⚠️ đúng trật tự từng chữ — dễ nhầm với các hoán vị khác). Vai trò **kinh tế tư nhân** = **động lực quan trọng** của nền kinh tế; vai trò **kinh tế nhà nước** = giữ **vai trò chủ đạo**, là đòn bẩy tăng trưởng, mở đường/hỗ trợ các thành phần khác, là lực lượng vật chất để Nhà nước điều tiết — **không phải** để "kìm hãm phát triển kinh tế tư nhân" (⚠️ hai vai trò tư nhân/nhà nước dễ bị tráo nhầm cụm từ với nhau). Khái niệm đầy đủ KTTT định hướng XHCN ở Việt Nam: nền kinh tế vận hành theo quy luật thị trường, **có sự điều tiết của Nhà nước**, do **Đảng Cộng sản Việt Nam** lãnh đạo, nhằm "dân giàu, nước mạnh, dân chủ, công bằng, văn minh" (⚠️ thiếu bất kỳ cụm nào trong 3 — điều tiết NN, "Việt Nam", đủ 5 chữ mục tiêu — đều là phương án sai).
+> 🔑 **Ghi nhớ:** KTTT **không** đối lập với kinh tế hàng hóa — KTTT chính là **giai đoạn phát triển cao của kinh tế hàng hóa**, tồn tại cả trong CNTB lẫn CNXH. Phát triển KTTT định hướng XHCN là **mô hình kinh tế tổng quát trong suốt thời kỳ quá độ** lên CNXH ở Việt Nam (không chỉ giai đoạn đầu hay giai đoạn CNH-HĐH). Trình độ phát triển của **sở hữu** do trình độ phát triển của **lực lượng sản xuất** quyết định. Nội dung pháp lý của sở hữu là **quyền hạn và nghĩa vụ của chủ thể sở hữu được quy định mang tính pháp luật**. **Sở hữu** là quan hệ giữa **người với người** trong việc chiếm hữu nguồn lực và kết quả lao động. KTTT định hướng XHCN ở Việt Nam có **nhiều hình thức sở hữu, nhiều thành phần kinh tế**; các thành phần kinh tế **hợp tác và cạnh tranh lành mạnh** (bình đẳng trước pháp luật, cùng tồn tại phát triển — "cạnh tranh không lành mạnh" là phương án sai hay gặp). Kinh tế nhà nước chỉ đầu tư vào ngành **then chốt** (chi phối nền kinh tế, đảm bảo an ninh-quốc phòng, phục vụ lợi ích công cộng), không đầu tư mọi ngành. Thực hiện **đa dạng hoá các hình thức phân phối** (không chỉ theo lao động/hiệu quả hay phúc lợi). Nhà nước Việt Nam trong KTTT: **nhà nước pháp quyền XHCN, của dân, do dân, vì dân dưới sự lãnh đạo của Đảng Cộng sản** (đủ cả 2 vế, thiếu vế nào cũng sai). KTTT là **sản phẩm văn minh của nhân loại** (không phải riêng của CNTB hay CNXH). Đặc trưng về **mục tiêu** của KTTT định hướng XHCN: phát triển LLSX, xây dựng CSVC-KT CNXH, thực hiện "dân giàu, nước mạnh, dân chủ, công bằng, văn minh" — **không bao gồm** "thực hiện cuộc cách mạng về quan hệ sản xuất" (đây là phương án sai hay gặp). Sở hữu gồm **2 nội dung: kinh tế và pháp lý** (không có nội dung chính trị/văn hóa-xã hội). **Đảng lãnh đạo** nền kinh tế qua cương lĩnh, đường lối, chủ trương lớn — **Đảng không trực tiếp "quản lý"** toàn bộ nền kinh tế quốc dân (đó là vai trò của Nhà nước). Tăng trưởng kinh tế và công bằng xã hội được thực hiện **gắn liền ngay trong từng chính sách, từng giai đoạn phát triển** (không phải tuần tự trước-sau). Thứ tự đúng mục đích KTTT định hướng XHCN: **"Dân giàu, nước mạnh, dân chủ, công bằng, văn minh"** (⚠️ đúng trật tự từng chữ — dễ nhầm với các hoán vị khác). Vai trò **kinh tế tư nhân** = **động lực quan trọng** của nền kinh tế; vai trò **kinh tế nhà nước** = giữ **vai trò chủ đạo**, là đòn bẩy tăng trưởng, mở đường/hỗ trợ các thành phần khác, là lực lượng vật chất để Nhà nước điều tiết — **không phải** để "kìm hãm phát triển kinh tế tư nhân" (⚠️ hai vai trò tư nhân/nhà nước dễ bị tráo nhầm cụm từ với nhau). Khái niệm đầy đủ KTTT định hướng XHCN ở Việt Nam: nền kinh tế vận hành theo quy luật thị trường, **có sự điều tiết của Nhà nước**, do **Đảng Cộng sản Việt Nam** lãnh đạo, nhằm "dân giàu, nước mạnh, dân chủ, công bằng, văn minh" (⚠️ thiếu bất kỳ cụm nào trong 3 — điều tiết NN, "Việt Nam", đủ 5 chữ mục tiêu — đều là phương án sai). Vai trò **kinh tế nhà nước**: giữ vai trò chủ đạo, **cùng với kinh tế tập thể** (⚠️ không phải kinh tế tư nhân) ngày càng trở thành nền tảng vững chắc của nền kinh tế quốc dân. Cơ sở sâu xa của sự hình thành **sở hữu** là **quá trình sản xuất và tái sản xuất xã hội**.
 
 **Câu 1.** _(câu 41)_ Yếu tố quyết định trình độ phát triển của sở hữu là gì? _(Hệ thống — LTTN 5)_
 
@@ -1235,6 +1280,24 @@
 - **D. Là nền kinh tế vận hành theo các quy luật của thị trường; có sự điều tiết của Nhà nước, do Đảng Cộng sản Việt Nam lãnh đạo, nhằm thực hiện mục tiêu “dân giàu, nước mạnh, dân chủ, công bằng, văn minh”.** ✅
 
 > 💡 ✅ Đáp án hệ thống. Căn cứ vào khái niệm về Kinh tế thị trường định hướng XHCN ở Việt Nam — đủ cả 3 yếu tố: có điều tiết của Nhà nước, do Đảng Cộng sản VIỆT NAM lãnh đạo, mục tiêu đủ 5 chữ "dân giàu, nước mạnh, dân chủ, công bằng, văn minh". (Tham khảo: mục 5.1.1)
+
+**Câu 20.** _(câu 166)_ Vai trò của kinh tế nhà nước trong nền kinh tế thị trường ở Việt Nam là: _(Hệ thống — LTTN 18)_
+
+- A. Giữ vai trò chủ đạo, cùng với kinh tế tư nhân ngày càng trở thành nền tảng vững chắc của nền kinh tế quốc dân.
+- **B. Giữ vai trò chủ đạo, cùng với kinh tế tập thể ngày càng trở thành nền tảng vững chắc của nền kinh tế quốc dân.** ✅
+- C. Giữ vai trò chủ đạo, cùng với các thành phần kinh tế khác ngày càng trở thành nền tảng vững chắc của nền kinh tế quốc dân.
+- D. Giữ vai trò chủ đạo, cùng với kinh tế tập thể ngày càng trở thành động lực chủ yếu của nền kinh tế quốc dân.
+
+> 💡 ✅ Đáp án hệ thống. Dựa vào đặc trưng về quan hệ sở hữu và thành phần kinh tế của kinh tế thị trường định hướng XHCN ở Việt Nam: kinh tế nhà nước giữ vai trò chủ đạo, CÙNG VỚI KINH TẾ TẬP THỂ (không phải tư nhân) là nền tảng vững chắc. (Tham khảo: mục 5.1.3)
+
+**Câu 21.** _(câu 169)_ Cơ sở sâu xa của sự hình thành sở hữu là _(Hệ thống — LTTN 18)_
+
+- A. Mối quan hệ giữa con người với tự nhiên.
+- B. Sự xuất hiện giai cấp đối kháng trong xã hội.
+- C. Sự xuất hiện Nhà nước của gai cấp bóc lột.
+- **D. Quá trình sản xuất và tái sản xuất xã hội.** ✅
+
+> 💡 ✅ Đáp án hệ thống. Dựa vào đặc trưng về quan hệ sở hữu và thành phần kinh tế của kinh tế thị trường định hướng XHCN ở Việt Nam. (Tham khảo: mục 5.1.3)
 
 ### 5.2. Thể chế kinh tế và hoàn thiện thể chế KTTT định hướng XHCN (4 câu)
 
@@ -1468,9 +1531,9 @@
 
 > 💡 ✅ Đáp án hệ thống. Muốn xây dựng cơ sở vật chất - kỹ thuật của CNXH ở nước ta phải thực hiện CNH, HĐH. (Tham khảo: mục 6.1.2)
 
-### 6.2. Hội nhập kinh tế quốc tế của Việt Nam (9 câu)
+### 6.2. Hội nhập kinh tế quốc tế của Việt Nam (10 câu)
 
-> 🔑 **Ghi nhớ:**  Hệ thống: **nền kinh tế độc lập tự chủ** = không bị lệ thuộc vào bất cứ ai, không bị tổn hại chủ quyền/lợi ích quốc gia (không phải đóng cửa, không phải chỉ hợp tác trong khu vực). Độc lập tự chủ và hội nhập quốc tế có quan hệ **biện chứng, tác động tích cực hai chiều** (giữ vững độc lập tự chủ thì hội nhập mới hiệu quả, và hội nhập hiệu quả lại củng cố độc lập tự chủ) — không phải quan hệ nghịch. Mốc hội nhập KTQT: ASEAN 1995, AFTA 1996, APEC 1998, **WTO năm 2007** (không phải 2005 — bẫy hay gặp). Để hội nhập hiệu quả, Việt Nam **không thể tuyệt đối hóa độc lập, tự chủ** (vì quan hệ biện chứng hai chiều với hội nhập). Việt Nam thực hiện **đa dạng, đa phương hóa** quan hệ kinh tế quốc tế — **không** chủ trương "chỉ quan hệ với nước cùng chế độ chính trị" (phương án sai hay gặp).
+> 🔑 **Ghi nhớ:**  Hệ thống: **nền kinh tế độc lập tự chủ** = không bị lệ thuộc vào bất cứ ai, không bị tổn hại chủ quyền/lợi ích quốc gia (không phải đóng cửa, không phải chỉ hợp tác trong khu vực). Độc lập tự chủ và hội nhập quốc tế có quan hệ **biện chứng, tác động tích cực hai chiều** (giữ vững độc lập tự chủ thì hội nhập mới hiệu quả, và hội nhập hiệu quả lại củng cố độc lập tự chủ) — không phải quan hệ nghịch. Mốc hội nhập KTQT: ASEAN 1995, AFTA 1996, APEC 1998, **WTO năm 2007** (không phải 2005 — bẫy hay gặp). Để hội nhập hiệu quả, Việt Nam **không thể tuyệt đối hóa độc lập, tự chủ** (vì quan hệ biện chứng hai chiều với hội nhập). Việt Nam thực hiện **đa dạng, đa phương hóa** quan hệ kinh tế quốc tế — **không** chủ trương "chỉ quan hệ với nước cùng chế độ chính trị" (phương án sai hay gặp). Quan niệm đúng: xây dựng nền kinh tế **độc lập tự chủ đi đôi với** tích cực, chủ động **hội nhập kinh tế quốc tế** (không phải chỉ một trong hai, cũng không phải cái này vì mục đích cái kia).
 
 **Câu 1.** _(câu 51)_ Nền kinh tế độc lập tự chủ là: _(Hệ thống — LTTN 6)_
 
@@ -1552,3 +1615,12 @@
 - D. Kết hợp chặt chẽ kinh tế với quốc phòng, an ninh và đối ngoại trong hội nhập kinh tế quốc tế.
 
 > 💡 ✅ Đáp án hệ thống. Việt Nam thực hiện đa dạng, đa phương hóa quan hệ kinh tế quốc tế, không phân biệt chế độ chính trị. (Tham khảo: mục 6.2.3 Phương hướng nâng cao hiệu quả hội nhập kinh tế quốc tế của Việt Nam)
+
+**Câu 10.** _(câu 170)_ Quan niệm đúng về xây dựng nền kinh tế độc lập tự chủ và hội nhập kinh tế quốc tế của Việt Nam là: _(Hệ thống — LTTN 18)_
+
+- A. Chỉ xây dựng nền kinh tế độc lập tự chủ, không hội nhập kinh tế quốc tế.
+- B. Chỉ hội nhập kinh tế quốc tế, không xây dựng nền kinh tế độc lập tự chủ.
+- **C. Xây dựng nền kinh tế độc lập tự chủ đi đôi với tích cực, chủ động hội nhập kinh tế quốc tế.** ✅
+- D. Xây dựng nền kinh tế độc lập tự chủ để nhăm mục đích hội nhập kinh tế quốc tế.
+
+> 💡 ✅ Đáp án hệ thống. Dựa vào quan niệm xây dựng nền kinh tế độc lập tự chủ của Việt Nam. (Tham khảo: mục 6.2.3 Phương hướng nâng cao hiệu quả hội nhập kinh tế quốc tế của Việt Nam)

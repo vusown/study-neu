@@ -1535,3 +1535,79 @@ Chưa có câu hỏi nào — môn mới ghi nhận. Sẽ nạp dần từ câu 
 - D. Người lao động ứng trước lao động cho nhà tư bản
 
 > 💡 ✅ Đáp án hệ thống. Trong nền kinh tế, cung sức lao động luôn lớn hơn cầu sức lao động nên giá cả thường thấp hơn giá trị, không phải lớn hơn. (Tham khảo: GT tr 54, mục 3.1.1.2 Hàng hóa sức lao động)
+
+## LTTN 18 (ôn tập tổng hợp, Chương 1-6)
+
+> Trang xem lại (review), 30/30 đúng theo đáp án hệ thống. Câu 3 (năng suất lao động): đáp án hệ thống nêu "không đổi" nhưng phần giải thích của chính hệ thống lại lập luận ra "giảm" — mâu thuẫn trong dữ liệu nguồn. Theo quy ước đáp án hệ thống luôn thắng, ghi theo đáp án hệ thống (không đổi) và nêu rõ mâu thuẫn này trong giải thích.
+
+**Câu 163.** “Chủ nghĩa tư bản phát triển càng cao, nguyên liệu càng thiếu thốn, sự cạnh tranh ngày càng gay gắt và việc tìm kiếm các nguồn nguyên liệu trên toàn thế giới càng ráo riết, thì cuộc đấu tranh để chiêm thuộc địa càng quyết liệt hơn”. Nhận định trên là của ai? _(Hệ thống — LTTN 18)_
+
+- A. C.Mác
+- B. Ph.Ăng ghen
+- **C. V.I.Lênin** ✅
+- D. Cả a và c
+
+> 💡 ✅ Đáp án hệ thống. Tham khảo: GT tr 87-92, mục 4.2.1 Lý luận của Lênin về đặc điểm kinh tế của độc quyền.
+
+**Câu 164.** Khi năng suất lao động tăng thì: _(Hệ thống — LTTN 18)_
+
+- **A. Giá trị một đơn vị sản phẩm không đổi** ✅
+- B. Giá trị một đơn vị sản phẩm tăng
+- C. Giá trị một đơn vị sản phẩm giảm
+- D. Giá trị tạo ra trong một đơn vị sản không giảm.
+
+> 💡 ✅ Đáp án hệ thống. ⚠️ Đáp án hệ thống ghi là "không đổi", nhưng chính phần giải thích của hệ thống lại lập luận: "khi tăng NSLĐ thì số lượng sản phẩm sản xuất ra tăng lên, hao phí lao động không thay đổi nên giá trị tạo ra một đơn vị sản phẩm giảm" — mâu thuẫn với đáp án đã chọn. Theo quy ước đáp án hệ thống luôn thắng nên ghi phương án A, nhưng lưu ý mâu thuẫn này khi ôn tập. (Tham khảo: mục 2.1.2)
+
+**Câu 165.** Trong các công thức dưới đây, công thức nào là công thức lưu thông của tư bản: _(Hệ thống — LTTN 18)_
+
+- A. H-T-H
+- B. T-H-T
+- **C. T-H-T’** ✅
+- D. H-T-T
+
+> 💡 ✅ Đáp án hệ thống. Chỉ vận động theo công thức T-H-T' mới thu được giá trị thặng dư (T' > T). (Tham khảo: GT tr 53-54, mục 3.1 Lý luận của C.Mác về giá trị thặng dư)
+
+**Câu 166.** Vai trò của kinh tế nhà nước trong nền kinh tế thị trường ở Việt Nam là: _(Hệ thống — LTTN 18)_
+
+- A. Giữ vai trò chủ đạo, cùng với kinh tế tư nhân ngày càng trở thành nền tảng vững chắc của nền kinh tế quốc dân.
+- **B. Giữ vai trò chủ đạo, cùng với kinh tế tập thể ngày càng trở thành nền tảng vững chắc của nền kinh tế quốc dân.** ✅
+- C. Giữ vai trò chủ đạo, cùng với các thành phần kinh tế khác ngày càng trở thành nền tảng vững chắc của nền kinh tế quốc dân.
+- D. Giữ vai trò chủ đạo, cùng với kinh tế tập thể ngày càng trở thành động lực chủ yếu của nền kinh tế quốc dân.
+
+> 💡 ✅ Đáp án hệ thống. Dựa vào đặc trưng về quan hệ sở hữu và thành phần kinh tế của kinh tế thị trường định hướng XHCN ở Việt Nam: kinh tế nhà nước giữ vai trò chủ đạo, CÙNG VỚI KINH TẾ TẬP THỂ (không phải tư nhân) là nền tảng vững chắc. (Tham khảo: mục 5.1.3)
+
+**Câu 167.** Lý luận kinh tế chính trị của Mác là sự kế thừa trực tiếp những thành quả lý luận khoa học của nhà kinh tế học nào? _(Hệ thống — LTTN 18)_
+
+- A. W.Petty
+- B. A.Smith
+- **C. D.Ricardo** ✅
+- D. F.Quesnay
+
+> 💡 ✅ Đáp án hệ thống. Tham khảo: GT tr 10, mục I.1 khái quát sự hình thành và phát triển của KTCT Mác-Lênin.
+
+**Câu 168.** Chức năng thước đo giá trị của tiền dùng để _(Hệ thống — LTTN 18)_
+
+- **A. Đo lường giá trị của các hàng hóa** ✅
+- B. Phương tiện mua hàng
+- C. Trả nợ
+- D. Nộp thuế
+
+> 💡 ✅ Đáp án hệ thống. Căn cứ vào chức năng của tiền. (Tham khảo: mục 2.1.3)
+
+**Câu 169.** Cơ sở sâu xa của sự hình thành sở hữu là _(Hệ thống — LTTN 18)_
+
+- A. Mối quan hệ giữa con người với tự nhiên.
+- B. Sự xuất hiện giai cấp đối kháng trong xã hội.
+- C. Sự xuất hiện Nhà nước của gai cấp bóc lột.
+- **D. Quá trình sản xuất và tái sản xuất xã hội.** ✅
+
+> 💡 ✅ Đáp án hệ thống. Dựa vào đặc trưng về quan hệ sở hữu và thành phần kinh tế của kinh tế thị trường định hướng XHCN ở Việt Nam. (Tham khảo: mục 5.1.3)
+
+**Câu 170.** Quan niệm đúng về xây dựng nền kinh tế độc lập tự chủ và hội nhập kinh tế quốc tế của Việt Nam là: _(Hệ thống — LTTN 18)_
+
+- A. Chỉ xây dựng nền kinh tế độc lập tự chủ, không hội nhập kinh tế quốc tế.
+- B. Chỉ hội nhập kinh tế quốc tế, không xây dựng nền kinh tế độc lập tự chủ.
+- **C. Xây dựng nền kinh tế độc lập tự chủ đi đôi với tích cực, chủ động hội nhập kinh tế quốc tế.** ✅
+- D. Xây dựng nền kinh tế độc lập tự chủ để nhăm mục đích hội nhập kinh tế quốc tế.
+
+> 💡 ✅ Đáp án hệ thống. Dựa vào quan niệm xây dựng nền kinh tế độc lập tự chủ của Việt Nam. (Tham khảo: mục 6.2.3 Phương hướng nâng cao hiệu quả hội nhập kinh tế quốc tế của Việt Nam)

@@ -551,5 +551,5 @@ Người đàm phán giỏi như "**tắc kè hoa**", vừa "cứng như đá" v
 
 ---
 
-## Chưa có bài giảng
-- **Quản trị stress** và **kỹ năng giao tiếp** có trong đề cương chi tiết 2025 nhưng **chưa có file bài giảng**. Nếu hệ thống có LTTN hoặc KT về hai phần này, cần bổ sung tài liệu.
+## Không có bài giảng
+- **Quản trị stress** và **kỹ năng giao tiếp** có trong đề cương chi tiết 2025 (QTKD1130) nhưng nằm ngoài phạm vi tài liệu đã được cung cấp cho môn này (TXQTKD116) — đã xác nhận không có file bài giảng nào khác để bổ sung. Nếu về sau hệ thống ra LTTN/KT về hai phần này thì xử lý như câu hỏi ôn tập tổng hợp (ghi giải thích ngắn theo đáp án hệ thống, không đối chiếu bài giảng).

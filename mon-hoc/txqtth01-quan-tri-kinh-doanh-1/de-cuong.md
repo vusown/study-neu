@@ -293,4 +293,4 @@
   - **Yêu cầu của hệ thống sản xuất**: linh hoạt, cân đối, tạo điều kiện quản trị hiệu quả; ⚡ không phải "chuyên môn hóa **cao nhất**".
   - **Nhân tố ảnh hưởng lựa chọn địa điểm**: thị trường, lợi thế chi phí, lợi thế doanh thu. Không gồm thay đổi nhân lực lãnh đạo.
   - **Hoạch định sự thay đổi** (giáo trình trang 428): **phạm vi thay đổi tùy thuộc đối tượng**, tính chất, thời điểm.
-- Đề cương 2025 còn có **trách nhiệm xã hội, đạo đức kinh doanh**, **quản trị sản xuất, marketing, tài chính**, **nguồn nhân lực**, **thẻ điểm cân bằng**, nhưng **chưa có bài giảng**.
+- Đề cương chi tiết 2025 (QTTH1102) còn có **Bài 5: trách nhiệm xã hội, đạo đức kinh doanh** và **Bài 6: quản trị sản xuất, marketing, tài chính, nguồn nhân lực** (gồm cả thẻ điểm cân bằng), nhưng môn này (TXQTTH01) chỉ được cung cấp đúng 6 bài giảng đã liệt kê ở trên (tương ứng Bài 1–4, 7 của đề cương 2025) — đã xác nhận không có bài giảng nào khác để bổ sung. Nếu về sau hệ thống ra LTTN/KT về hai bài này thì xử lý như câu hỏi "ngoài bài giảng" (ghi giải thích ngắn theo đáp án hệ thống, không đối chiếu bài giảng).

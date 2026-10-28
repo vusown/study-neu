@@ -83,13 +83,13 @@
 
 ## Đề cương và câu hỏi
 
-- [Ngân hàng câu hỏi theo chủ đề](ngan-hang-theo-chu-de.md): 162 câu gom theo 6 bài (Bài 1–6) đã làm, mỗi chủ đề có dòng 🔑 Ghi nhớ. **Dùng file này để học thuộc**.
-- [Ngân hàng câu hỏi](ngan-hang-cau-hoi.md): cùng 162 câu, xếp theo nguồn (LTTN 1–17).
-- [Đề cương theo bài](de-cuong.md): mới có khung, chưa có tóm tắt — cần đọc 6 file bài giảng trong `tai-lieu/` để điền.
-- [Cách học thuộc](cach-hoc-thuoc.md): mới có khung, chưa có bảng thuộc lòng/bẫy.
+- [Ngân hàng câu hỏi theo chủ đề](ngan-hang-theo-chu-de.md): 170 câu gom theo 6 bài (Bài 1–6) đã làm, mỗi chủ đề có dòng 🔑 Ghi nhớ. **Dùng file này để học thuộc**.
+- [Ngân hàng câu hỏi](ngan-hang-cau-hoi.md): cùng 170 câu, xếp theo nguồn (LTTN 1–18).
+- [Đề cương theo bài](de-cuong.md): tóm tắt đầy đủ 6 bài (đọc từ 6 file bài giảng trong `tai-lieu/`), có mức ⭐ và mục 🎯 "Đề hỏi gì" cho từng bài.
+- [Cách học thuộc](cach-hoc-thuoc.md): đầy đủ bảng thuộc lòng, bẫy hệ thống, cặp dễ nhầm và lịch học 7 ngày.
 - [Bản đồ tra cứu cho NotebookLM](ban-do-notebooklm.md): file nào, mục nào, câu số mấy thuộc chủ đề nào. Tạo lại bằng `python3 scripts/tao-ban-do-notebooklm.py`.
 
-> Đã nạp xong LTTN 1–17 (Chương 1–6 và 11 lượt ôn tập tổng hợp, hầu hết làm đúng — LTTN 2 câu 10 bị cắt mất phương án khi dán nên không nạp lần đó, nạp bổ sung được ở LTTN 7; LTTN 5 có 2 câu học viên chọn sai nhưng đáp án hệ thống vẫn được ghi theo đúng quy ước; LTTN 8 sai 1 câu; LTTN 9, 10, 11 đúng hết; LTTN 12 sai 1 câu — bẫy "hình thức xuất khẩu tư bản chủ yếu ngày nay"; LTTN 13 sai 1 câu — bẫy "xây dựng CSVC-KT CNXH tất yếu với mọi nước" không chỉ nước bỏ qua TBCN; LTTN 14 sai 1 câu — bẫy "vai trò CNH-HĐH có tính quyết định"; LTTN 15, 16, 17 đúng hết). Còn phần tóm tắt đề cương theo bài và bảng/bẫy trong cach-hoc-thuoc.md **chưa làm**.
+> Đã nạp xong LTTN 1–18 (Chương 1–6 và 12 lượt ôn tập tổng hợp, hầu hết làm đúng — LTTN 2 câu 10 bị cắt mất phương án khi dán nên không nạp lần đó, nạp bổ sung được ở LTTN 7; LTTN 5 có 2 câu học viên chọn sai nhưng đáp án hệ thống vẫn được ghi theo đúng quy ước; LTTN 8 sai 1 câu; LTTN 9, 10, 11 đúng hết; LTTN 12 sai 1 câu — bẫy "hình thức xuất khẩu tư bản chủ yếu ngày nay"; LTTN 13 sai 1 câu — bẫy "xây dựng CSVC-KT CNXH tất yếu với mọi nước" không chỉ nước bỏ qua TBCN; LTTN 14 sai 1 câu — bẫy "vai trò CNH-HĐH có tính quyết định"; LTTN 15, 16, 17, 18 đúng hết). Tóm tắt đề cương theo bài và cách học thuộc (bảng thuộc lòng, bẫy hệ thống, cặp dễ nhầm, lịch học) đã làm xong đầy đủ.
 
 ## Phương pháp ôn tập
 

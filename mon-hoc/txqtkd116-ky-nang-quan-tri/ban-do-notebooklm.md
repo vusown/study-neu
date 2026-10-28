@@ -196,7 +196,7 @@ Mỗi dòng là một chủ đề trong `ngan-hang-theo-chu-de.md`. Cột **Câu
   - Tóm tắt
   - Quy trình xây dựng thương hiệu, 4 bước ⭐⭐⭐
   - 🎯 Đề hỏi gì
-- Chưa có bài giảng
+- Không có bài giảng
 
 ## 6. Mục lục `cach-hoc-thuoc.md` (Cách học thuộc)
 
