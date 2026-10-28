@@ -12,6 +12,7 @@ Tổng hợp tài liệu, đề cương, ngân hàng câu hỏi và phương ph�
 | [Quản trị kinh doanh 1](mon-hoc/txqtth01-quan-tri-kinh-doanh-1/README.md) (TXQTTH01) | 06/09 | 3 | 🟡 | [📄](mon-hoc/txqtth01-quan-tri-kinh-doanh-1/de-cuong.md) | [❓](mon-hoc/txqtth01-quan-tri-kinh-doanh-1/ngan-hang-theo-chu-de.md) | |
 | [Kinh tế vĩ mô 1](mon-hoc/txkhma01-kinh-te-vi-mo-1/README.md) (TXKHMA01) | 06/09 | 3 | 🟡 | [📄](mon-hoc/txkhma01-kinh-te-vi-mo-1/de-cuong.md) | [❓](mon-hoc/txkhma01-kinh-te-vi-mo-1/ngan-hang-theo-chu-de.md) | |
 | [Toán cho các nhà kinh tế](mon-hoc/tocb1110-toan-cho-cac-nha-kinh-te/README.md) (TOCB1110) | 06/09 | 3 | 🟡 | [📄](mon-hoc/tocb1110-toan-cho-cac-nha-kinh-te/de-cuong.md) | [❓](mon-hoc/tocb1110-toan-cho-cac-nha-kinh-te/ngan-hang-theo-chu-de.md) | |
+| [Kinh tế chính trị Mác-Lênin](mon-hoc/txllnl1106-kinh-te-chinh-tri/README.md) (LLNL1106) | 06/09 | 2 | 🟡 | [📄](mon-hoc/txllnl1106-kinh-te-chinh-tri/de-cuong.md) | [❓](mon-hoc/txllnl1106-kinh-te-chinh-tri/ngan-hang-theo-chu-de.md) | |
 
 Học kỳ: ghi theo **mã học kỳ** của trường (VD `05/07`). Một năm có 4 học kỳ, không theo chu kỳ cố định.
 Trạng thái: 🟢 đã xong · 🟡 đang học · ⚪ chưa học

@@ -66,7 +66,7 @@ def main():
     bank, topic = f_bank.read_text(encoding="utf-8"), f_topic.read_text(encoding="utf-8")
 
     seen = existing_keys(bank)
-    n = max(int(x) for x in re.findall(r"(?m)^\*\*Câu (\d+)\.\*\*", bank))
+    n = max([int(x) for x in re.findall(r"(?m)^\*\*Câu (\d+)\.\*\*", bank)], default=0)
     new, dup = [], []
     for i, q in enumerate(data["cau"], 1):
         assert q["dung"] in "ABCDEFGH"[: len(q["pa"])], f"câu {i}: đáp án ngoài phương án"
