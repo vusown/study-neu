@@ -223,4 +223,20 @@ ax.set_xlim(-1.5, 10); ax.set_ylim(-1.5, 18)
 style(ax, xlabel="x", ylabel="y", legend=False)
 save(fig, "bai11-vd6-mien-tam-giac")
 
+# 15) LTTN tổng hợp — đọc đồ thị f(x) dạng cực tiểu rồi cực đại, suy ra đồ thị f'(x)
+x = np.linspace(-2.2, 2.2, 400)
+f = -x**3 + 3*x
+fp = -3*x**2 + 3
+fig, axes = plt.subplots(1, 2, figsize=(9, 4))
+ax = axes[0]
+ax.plot(x, f, color="#d6336c", linewidth=2.5, label="f(x) = −x³ + 3x")
+style(ax, legend_loc="upper left", legend_fontsize=9)
+ax = axes[1]
+ax.plot(x, fp, color="#1971c2", linewidth=2.5, label="f'(x) = −3x² + 3")
+style(ax, legend_loc="upper right", legend_fontsize=9)
+fig.tight_layout()
+fig.savefig("lttn-dao-ham-tu-do-thi.png", dpi=150)
+plt.close(fig)
+print("saved lttn-dao-ham-tu-do-thi")
+
 print("Xong.")

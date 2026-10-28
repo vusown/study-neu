@@ -28,7 +28,10 @@ OPT = re.compile(r"^- (\*\*)?([A-H])\.\s*")
 
 
 def norm(t):
-    t = re.sub(r"_\(.*?\)_|❌|\*\*|✅|⚡|[“”\"'.,:?;!…]", "", t)
+    t = t.replace("−", "-").replace("–", "-")  # coi dấu trừ/gạch ngang kiểu nào cũng như nhau
+    t = re.sub(r"_\(.*?\)_|❌|\*\*|✅|⚡|[“”\"'.:?;!…]", "", t)
+    t = re.sub(r",\s*", "", t)  # xoá dấu phẩy CÙNG khoảng trắng theo sau (để "x,y" và "x, y" giống nhau)
+    t = re.sub(r"(?i)\bđáp án:?\s*", "", t)  # dòng "ĐÁP ÁN:" của hệ thống không phải nội dung câu hỏi
     return " ".join(t.split()).lower()
 
 

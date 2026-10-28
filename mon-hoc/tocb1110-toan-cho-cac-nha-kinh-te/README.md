@@ -80,7 +80,9 @@ Tỷ trọng: **Nhớ 40% · Hiểu 40% · Vận dụng 20%**. Đề cương kh�
 **Văn bản chung**
 - [x] [Đề cương chi tiết học phần (scan, 2025)](tai-lieu/00-de-cuong-chi-tiet-hoc-phan.pdf)
 - [x] [Bài 0 — Giới thiệu chương trình](tai-lieu/00-gioi-thieu-chuong-trinh.pdf)
-- [ ] Đề thi mẫu / đề thi thử
+- [x] [Đề mẫu 1 — Từ xa](tai-lieu/00-de-mau-1-tu-xa.docx)
+- [x] [Đề mẫu 2 — Từ xa](tai-lieu/00-de-mau-2-tu-xa.docx)
+- [x] [Đề mẫu 3 — Từ xa](tai-lieu/00-de-mau-3-tu-xa.docx)
 
 **Bài giảng** (slide dạng ảnh, công thức không copy được)
 
@@ -101,8 +103,8 @@ Tỷ trọng: **Nhớ 40% · Hiểu 40% · Vận dụng 20%**. Đề cương kh�
 
 ## Đề cương và câu hỏi
 
-- [Ngân hàng câu hỏi theo chủ đề](ngan-hang-theo-chu-de.md): 216 câu gom theo 12 bài, mỗi chủ đề có dòng 🔑 Ghi nhớ. **Dùng file này để học thuộc**.
-- [Ngân hàng câu hỏi](ngan-hang-cau-hoi.md): cùng 216 câu, xếp theo nguồn. Câu 1–106 là ví dụ có lời giải trong bài giảng; câu 107 trở đi là trắc nghiệm hệ thống (LTTN).
+- [Ngân hàng câu hỏi theo chủ đề](ngan-hang-theo-chu-de.md): 295 câu gom theo 12 bài, mỗi chủ đề có dòng 🔑 Ghi nhớ. **Dùng file này để học thuộc**.
+- [Ngân hàng câu hỏi](ngan-hang-cau-hoi.md): cùng 295 câu, xếp theo nguồn. Câu 1–106 là ví dụ có lời giải trong bài giảng; câu 107 trở đi là trắc nghiệm hệ thống (LTTN).
 - [Đề cương theo bài](de-cuong.md)
 - [Cách học thuộc](cach-hoc-thuoc.md)
 - [Bản đồ tra cứu cho NotebookLM](ban-do-notebooklm.md): file nào, mục nào, câu số mấy thuộc chủ đề nào. Tải lên NotebookLM cùng các file .md của môn. Tạo lại bằng `python3 scripts/tao-ban-do-notebooklm.py`
@@ -123,7 +125,7 @@ Tỷ trọng: **Nhớ 40% · Hiểu 40% · Vận dụng 20%**. Đề cương kh�
 1. **Thuộc bảng công thức** trong [cach-hoc-thuoc.md](cach-hoc-thuoc.md): đạo hàm, tích phân, các công thức kinh tế.
 2. **Tự giải lại từng ví dụ** trong [ngan-hang-theo-chu-de.md](ngan-hang-theo-chu-de.md): che lời giải, viết ra giấy, rồi so.
 3. **Học các bước giải chuẩn** cho từng dạng bài (mục 3 [cach-hoc-thuoc.md](cach-hoc-thuoc.md)).
-4. **Làm LTTN nhiều lần** để gom câu trắc nghiệm vào ngân hàng. Dừng khi 2–3 lần liên tiếp không ra câu mới. Mỗi LTTN có kho câu lớn hơn 10 câu/lượt (mỗi lượt random ra bộ khác nhau), nên làm **nhiều lượt mỗi LTTN**. Đã nạp: LTTN Bài 2 (2 lượt, 20 câu), LTTN Bài 3 (1 lượt, 10 câu), LTTN Bài 5 (2 lượt, 14 câu mới), LTTN Bài 6 (2 lượt giống nhau, 10 câu), 2 lượt LTTN tổng hợp Tuần 9 (30 + 30 câu, phủ hầu hết Bài 1–12, 57 câu mới sau khi lọc trùng). Tổng 111 câu hệ thống.
+4. **Làm LTTN nhiều lần** để gom câu trắc nghiệm vào ngân hàng. Dừng khi 2–3 lần liên tiếp không ra câu mới. Mỗi LTTN có kho câu lớn hơn 10 câu/lượt (mỗi lượt random ra bộ khác nhau), nên làm **nhiều lượt mỗi LTTN**. Đã nạp: LTTN Bài 2 (2 lượt, 20 câu), LTTN Bài 3 (1 lượt, 10 câu), LTTN Bài 5 (2 lượt, 14 câu mới), LTTN Bài 6 (2 lượt giống nhau, 10 câu), 2 lượt LTTN tổng hợp Tuần 9 (30 + 30 câu, phủ hầu hết Bài 1–12, 57 câu mới sau khi lọc trùng), LTTN Bài 7, LTTN Bài 9, LTTN Bài 10, LTTN Bài 12 (mỗi lượt 10 câu, phần lớn trùng câu đã có), 3 Đề mẫu — Từ xa (8 câu trắc nghiệm + 3 câu tự luận mỗi đề, tất cả đều mới), LTTN tổng hợp lần 3 (30 câu, chỉ 6 câu mới), LTTN tổng hợp lần 4 (30 câu, 15 câu mới), LTTN tổng hợp lần 5 (30 câu, chỉ 1 câu mới), LTTN tổng hợp lần 6 (30 câu, 4 câu mới). Tổng 180 câu hệ thống + 9 câu tự luận đề mẫu.
 
 ## Kế hoạch ôn
 

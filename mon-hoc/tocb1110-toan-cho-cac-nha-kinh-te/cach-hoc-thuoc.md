@@ -1,6 +1,6 @@
 # Cách học thuộc — Toán cho các nhà kinh tế
 
-> **Mục tiêu: tự giải lại được hết 216 bài** trong [ngan-hang-theo-chu-de.md](ngan-hang-theo-chu-de.md) mà không nhìn lời giải. Đề thi giấy 60 phút: **8 câu trắc nghiệm × 0,5đ + 3 câu tự luận × 2đ**. Tự luận là bài tính: phải **viết đủ công thức, các bước và kết luận**.
+> **Mục tiêu: tự giải lại được hết 295 bài** trong [ngan-hang-theo-chu-de.md](ngan-hang-theo-chu-de.md) mà không nhìn lời giải. Đề thi giấy 60 phút: **8 câu trắc nghiệm × 0,5đ + 3 câu tự luận × 2đ**. Tự luận là bài tính: phải **viết đủ công thức, các bước và kết luận**.
 > Kiến thức nền: [de-cuong.md](de-cuong.md). Số viết theo kiểu bài giảng: dấu chấm thập phân, dấu phẩy phân cách nghìn.
 
 ## Mục lục
@@ -180,6 +180,11 @@ Khi có câu LTTN, KT thì giải lại ra kết quả, không nhớ chữ cái 
 | E(p) | dương, so với **1**; E < 1 tăng giá thì **doanh thu tăng** |
 | ∫ eᵏˣ dx | **chia** k, không nhân k |
 | Đổi biến | quên hệ số du (Bài 6 Ví dụ 5a slide in nhầm 2/3, đúng **1/3**) |
+| Diện tích dưới √x·(x+3) | khai triển căn thức thành x^(3/2)+3x^(1/2) **trước** khi lấy nguyên hàm, không giữ nguyên dạng tích |
+| Hàm 2 biến có hệ số phân số (1/2)x² | đạo hàm theo x chỉ ra **x** (không phải 2x hay x²) — dễ nhầm với trường hợp hệ số nguyên |
+| MPK/MPL Cobb-Douglas | thay đúng biến K vào số mũ của K, L vào số mũ của L — đề mẫu từng thay nhầm vai trò K↔L khiến đáp án không khớp, gặp trường hợp này cứ giữ đáp án hệ thống/đề mẫu |
+| Đạo hàm hỗn hợp f_xy có dấu trừ trong đề | đạo hàm từng bước theo đúng dấu của số hạng gốc (vd. −5xy cho fₓy = ... − 5, không phải +5) |
+| Đề mẫu/đề thi có lỗi đánh máy (thừa/thiếu dấu) | nếu tính ra đúng giá trị của một phương án nhưng đáp án ghi nhãn kèm dấu khác, lấy **giá trị** làm chuẩn, đáp án hệ thống vẫn thắng về mặt lựa chọn |
 | Gini | nhân **2**; Gini nhỏ hơn là công bằng hơn |
 | Giá trị trung bình | chia **(b − a)** |
 | CS, PS | CS = tích phân − p₀q₀; PS = p₀q₀ − tích phân (ngược nhau) |

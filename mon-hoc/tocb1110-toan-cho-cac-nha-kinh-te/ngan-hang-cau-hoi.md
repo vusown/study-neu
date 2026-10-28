@@ -2926,23 +2926,7 @@ p (đô la/đơn vị): 1.21, 3.19, 3.97, 5.31, 6.72, 8.16, 9.54, 11.03 _(Hệ t
 > 4. **Kết quả:** MR = (8x²+64x+20)/(4+x)² (đô-la/đơn vị).
 > 5. ⚡ Lỗi hay gặp: khai triển sai (16x+5)(4+x) dẫn tới hệ số 63 hoặc 64 bị lẫn dấu.
 
-**Câu 198.** Một công ty bán bình nước giữ nhiệt với giá $20 mỗi chiếc và bán được 1,000 chiếc mỗi tháng. Qua khảo sát, công ty ước tính rằng mỗi lần tăng giá thêm $2, họ sẽ bán ít hơn 100 chiếc mỗi tháng. Chi phí sản xuất mỗi bình là $12. Hỏi công ty nên bán bình nước với giá bao nhiêu để lợi nhuận hàng tháng lớn nhất?
-ĐÁP ÁN: _(Hệ thống — LTTN tổng hợp lần 2)_
-
-- **A. $26** ✅
-- B. $24
-- C. $25
-- D. $27
-
-> 💡 ✅ Đáp án hệ thống. **Cách tính:** Gọi t là số lần tăng giá $2; giá = 20+2t, lượng bán = 1000−100t.
-> 1. Lợi nhuận: π(t) = (giá − chi phí)×lượng = (20+2t−12)(1000−100t) = (8+2t)(1000−100t).
-> 2. Khai triển: π(t) = 8000 −800t +2000t −200t² = 8000 +1200t −200t².
-> 3. π'(t) = 1200 − 400t = 0 ⇒ t = 3.
-> 4. Kiểm tra cực đại: π''(t) = −400 < 0 ⇒ t=3 là cực đại.
-> 5. **Kết quả:** giá tối ưu = 20 + 2(3) = $26.
-> 6. ⚡ Lỗi hay gặp: quên trừ chi phí $12 trước khi nhân với lượng bán, dẫn đến tối ưu hóa doanh thu thay vì lợi nhuận.
-
-**Câu 199.** Cho hàm f(x, y) có các đạo hàm riêng cấp 1 và cấp 2 liên tục và (a, b) là một điểm tới hạn của f(x, y). Đặt D(x, y) = f_xx(x, y) f_yy(x, y) − f²_xy(x, y), khi đó f(x, y) đạt cực tiểu tương đối tại (a, b) nếu _(Hệ thống — LTTN tổng hợp lần 2)_
+**Câu 198.** Cho hàm f(x, y) có các đạo hàm riêng cấp 1 và cấp 2 liên tục và (a, b) là một điểm tới hạn của f(x, y). Đặt D(x, y) = f_xx(x, y) f_yy(x, y) − f²_xy(x, y), khi đó f(x, y) đạt cực tiểu tương đối tại (a, b) nếu _(Hệ thống — LTTN tổng hợp lần 2)_
 
 - A. D(a,b) < 0, f_xx(a,b) > 0.
 - **B. D(a,b) > 0, f_xx(a,b) > 0.** ✅
@@ -2956,7 +2940,7 @@ p (đô la/đơn vị): 1.21, 3.19, 3.97, 5.31, 6.72, 8.16, 9.54, 11.03 _(Hệ t
 > 4. **Kết quả:** điều kiện cực tiểu là D(a,b) > 0 và f_xx(a,b) > 0.
 > 5. ⚡ Lỗi hay gặp: nhớ ngược dấu của f_xx giữa cực đại và cực tiểu.
 
-**Câu 200.** Nếu hàm f(x, y) = ax² + 4xy + (1/2)y² + 5x − 10 có một điểm tới hạn M(1, −4) thì giá trị a bằng bao nhiêu?
+**Câu 199.** Nếu hàm f(x, y) = ax² + 4xy + (1/2)y² + 5x − 10 có một điểm tới hạn M(1, −4) thì giá trị a bằng bao nhiêu?
 ĐÁP ÁN: _(Hệ thống — LTTN tổng hợp lần 2)_
 
 - A. a = 1
@@ -2971,7 +2955,7 @@ p (đô la/đơn vị): 1.21, 3.19, 3.97, 5.31, 6.72, 8.16, 9.54, 11.03 _(Hệ t
 > 4. **Kết quả:** a = 11/2.
 > 5. ⚡ Lỗi hay gặp: tính nhầm dấu khi chuyển vế (−16+5=−11, không phải −21 hay 21), dẫn tới chọn a=−11/2.
 
-**Câu 201.** Một nghiên cứu cho thấy, nếu người lao động làm việc 100x giờ trên y mẫu đất thì sẽ sản xuất được f(x, y) = Ax^0.3 y^0.7 giạ lúa mì, trong đó A là một hằng số dương. Giả sử các yếu tố sản xuất x và y được tăng gấp đôi. Khi đó sản lượng lúa mỳ sẽ: _(Hệ thống — LTTN tổng hợp lần 2)_
+**Câu 200.** Một nghiên cứu cho thấy, nếu người lao động làm việc 100x giờ trên y mẫu đất thì sẽ sản xuất được f(x, y) = Ax^0.3 y^0.7 giạ lúa mì, trong đó A là một hằng số dương. Giả sử các yếu tố sản xuất x và y được tăng gấp đôi. Khi đó sản lượng lúa mỳ sẽ: _(Hệ thống — LTTN tổng hợp lần 2)_
 
 - **A. Tăng lên gấp đôi** ✅
 - B. Không đổi
@@ -2983,7 +2967,7 @@ p (đô la/đơn vị): 1.21, 3.19, 3.97, 5.31, 6.72, 8.16, 9.54, 11.03 _(Hệ t
 > 2. **Kết quả:** f(2x,2y) = 2f(x,y) ⇒ sản lượng tăng lên gấp đôi.
 > 3. ⚡ Lỗi hay gặp: không nhận ra tổng số mũ bằng 1 (hiệu suất không đổi theo quy mô), nhầm sang trường hợp hiệu suất tăng/giảm theo quy mô.
 
-**Câu 202.** Tích phân ∫ dx/(eˣ−1) bằng _(Hệ thống — LTTN tổng hợp lần 2)_
+**Câu 201.** Tích phân ∫ dx/(eˣ−1) bằng _(Hệ thống — LTTN tổng hợp lần 2)_
 
 - A. ln(1−eˣ) + C
 - B. −ln(1−eˣ) + C
@@ -2997,7 +2981,7 @@ p (đô la/đơn vị): 1.21, 3.19, 3.97, 5.31, 6.72, 8.16, 9.54, 11.03 _(Hệ t
 > 4. **Kết quả:** cả ba đáp án trên đều sai.
 > 5. ⚡ Lỗi hay gặp: quên đổi dx = du/u, chỉ viết ∫du/(u−1) = ln(u−1)+C mà bỏ sót việc tách phân thức ra hai số hạng.
 
-**Câu 203.** Nếu với mọi số nguyên n, ta luôn có ∫ₙ^{n+1} f(x) dx = n² thì giá trị của tích phân ∫₋₂⁴ f(x)dx bằng _(Hệ thống — LTTN tổng hợp lần 2)_
+**Câu 202.** Nếu với mọi số nguyên n, ta luôn có ∫ₙ^{n+1} f(x) dx = n² thì giá trị của tích phân ∫₋₂⁴ f(x)dx bằng _(Hệ thống — LTTN tổng hợp lần 2)_
 
 - A. 16
 - B. 14
@@ -3011,7 +2995,7 @@ p (đô la/đơn vị): 1.21, 3.19, 3.97, 5.31, 6.72, 8.16, 9.54, 11.03 _(Hệ t
 > 4. **Kết quả:** 19.
 > 5. ⚡ Lỗi hay gặp: tính sai cận (ví dụ tính n từ −2 đến 4 thay vì đến 3), hoặc cộng thiếu/thừa một số hạng.
 
-**Câu 204.** Trong một thí nghiệm về quá trình học tập, một người tham gia dành x giờ để học lý thuyết và y giờ để làm bài luyện tập mỗi tuần. Khi đó, số điểm đạt được là:
+**Câu 203.** Trong một thí nghiệm về quá trình học tập, một người tham gia dành x giờ để học lý thuyết và y giờ để làm bài luyện tập mỗi tuần. Khi đó, số điểm đạt được là:
 S = −x² + xy + 10x − y² + y + 15
 Thời gian học lý thuyết và làm bài luyện tập tối ưu để người tham gia đạt được điểm cao nhất là phương án nào dưới đây? _(Hệ thống — LTTN tổng hợp lần 2)_
 
@@ -3028,7 +3012,7 @@ Thời gian học lý thuyết và làm bài luyện tập tối ưu để ngư�
 > 5. **Kết quả:** x = 7, y = 4.
 > 6. ⚡ Lỗi hay gặp: giải sai hệ phương trình (nhầm dấu khi thế x=2y−1), dẫn tới đảo ngược x và y.
 
-**Câu 205.** Giá trị trung bình của hàm f(x) = x² trên đoạn [1, 2] là bao nhiêu?
+**Câu 204.** Giá trị trung bình của hàm f(x) = x² trên đoạn [1, 2] là bao nhiêu?
 ĐÁP ÁN: _(Hệ thống — LTTN tổng hợp lần 2)_
 
 - A. 2
@@ -3042,7 +3026,7 @@ Thời gian học lý thuyết và làm bài luyện tập tối ưu để ngư�
 > 3. **Kết quả:** giá trị trung bình = 7/3.
 > 4. ⚡ Lỗi hay gặp: quên chia cho (b−a)=1 (ở đây không ảnh hưởng vì bằng 1, nhưng dễ nhầm công thức nguyên hàm x³/3 thành x³).
 
-**Câu 206.** Chi phí sản xuất x trăm đơn vị hàng hóa A và y trăm đơn vị hàng hóa B của một công ty là C(x, y) = x² + 2xy + y² trăm đô-la. Giá bán hàng hóa A là p = 100 − 2x đô-la và giá bán hàng hóa B là q = 80 − y đô-la. Mức sản lượng mang lại lợi nhuận tối đa cho công ty là: _(Hệ thống — LTTN tổng hợp lần 2)_
+**Câu 205.** Chi phí sản xuất x trăm đơn vị hàng hóa A và y trăm đơn vị hàng hóa B của một công ty là C(x, y) = x² + 2xy + y² trăm đô-la. Giá bán hàng hóa A là p = 100 − 2x đô-la và giá bán hàng hóa B là q = 80 − y đô-la. Mức sản lượng mang lại lợi nhuận tối đa cho công ty là: _(Hệ thống — LTTN tổng hợp lần 2)_
 
 - A. x = 16, y = 10.
 - B. x = 10, y = 16.
@@ -3057,7 +3041,7 @@ Thời gian học lý thuyết và làm bài luyện tập tối ưu để ngư�
 > 5. **Kết quả:** x=12, y=14 (trăm đơn vị).
 > 6. ⚡ Lỗi hay gặp: khai triển sai C(x,y) hoặc quên dấu trừ khi lập hàm lợi nhuận, dẫn tới hệ phương trình sai.
 
-**Câu 207.** Chi phí cận biên của việc sản xuất q đơn vị một loại sản phẩm của một nhà sản xuất là C'(q) = 3q² − 30q + 200 đô-la mỗi đơn vị. Biết rằng chi phí để sản xuất 3 đơn vị đầu tiên là $1000. Tính chi phí để sản xuất 6 đơn vị đầu tiên. _(Hệ thống — LTTN tổng hợp lần 2)_
+**Câu 206.** Chi phí cận biên của việc sản xuất q đơn vị một loại sản phẩm của một nhà sản xuất là C'(q) = 3q² − 30q + 200 đô-la mỗi đơn vị. Biết rằng chi phí để sản xuất 3 đơn vị đầu tiên là $1000. Tính chi phí để sản xuất 6 đơn vị đầu tiên. _(Hệ thống — LTTN tổng hợp lần 2)_
 
 - **A. $1384** ✅
 - B. $1500
@@ -3071,7 +3055,7 @@ Thời gian học lý thuyết và làm bài luyện tập tối ưu để ngư�
 > 4. **Kết quả:** C(6 đơn vị đầu) = 1000 + 384 = $1384.
 > 5. ⚡ Lỗi hay gặp: tính nguyên hàm sai dấu (−15q² thay vì +15q²), hoặc quên cộng $1000 chi phí ban đầu.
 
-**Câu 208.** Người tiêu dùng sẽ mua q đơn vị một loại hàng hóa khi giá hàng hoá đó là p = 10 − q đô la mỗi đơn vị. Người tiêu dùng sẵn lòng chi bao nhiêu để mua đến 4 đơn vị hàng hóa đó? _(Hệ thống — LTTN tổng hợp lần 2)_
+**Câu 207.** Người tiêu dùng sẽ mua q đơn vị một loại hàng hóa khi giá hàng hoá đó là p = 10 − q đô la mỗi đơn vị. Người tiêu dùng sẵn lòng chi bao nhiêu để mua đến 4 đơn vị hàng hóa đó? _(Hệ thống — LTTN tổng hợp lần 2)_
 
 - A. 30
 - B. 31
@@ -3083,7 +3067,7 @@ Thời gian học lý thuyết và làm bài luyện tập tối ưu để ngư�
 > 2. **Kết quả:** 32 đô la.
 > 3. ⚡ Lỗi hay gặp: nhầm công thức nguyên hàm của q thành q² thay vì q²/2, hoặc lấy p(4)×4=24 (chỉ tính theo giá cuối cùng) thay vì lấy tích phân.
 
-**Câu 209.** Mức thuế tài sản trung bình đối với một căn hộ ba phòng ngủ ở một khu vực là T(x) = 40x^{3/2} + 60x + 2,400 (đô-la), trong đó x là số năm kể từ năm 2010. Phần trăm thay đổi của thuế tài sản trong nửa đầu năm 2023 ước tính là: _(Hệ thống — LTTN tổng hợp lần 2)_
+**Câu 208.** Mức thuế tài sản trung bình đối với một căn hộ ba phòng ngủ ở một khu vực là T(x) = 40x^{3/2} + 60x + 2,400 (đô-la), trong đó x là số năm kể từ năm 2010. Phần trăm thay đổi của thuế tài sản trong nửa đầu năm 2023 ước tính là: _(Hệ thống — LTTN tổng hợp lần 2)_
 
 - A. 7.32%
 - B. 2.17%
@@ -3099,7 +3083,7 @@ Thời gian học lý thuyết và làm bài luyện tập tối ưu để ngư�
 > 6. **Kết quả:** khoảng 2.73%.
 > 7. ⚡ Lỗi hay gặp: quên nhân với Δx=0.5 (nửa năm), dẫn tới chọn 7.32%/7.23% (giá trị gần với tốc độ cả năm hoặc tính sai số mũ 3/2).
 
-**Câu 210.** Tích phân suy rộng ∫₀^{+∞} xe^{−x} dx nhận giá trị bằng: _(Hệ thống — LTTN tổng hợp lần 2)_
+**Câu 209.** Tích phân suy rộng ∫₀^{+∞} xe^{−x} dx nhận giá trị bằng: _(Hệ thống — LTTN tổng hợp lần 2)_
 
 - A. −1
 - **B. 1** ✅
@@ -3113,7 +3097,7 @@ Thời gian học lý thuyết và làm bài luyện tập tối ưu để ngư�
 > 4. **Kết quả:** tích phân hội tụ và bằng 1.
 > 5. ⚡ Lỗi hay gặp: quên lấy giới hạn khi b→∞ (bỏ sót số hạng biên vô cực), hoặc tính sai dấu khi tích phân từng phần.
 
-**Câu 211.** Nếu f(x) là một đa thức bậc hai theo x sao cho
+**Câu 210.** Nếu f(x) là một đa thức bậc hai theo x sao cho
 6∫₀¹ f(x)dx − [f(0) + 4f(1/2)] = kf(1)
 thì giá trị của k là _(Hệ thống — LTTN tổng hợp lần 2)_
 
@@ -3130,7 +3114,7 @@ thì giá trị của k là _(Hệ thống — LTTN tổng hợp lần 2)_
 > 5. **Kết quả:** k = 1.
 > 6. ⚡ Lỗi hay gặp: không nhận ra đây là công thức Simpson chính xác cho đa thức bậc ≤3, cố tính trực tiếp với một đa thức cụ thể rồi suy luận sai.
 
-**Câu 212.** Cho F(x) là một nguyên hàm của hàm số f(x) = 2e^{−3x} + ∛(x²). Biết F(0) = 1. Giá trị F(1) là: _(Hệ thống — LTTN tổng hợp lần 2)_
+**Câu 211.** Cho F(x) là một nguyên hàm của hàm số f(x) = 2e^{−3x} + ∛(x²). Biết F(0) = 1. Giá trị F(1) là: _(Hệ thống — LTTN tổng hợp lần 2)_
 
 - **A. −2/(3e³) + 34/15** ✅
 - B. −2/(3e³) + 3/5
@@ -3145,7 +3129,7 @@ thì giá trị của k là _(Hệ thống — LTTN tổng hợp lần 2)_
 > 5. **Kết quả:** F(1) = −2/(3e³) + 34/15.
 > 6. ⚡ Lỗi hay gặp: quy đồng sai 3/5+5/3 (ra 3/5 thay vì 34/15), hoặc quên đổi dấu khi tính nguyên hàm của e^{−3x}.
 
-**Câu 213.** Biết ∫₁² (e^{−3x} + 1/√x) dx = ae^{−3} + be^{−6} + 2√2 − 2. Giá trị a + b là: _(Hệ thống — LTTN tổng hợp lần 2)_
+**Câu 212.** Biết ∫₁² (e^{−3x} + 1/√x) dx = ae^{−3} + be^{−6} + 2√2 − 2. Giá trị a + b là: _(Hệ thống — LTTN tổng hợp lần 2)_
 
 - A. 1/2
 - **B. 0** ✅
@@ -3159,7 +3143,7 @@ thì giá trị của k là _(Hệ thống — LTTN tổng hợp lần 2)_
 > 4. **Kết quả:** a + b = 1/3 − 1/3 = 0.
 > 5. ⚡ Lỗi hay gặp: nhầm dấu của b (viết +1/3 thay vì −1/3) khi tính cận trên/dưới của e^{−3x}.
 
-**Câu 214.** Biết rằng (x₀, y₀) là một điểm tới hạn của hàm f(x, y) = x³ + 3xy + y³. Khi đó, x₀, y₀ không thỏa mãn phương trình nào dưới đây? _(Hệ thống — LTTN tổng hợp lần 2)_
+**Câu 213.** Biết rằng (x₀, y₀) là một điểm tới hạn của hàm f(x, y) = x³ + 3xy + y³. Khi đó, x₀, y₀ không thỏa mãn phương trình nào dưới đây? _(Hệ thống — LTTN tổng hợp lần 2)_
 
 - A. x² + y = 0
 - **B. x² + y² = 3** ✅
@@ -3174,7 +3158,7 @@ thì giá trị của k là _(Hệ thống — LTTN tổng hợp lần 2)_
 > 5. **Kết quả:** phương trình không thỏa mãn là x² + y² = 3.
 > 6. ⚡ Lỗi hay gặp: chỉ tìm một điểm tới hạn (bỏ sót nghiệm x=−1) rồi kết luận vội.
 
-**Câu 215.** Nếu F(x) = (1/x²) ∫₄ˣ [4t² − 2F'(t)] dt thì F'(4) bằng _(Hệ thống — LTTN tổng hợp lần 2)_
+**Câu 214.** Nếu F(x) = (1/x²) ∫₄ˣ [4t² − 2F'(t)] dt thì F'(4) bằng _(Hệ thống — LTTN tổng hợp lần 2)_
 
 - A. 32
 - B. 32/3
@@ -3189,7 +3173,7 @@ thì giá trị của k là _(Hệ thống — LTTN tổng hợp lần 2)_
 > 5. **Kết quả:** F'(4) = 32/9.
 > 6. ⚡ Lỗi hay gặp: quên số hạng −2G(x)/x³ khi đạo hàm thương, hoặc quên rằng G(4)=0 làm đơn giản phép tính.
 
-**Câu 216.** Cho hàm số f(x, y) = x² + 4xy + y² − y. Khi đó f_y(−1, 1) bằng: _(Hệ thống — LTTN tổng hợp lần 2)_
+**Câu 215.** Cho hàm số f(x, y) = x² + 4xy + y² − y. Khi đó f_y(−1, 1) bằng: _(Hệ thống — LTTN tổng hợp lần 2)_
 
 - A. −5
 - **B. −3** ✅
@@ -3201,3 +3185,1109 @@ thì giá trị của k là _(Hệ thống — LTTN tổng hợp lần 2)_
 > 2. Thay (x,y)=(−1,1): f_y = 4(−1) + 2(1) − 1 = −4 + 2 − 1 = −3.
 > 3. **Kết quả:** f_y(−1,1) = −3.
 > 4. ⚡ Lỗi hay gặp: quên đạo hàm của −y là −1 (hằng số), hoặc tính nhầm 4x thành 4y.
+
+## Trắc nghiệm hệ thống — lần 1 (LTTN Bài 7)
+
+> Đáp án theo phần làm đúng trên hệ thống (Bài luyện tập số 5, Tuần 5, giữa Bài 7 và Bài 8). Chỉ ghi các câu mới.
+
+**Câu 216.** Diện tích của miền nằm giữa hai đồ thị của hàm y = x² và y = x trên đoạn [0, 1] là: _(Hệ thống — LTTN Bài 7)_
+
+- **A. 1/6** ✅
+- B. 1/2
+- C. 1/3
+- D. 5/6
+
+> 💡 ✅ Đáp án hệ thống. **Cách tính:** trên [0, 1], x ≥ x² (vì 0 ≤ x ≤ 1) nên đường trên là y = x, đường dưới là y = x².
+> 1. A = ∫₀¹ (x − x²) dx = [x²/2 − x³/3]₀¹.
+> 2. Thay cận: 1/2 − 1/3.
+> 3. **Kết quả: A = 1/6**.
+> 4. ⚡ Lỗi hay gặp: lấy ngược thứ tự trừ (x² − x) ra kết quả âm −1/6; quên xác định đường nào nằm trên trên đoạn [0,1].
+
+**Câu 217.** Giả sử t năm sau kể từ bây giờ, một dự án đầu tư sẽ sinh lợi với tốc độ P₁'(t) = 20 + t² trăm đô la mỗi năm, trong khi đó dự án đầu tư thứ hai sẽ sinh lợi với tốc độ P₂'(t) = 100 + t trăm đô la mỗi năm. Lợi nhuận vượt trội ròng trong khoảng thời gian 3 năm đầu tiên là: _(Hệ thống — LTTN Bài 7)_
+
+- A. 35.5 trăm đô la
+- B. 135.5 trăm đô la
+- **C. 235.5 trăm đô la** ✅
+- D. 335.5 trăm đô la
+
+> 💡 ✅ Đáp án hệ thống. **Cách tính:** NE = ∫₀³ [P₂'(t) − P₁'(t)] dt.
+> 1. P₂'(t) − P₁'(t) = (100 + t) − (20 + t²) = 80 + t − t².
+> 2. Nguyên hàm: 80t + t²/2 − t³/3.
+> 3. Thay t = 3: 240 + 4.5 − 9 = 235.5; thay t = 0: 0.
+> 4. **Kết quả: NE = 235.5 trăm đô la**.
+> 5. ⚡ Lỗi hay gặp: quên bình phương t trong P₁'(t); tính nhầm t³/3 tại t=3 (ra 9, không phải 27/3 lộn).
+
+**Câu 218.** Hàm L(x), với 0 ≤ x ≤ 1 và có đồ thị là đường cong Lorenz, không thể nhận giá trị nào tại x = 0.5? _(Hệ thống — LTTN Bài 7)_
+
+- A. 0.3
+- B. 0.4
+- C. 0.5
+- **D. 0.6** ✅
+
+> 💡 ✅ Đáp án hệ thống. **Lý thuyết:** đường cong Lorenz L(x) luôn thoả **L(x) ≤ x** với mọi x ∈ [0,1] (nằm dưới hoặc trên đường bình đẳng tuyệt đối y = x), vì x% dân số nghèo nhất không thể nhận hơn x% tổng thu nhập.
+> 1. Tại x = 0.5, điều kiện là L(0.5) ≤ 0.5.
+> 2. Các giá trị 0.3, 0.4, 0.5 đều ≤ 0.5, có thể xảy ra (kể cả bằng, ứng với phân phối hoàn toàn bình đẳng tại điểm đó).
+> 3. Giá trị 0.6 > 0.5, vi phạm điều kiện L(x) ≤ x.
+> 4. **Kết quả: L(x) không thể nhận giá trị 0.6 tại x = 0.5.**
+> 5. ⚡ Lỗi hay gặp: nhầm điều kiện thành L(x) ≥ x hoặc không nhớ Lorenz luôn nằm dưới đường chéo.
+
+**Câu 219.** Giả sử đường cong Lorenz đối với một nền kinh tế xã hội được cho bởi hàm L(x) = x³. Chỉ số bất bình đẳng trong phân phối thu nhập của xã hội đó là bao nhiêu? _(Hệ thống — LTTN Bài 7)_
+
+- A. 1
+- **B. 1/2** ✅
+- C. 1/3
+- D. 1/4
+
+> 💡 ✅ Đáp án hệ thống. **Cách tính:** chỉ số Gini GI = 2∫₀¹ [x − L(x)] dx.
+> 1. GI = 2∫₀¹ (x − x³) dx = 2[x²/2 − x⁴/4]₀¹.
+> 2. Thay cận: 2(1/2 − 1/4) = 2(1/4).
+> 3. **Kết quả: GI = 1/2**.
+> 4. ⚡ Lỗi hay gặp: quên nhân hệ số 2; lấy nhầm nguyên hàm của x³ là x⁴ (thiếu chia 4).
+
+**Câu 220.** Một người thực hiện một hoạt động kinh doanh, dự kiến tạo ra dòng thu nhập với tốc độ hằng f(t) = 1,000 đô la mỗi năm. Nếu lãi suất hiện hành cố định ở mức 5% mỗi năm và được tính gộp liên tục thì giá trị hiện tại của dòng thu nhập này trong 5 năm là bao nhiêu? _(Hệ thống — LTTN Bài 7)_
+
+- A. $4,404
+- B. $4,414
+- **C. $4,424** ✅
+- D. $4,434
+
+> 💡 ✅ Đáp án hệ thống. **Cách tính:** PV = ∫₀ᵀ f(t)e^(−rt) dt với f(t) = 1,000, r = 0.05, T = 5.
+> 1. PV = ∫₀⁵ 1,000 e^(−0.05t) dt = 1,000·[−(1/0.05)e^(−0.05t)]₀⁵ = 20,000[1 − e^(−0.25)].
+> 2. e^(−0.25) ≈ 0.7788.
+> 3. PV ≈ 20,000 × 0.2212 ≈ 4,423.98.
+> 4. **Kết quả: ≈ $4,424**.
+> 5. ⚡ Lỗi hay gặp: dùng công thức FV (e^{r(T−t)}) thay vì PV (e^{−rt}); quên nhân 1,000 vào trước dấu tích phân.
+
+**Câu 221.** Người tiêu dùng sẽ mua q đơn vị một loại hàng hóa khi giá hàng hoá đó p = 10 − q đô la mỗi đơn vị. Thặng dư của người tiêu dùng khi mua 4 đơn vị hàng hóa đó là bao nhiêu? _(Hệ thống — LTTN Bài 7)_
+
+- A. 5 đô la
+- B. 6 đô la
+- C. 7 đô la
+- **D. 8 đô la** ✅
+
+> 💡 ✅ Đáp án hệ thống. **Cách tính:** CS = ∫₀^{q₀} D(q) dq − p₀·q₀.
+> 1. q₀ = 4, giá tại q₀: p₀ = 10 − 4 = 6.
+> 2. ∫₀⁴ (10 − q) dq = 32 (đã tính ở câu mức sẵn lòng chi).
+> 3. CS = 32 − 6×4 = 32 − 24 = 8.
+> 4. **Kết quả: 8 đô la**.
+> 5. ⚡ Lỗi hay gặp: dùng nhầm công thức PS (p₀q₀ trừ tích phân) cho CS.
+
+## Trắc nghiệm hệ thống — lần 1 (LTTN Bài 9)
+
+> Đáp án theo phần làm đúng trên hệ thống (Bài luyện tập số 6, Tuần 6, giữa Bài 9 và Bài 10). Chỉ ghi các câu mới.
+
+**Câu 222.** Cho hàm số f(x) có đạo hàm liên tục trên R và một số giá trị của f(x) được cho trong bảng sau [bản chụp gốc của hệ thống bị lỗi hiển thị, chỉ thấy rõ hai ô ghi "2" và "3" ở hàng trên (nhiều khả năng là hàng x = 1, 2, 3), hàng giá trị f(x) không hiển thị]. Tích phân ∫₁⁹ f'(√x)/√x dx bằng _(Hệ thống — LTTN Bài 9)_
+
+- A. 2
+- B. −1
+- C. −1/3
+- **D. −2** ✅
+
+> 💡 ✅ Đáp án hệ thống. ⚠️ Bảng số liệu bị lỗi hiển thị trong bản chụp (không đọc được đầy đủ hàng giá trị f(x)), nên chưa tái hiện được phép tính bằng số cụ thể — đây là dạng câu giống hệt một câu đã gặp trước (cũng lỗi bảng, cũng đáp án −2). Phương pháp giải và đáp án hệ thống như sau:
+> 1. Đặt u = √x ⇒ du = 1/(2√x) dx ⇒ dx/√x = 2du.
+> 2. Đổi cận: x = 1 ⇒ u = 1; x = 9 ⇒ u = 3.
+> 3. Tích phân trở thành: ∫₁⁹ f'(√x)/√x dx = ∫₁³ f'(u)·2du = 2[f(3) − f(1)].
+> 4. Theo đáp án hệ thống, kết quả bằng −2, suy ra f(3) − f(1) = −1 (giá trị cụ thể lấy từ bảng không đọc được trọn vẹn do lỗi hiển thị).
+> 5. **Kết quả: −2** (theo đáp án hệ thống).
+> 6. ⚡ Lỗi hay gặp: quên nhân hệ số 2 khi đổi biến dx/√x = 2du.
+
+**Câu 223.** Giá trị của tích phân ∫₀² √(4 − x²) dx là _(Hệ thống — LTTN Bài 9)_
+
+- A. 4π
+- **B. π** ✅
+- C. 8π
+- D. π/2
+
+> 💡 ✅ Đáp án hệ thống. **Cách tính:** nhận diện ∫₀² √(4−x²) dx là diện tích một phần tư đường tròn bán kính 2 (y = √(4−x²) là nửa trên đường tròn x²+y²=4, lấy x từ 0 đến 2 là một phần tư hình tròn).
+> 1. Diện tích hình tròn bán kính R = 2 là πR² = 4π.
+> 2. Một phần tư hình tròn: 4π/4 = π.
+> 3. **Kết quả: π**.
+> 4. ⚡ Lỗi hay gặp: nhầm lấy cả nửa hình tròn (2π) hoặc cả hình tròn (4π) thay vì một phần tư; quên R² = 4 (R = 2, không phải R = 4).
+
+**Câu 224.** Hãng hàng không Việt Nam Airlines xác định được lợi nhuận cận biên thu được từ việc bán x chỗ ngồi trên chuyến bay từ Hà Nội đến Thành phố Hồ Chí Minh, tính theo trăm đô-la, được cho bởi hàm P'(x) = √x − 6. Tìm lợi nhuận khi bán được 100 ghế trên chuyến bay đó. _(Hệ thống — LTTN Bài 9)_
+
+- **A. 66.67** ✅
+- B. 4
+- C. 400
+- D. 6.667
+
+> 💡 ✅ Đáp án hệ thống. **Cách tính:** lợi nhuận P(x) = ∫₀ˣ P'(t) dt (giả sử P(0) = 0, bán 0 ghế thì lợi nhuận bằng 0).
+> 1. P(x) = ∫(√x − 6) dx = (2/3)x^(3/2) − 6x + C, với C = 0 (từ P(0) = 0).
+> 2. Thay x = 100: P(100) = (2/3)(100)^(3/2) − 6(100) = (2/3)(1,000) − 600.
+> 3. (2/3)(1,000) = 666.67.
+> 4. **Kết quả: 666.67 − 600 = 66.67** (trăm đô-la).
+> 5. ⚡ Lỗi hay gặp: quên nhân 100^(3/2) = 1,000 (không phải 100² = 10,000); nhầm đơn vị trăm đô-la.
+
+**Câu 225.** Tích phân ∫ dx/(√x + √(x−2)) = _(Hệ thống — LTTN Bài 9)_
+
+- **A. (1/3)[x^(3/2) − (x−2)^(3/2)] + C** ✅
+- B. (2/3)[x^(3/2) − (x−2)^(3/2)] + C
+- C. (1/3)[−x^(3/2) + (x−2)^(3/2)] + C
+- D. (2/3)[−x^(3/2) + (x−2)^(3/2)] + C
+
+> 💡 ✅ Đáp án hệ thống. **Cách tính:** nhân cả tử và mẫu với lượng liên hợp (√x − √(x−2)) để khử căn ở mẫu.
+> 1. Mẫu sau khi nhân liên hợp: (√x)² − (√(x−2))² = x − (x−2) = 2.
+> 2. Tích phân trở thành: ∫ [√x − √(x−2)]/2 dx = (1/2)∫[x^(1/2) − (x−2)^(1/2)] dx.
+> 3. = (1/2)[(2/3)x^(3/2) − (2/3)(x−2)^(3/2)] + C.
+> 4. **Kết quả: (1/3)[x^(3/2) − (x−2)^(3/2)] + C**.
+> 5. ⚡ Lỗi hay gặp: quên nhân liên hợp; sai hệ số 1/3 thành 2/3.
+
+**Câu 226.** Diện tích của hình phẳng giới hạn bởi đường cong y = xe^(−x²) và đường thẳng y = 0 là: _(Hệ thống — LTTN Bài 9)_
+
+- A. 2
+- B. 0
+- C. −1
+- **D. 1** ✅
+
+> 💡 ✅ Đáp án hệ thống. **Cách tính:** y = xe^(−x²) là hàm lẻ: dương với x > 0, âm với x < 0, tạo thành hai miền đối xứng qua gốc toạ độ. Diện tích hình phẳng luôn tính bằng trị tuyệt đối, không lấy tích phân có dấu trực tiếp (nếu lấy tích phân suốt từ −∞ đến +∞ không trị tuyệt đối sẽ triệt tiêu bằng 0, đó là một đáp án nhiễu).
+> 1. Vì hàm lẻ, diện tích toàn phần = 2 × diện tích phần x > 0: S = 2∫₀^{+∞} xe^(−x²) dx.
+> 2. Đặt u = x², du = 2x dx ⟹ ∫₀^{+∞} xe^(−x²) dx = (1/2)∫₀^{+∞} e^(−u) du = (1/2)[−e^(−u)]₀^{+∞} = (1/2)(0 − (−1)) = 1/2.
+> 3. S = 2 × (1/2) = 1.
+> 4. **Kết quả: diện tích = 1**.
+> 5. ⚡ Lỗi hay gặp: tính tích phân suy rộng có dấu từ −∞ đến +∞ (triệt tiêu, ra 0) thay vì lấy trị tuyệt đối / nhân đôi phần dương.
+
+**Câu 227.** Sử dụng quy tắc hình thang với n = 5 để tính gần đúng tích phân ∫₀¹ eˣ² dx, ta được tích phân xấp xỉ bằng (lấy kết quả đến chữ số thập phân thứ 5): _(Hệ thống — LTTN Bài 9)_
+
+- **A. 1.48065** ✅
+- B. 1.46265
+- C. 1.46027
+- D. 1.48032
+
+> 💡 ✅ Đáp án hệ thống. **Cách tính:** quy tắc hình thang Tₙ = (Δx/2)[f(x₀) + 2f(x₁) + ... + 2f(xₙ₋₁) + f(xₙ)], Δx = (1−0)/5 = 0.2, f(x) = e^(x²).
+> 1. Các điểm chia: x₀=0, x₁=0.2, x₂=0.4, x₃=0.6, x₄=0.8, x₅=1.
+> 2. f(x₀)=1; f(x₁)=e^0.04≈1.04081; f(x₂)=e^0.16≈1.17351; f(x₃)=e^0.36≈1.43333; f(x₄)=e^0.64≈1.89648; f(x₅)=e¹≈2.71828.
+> 3. T₅ = (0.2/2)[1 + 2(1.04081+1.17351+1.43333+1.89648) + 2.71828] = 0.1[1 + 2(5.54413) + 2.71828] = 0.1[1+11.08826+2.71828]=0.1(14.80654).
+> 4. **Kết quả: T₅ ≈ 1.48065**.
+> 5. ⚡ Lỗi hay gặp: nhầm hàm eˣ² với (eˣ)²=e^(2x); quên nhân hệ số 2 cho các điểm giữa.
+
+**Câu 228.** Cho hàm y = f(x) có đồ thị trên đoạn [0; 9] với các giá trị đọc từ đồ thị: f(0)=1, f(1)=2, f(2)=3, f(3)=3, f(4)=1.5, f(5)=0, f(6)=−1.5, f(7)=−3, f(8)=−2.5, f(9)=−2 (đồ thị là các đoạn thẳng nối các điểm (0,1), (2,3), (3,3), (7,−3), (9,−2)). Sử dụng quy tắc hình thang với n = 9 để tính gần đúng tích phân ∫₀⁹ f(x) dx, ta được tích phân xấp xỉ bằng: _(Hệ thống — LTTN Bài 9)_
+
+- A. 3
+- B. −2
+- **C. 2** ✅
+- D. −3
+
+> 💡 ✅ Đáp án hệ thống. **Cách tính:** quy tắc hình thang với Δx = 1: T₉ = (1/2)[f(0) + 2(f(1)+...+f(8)) + f(9)].
+> 1. Tổng các giá trị giữa: f(1)+...+f(8) = 2+3+3+1.5+0+(−1.5)+(−3)+(−2.5) = 2.5.
+> 2. 2 × 2.5 = 5.
+> 3. T₉ = (1/2)[1 + 5 + (−2)] = (1/2)(4).
+> 4. **Kết quả: T₉ = 2**.
+> 5. ⚡ Lỗi hay gặp: đọc sai giá trị tại các điểm từ đồ thị (đồ thị là MỘT đoạn thẳng liên tục từ (3,3) xuống (7,−3), không gãy khúc tại trục hoành dù đường đi qua y=0 ở x=5); quên nhân hệ số 2 cho các điểm giữa.
+
+**Câu 229.** Tích phân suy rộng ∫_{−∞}⁰ dx/[(x−1)(x−2)] nhận giá trị bằng: _(Hệ thống — LTTN Bài 9)_
+
+- A. 2
+- **B. ln2** ✅
+- C. 0
+- D. −ln2
+
+> 💡 ✅ Đáp án hệ thống. **Cách tính:** phân tích phân thức: 1/[(x−1)(x−2)] = 1/(x−2) − 1/(x−1) (kiểm tra: [1/(x−2) − 1/(x−1)] = [(x−1)−(x−2)]/[(x−1)(x−2)] = 1/[(x−1)(x−2)] ✓).
+> 1. Nguyên hàm: ∫[1/(x−2) − 1/(x−1)]dx = ln|x−2| − ln|x−1| = ln|（x−2)/(x−1)|.
+> 2. ∫_{−∞}⁰ ... dx = lim_{N→−∞} {ln|(0−2)/(0−1)| − ln|(N−2)/(N−1)|} = ln(2) − lim_{N→−∞} ln|(N−2)/(N−1)|.
+> 3. Khi N→−∞: (N−2)/(N−1) → 1 ⟹ ln(1) = 0.
+> 4. **Kết quả: ln2 − 0 = ln2**.
+> 5. ⚡ Lỗi hay gặp: quên trị tuyệt đối trong ln (cả x=0 lẫn N đều nằm ngoài khoảng (1,2) nên (x−1),(x−2) cùng dấu, không ảnh hưởng kết quả nhưng dễ nhầm dấu khi phân tích phân thức).
+
+## Trắc nghiệm hệ thống — lần 1 (LTTN Bài 10)
+
+> Đáp án theo phần làm đúng trên hệ thống (Bài luyện tập số 7, Tuần 7, giữa Bài 10 và Bài 11). Chỉ ghi các câu mới.
+
+**Câu 230.** Sản lượng hàng tuần của một nhà máy là Q(x, y) = 1200x + 450y + x²y − x³ − y² đơn vị, trong đó x là số lao động có kỹ năng và y là số lao động giản đơn được sử dụng. Hiện tại, nhà máy đang sử dụng 30 lao động có kỹ năng và 60 lao động giản đơn. Sản lượng hiện tại của nhà máy là bao nhiêu? _(Hệ thống — LTTN Bài 10)_
+
+- **A. 86,400 đơn vị** ✅
+- B. 86,000 đơn vị
+- C. 84,600 đơn vị
+- D. 85,000 đơn vị
+
+> 💡 ✅ Đáp án hệ thống. **Cách tính:** thay trực tiếp x = 30, y = 60 vào Q(x, y).
+> 1. Q(30, 60) = 1200(30) + 450(60) + 30²(60) − 30³ − 60².
+> 2. Tính từng số hạng: 1200(30) = 36,000; 450(60) = 27,000; 900(60) = 54,000; 30³ = 27,000; 60² = 3,600.
+> 3. Tổng: 36,000 + 27,000 + 54,000 − 27,000 − 3,600.
+> 4. **Kết quả: 86,400 đơn vị.**
+> 5. ⚡ Lỗi hay gặp: tính sai 30³ (= 27,000, không phải 2,700 hay 9,000); quên bình phương 60 trong x²y (900, không phải 30×60).
+
+**Câu 231.** Một nghiên cứu cho thấy, nếu người lao động làm việc 100x giờ trên y mẫu đất thì sẽ sản xuất được f(x, y) = Ax^0.3y^0.7 giạ lúa mì, trong đó A là một hằng số dương. Giả sử các yếu tố sản xuất x và y được tăng gấp đôi. Khi đó sản lượng lúa mỳ sẽ: _(Hệ thống — LTTN Bài 10)_
+
+- **A. Tăng lên gấp đôi** ✅
+- B. Không đổi
+- C. Giảm 1 nửa
+- D. Tăng lên 1.5 lần
+
+> 💡 ✅ Đáp án hệ thống. **Cách tính:** hàm Cobb-Douglas f(x, y) = Ax^0.3y^0.7 có tổng số mũ 0.3 + 0.7 = 1, là hàm **thuần nhất bậc 1**.
+> 1. f(2x, 2y) = A(2x)^0.3(2y)^0.7 = A·2^0.3·x^0.3·2^0.7·y^0.7 = A·2^(0.3+0.7)·x^0.3y^0.7.
+> 2. 2^(0.3+0.7) = 2¹ = 2.
+> 3. f(2x, 2y) = 2·Ax^0.3y^0.7 = 2f(x, y).
+> 4. **Kết quả: sản lượng tăng lên gấp đôi.**
+> 5. ⚡ Lỗi hay gặp: không nhận ra tổng số mũ bằng 1 (hàm thuần nhất bậc 1 ⟹ tăng gấp k lần đầu vào thì sản lượng tăng gấp k lần).
+
+## Trắc nghiệm hệ thống — lần 1 (LTTN Bài 12)
+
+> Đáp án theo phần làm đúng trên hệ thống (Bài luyện tập số 8, giữa Bài 12 và Bài kiểm tra số 2). Chỉ ghi các câu mới (5 câu còn lại trùng với câu đã có trong ngân hàng).
+
+**Câu 232.** Cho hàm f(x, y) = −2x² + y². Khi đó điểm (0, 0) là _(Hệ thống — LTTN Bài 12)_
+
+- **A. điểm yên ngựa của hàm f(x, y).** ✅
+- B. điểm cực đại của hàm f(x, y).
+- C. điểm cực tiểu của hàm f(x, y).
+- D. không phải là điểm tới hạn của hàm f(x, y).
+
+> 💡 ✅ Đáp án hệ thống. **Cách tính:** tìm điểm tới hạn rồi phân loại bằng tiêu chuẩn D.
+> 1. f_x = −4x, f_y = 2y ⟹ (0, 0) là điểm tới hạn duy nhất.
+> 2. f_xx = −4, f_yy = 2, f_xy = 0 ⟹ D(0,0) = (−4)(2) − 0² = −8 < 0.
+> 3. D < 0 nên (0, 0) là điểm yên ngựa (không phải cực trị).
+> 4. **Kết quả: đáp án a.**
+> 5. ⚡ Lỗi hay gặp: thấy f_xx = −4 < 0 rồi vội kết luận cực đại mà không kiểm tra D trước.
+
+**Câu 233.** Hàm f(x, y) đạt cực đại tương đối tại điểm (a, b) trong miền xác định của f nếu thỏa mãn _(Hệ thống — LTTN Bài 12)_
+
+- A. tồn tại một đường tròn trong hệ trục tọa độ xy chứa điểm (a, b) và f(x, y) ≤ f(a, b) với mọi điểm (x, y) nằm trong đường tròn này.
+- B. với bất kỳ đường tròn nào trong hệ trục tọa độ xy có tâm (a, b) thì f(x, y) ≤ f(a, b) với mọi điểm (x, y) nằm trong đường tròn này.
+- **C. tồn tại một đường tròn trong hệ trục tọa độ xy có tâm (a, b) và f(x, y) ≤ f(a, b) với mọi điểm (x, y) nằm trong đường tròn này.** ✅
+- D. f(x, y) ≤ f(a, b) với mọi điểm (x, y) nằm trong mọi miền trong hệ trục tọa độ xy chứa điểm (a, b).
+
+> 💡 ✅ Đáp án hệ thống. **Lý thuyết:** định nghĩa cực đại tương đối (local maximum) của hàm hai biến.
+> 1. (a, b) là điểm cực đại tương đối nếu **tồn tại** một đường tròn (lân cận) **có tâm (a, b)** sao cho f(x, y) ≤ f(a, b) với mọi (x, y) trong đường tròn đó.
+> 2. **Kết quả: đáp án c.**
+> 3. ⚡ Lỗi hay gặp: nhầm "tồn tại" (chỉ cần một lân cận đủ nhỏ) với "với bất kỳ" (phương án b, sai vì đường tròn lớn có thể chứa điểm có giá trị f lớn hơn); nhầm "có tâm (a,b)" với "chứa điểm (a,b)" (phương án a, lỏng hơn định nghĩa thật).
+
+**Câu 234.** Trong Câu 8 (bài toán người tiêu dùng chi $280 mua hai loại hàng hóa với U(x,y) = 100x^0.25y^0.75, giá $2 và $5 mỗi đơn vị), nếu người tiêu dùng chi tiêu dành thêm $1 cho mua sắm hai loại hàng hóa thì lợi ích tối đa sẽ thay đổi bao nhiêu? (trả lời câu hỏi này dựa vào ý nghĩa nhân tử Lagrange) _(Hệ thống — LTTN Bài 12)_
+
+- A. 11.341
+- B. 15.312
+- C. 12.301
+- **D. 14.332** ✅
+
+> 💡 ✅ Đáp án hệ thống. **Cách tính:** λ trong bài toán Lagrange chính là mức thay đổi của lợi ích tối đa khi ngân sách tăng thêm 1 đơn vị (đô-la).
+> 1. Nghiệm tối ưu (đã có ở câu U=100x^0.25y^0.75, 2x+5y=280): x=35, y=42.
+> 2. U_x = 25x^(−0.75)y^0.75 = 2λ ⟹ λ = 12.5·(y/x)^0.75 = 12.5·(42/35)^0.75 = 12.5·(1.2)^0.75.
+> 3. (1.2)^0.75 ≈ 1.1465 ⟹ λ ≈ 12.5·1.1465 ≈ 14.332.
+> 4. **Kết quả: ≈ 14.332 (đơn vị lợi ích trên mỗi đô-la chi thêm).**
+> 5. ⚡ Lỗi hay gặp: dùng U_y/p₂ thay vì U_x/p₁ (phải cho cùng kết quả vì đã ở điểm tối ưu, nhưng dễ tính sai số mũ nếu nhầm vai trò x, y).
+
+**Câu 235.** Giá trị cực đại của hàm f(x, y) = xy² với điều kiện ràng buộc x + y² = 4 là _(Hệ thống — LTTN Bài 12)_
+
+- A. 1/4
+- **B. 4** ✅
+- C. 1/8
+- D. −1/4
+
+> 💡 ✅ Đáp án hệ thống. **Cách tính:** dùng nhân tử Lagrange với f = xy², g = x + y², k = 4.
+> 1. f_x = y², f_y = 2xy, g_x = 1, g_y = 2y ⟹ hệ: y² = λ; 2xy = 2λy; x + y² = 4.
+> 2. Từ phương trình 2: 2y(x − λ) = 0 ⟹ y = 0 hoặc x = λ.
+> 3. Nếu y = 0: x = 4, f = 4·0 = 0.
+> 4. Nếu x = λ = y²: thay vào ràng buộc: x + x = 4 ⟹ x = 2, y² = 2, y = ±√2.
+> 5. f(2, ±√2) = 2·2 = 4.
+> 6. **Kết quả: giá trị cực đại bằng 4 (tại x=2, y=±√2).**
+> 7. ⚡ Lỗi hay gặp: chia 2xy = 2λy cho y rồi bỏ mất nghiệm y = 0 (nghiệm này chỉ cho cực tiểu 0, không ảnh hưởng tới cực đại nhưng cần xét đủ các trường hợp); nhầm kết quả là y² = 2 (giá trị của y²) với giá trị của f.
+
+**Câu 236.** Trong Câu 7 (bài toán nhà đầu tư với $100,000 đầu tư vào hai loại cổ phiếu A và B, lợi nhuận L(x,y) = 15x^0.5y^0.5 nghìn đô-la, ràng buộc x + y = 100), nếu nhà đầu tư dành thêm $1,000 để đầu tư vào hai loại cổ phiếu A và B thì mức lợi nhuận tối đa sẽ thay đổi bao nhiêu? (trả lời câu hỏi này dựa vào ý nghĩa nhân tử Lagrange) _(Hệ thống — LTTN Bài 12)_
+
+- A. $3,500
+- B. $5,500
+- **C. $7,500** ✅
+- D. $1,500
+
+> 💡 ✅ Đáp án hệ thống. **Cách tính:** λ cho biết mức thay đổi lợi nhuận tối đa (nghìn đô-la) khi ngân sách tăng thêm 1 đơn vị (1 nghìn đô-la).
+> 1. Nghiệm tối ưu (đã có ở câu L=15x^0.5y^0.5, x+y=100): x=50, y=50.
+> 2. L_x = 7.5x^(−0.5)y^0.5 = λ ⟹ tại x=y=50: λ = 7.5·(50/50)^0.5 = 7.5 (nghìn đô-la lợi nhuận trên mỗi nghìn đô-la đầu tư thêm).
+> 3. Với $1,000 đầu tư thêm (đúng 1 đơn vị nghìn đô-la), lợi nhuận tối đa tăng thêm λ·1 = 7.5 nghìn đô-la = $7,500.
+> 4. **Kết quả: $7,500.**
+> 5. ⚡ Lỗi hay gặp: quên đổi đơn vị (x, y tính bằng nghìn đô-la nên λ cũng tính theo nghìn đô-la, không phải đô-la trực tiếp).
+
+## Đề mẫu 1 — Từ xa (trắc nghiệm)
+
+> 8 câu trắc nghiệm trong đề thi mẫu thi từ xa, đáp án lấy từ đáp án đề mẫu.
+
+**Câu 237.** Một công ty dệt may sản xuất và bán một loại áo thun với giá $25 mỗi chiếc. Quản lý của công ty xác định được chi phí cố định của sản xuất là $3,000 và chi phí sản xuất mỗi chiếc áo thun là $10. Số lượng áo cần bán để công ty hòa vốn là: _(Đề mẫu 1 — Từ xa)_
+
+- A. 100 chiếc
+- B. 150 chiếc
+- **C. 200 chiếc** ✅
+- D. 250 chiếc
+
+> 💡 ✅ Đáp án hệ thống. **Cách tính:** điều kiện hòa vốn là Doanh thu = Tổng chi phí.
+> 1. Doanh thu: R(x) = 25x. Tổng chi phí: C(x) = 3000 + 10x.
+> 2. 25x = 3000 + 10x ⟺ 15x = 3000 ⟺ x = 200.
+> 3. **Kết quả: 200 chiếc.**
+> 4. ⚡ Lỗi hay gặp: quên trừ chi phí biến đổi (10x) hai vế, hoặc nhầm chi phí biến đổi là chi phí cố định.
+
+**Câu 238.** Chi phí để sản xuất x đơn vị một loại sản phẩm là C(x) = x³/3 + x² + 50 (đô-la). Sử dụng chi phí cận biên để ước tính chi phí sản xuất đơn vị sản phẩm thứ 11 là: _(Đề mẫu 1 — Từ xa)_
+
+- **A. 120 đô-la** ✅
+- B. 140 đô-la
+- C. 160 đô-la
+- D. 180 đô-la
+
+> 💡 ✅ Đáp án hệ thống. **Cách tính:** chi phí cận biên C'(x) ước tính chi phí sản xuất đơn vị thứ (x+1) qua C'(x).
+> 1. C'(x) = x² + 2x.
+> 2. Ước tính chi phí sản xuất đơn vị thứ 11 bằng C'(10) = 10² + 2(10) = 100 + 20 = 120.
+> 3. **Kết quả: 120 đô-la.**
+> 4. ⚡ Lỗi hay gặp: dùng C'(11) thay vì C'(10) (chi phí cận biên tại x ước tính đơn vị thứ (x+1), không phải thứ x).
+
+**Câu 239.** Khoảng đơn điệu giảm của hàm số y = x³ − 3x + 2 là: _(Đề mẫu 1 — Từ xa)_
+
+- A. (−∞ ; −1)
+- **B. (−1 ; 1)** ✅
+- C. (1 ; +∞)
+- D. (−∞ ; 0)
+
+> 💡 ✅ Đáp án hệ thống. **Cách tính:**
+> 1. y' = 3x² − 3 = 3(x−1)(x+1).
+> 2. Hàm giảm khi y' < 0: 3(x−1)(x+1) < 0 ⟺ −1 < x < 1.
+> 3. **Kết quả: khoảng giảm là (−1 ; 1).**
+> 4. ⚡ Lỗi hay gặp: xét sai dấu tam thức, chọn nhầm khoảng hàm tăng (−∞;−1) hoặc (1;+∞).
+
+**Câu 240.** Cho hàm f(x) liên tục trên [0; 8] thỏa mãn ∫₀⁸ f(x)dx = 10 và ∫₀⁵ f(x)dx = 6. Giá trị của ∫₅⁸ f(x)dx là: _(Đề mẫu 1 — Từ xa)_
+
+- A. 16
+- B. 6
+- **C. 4** ✅
+- D. −4
+
+> 💡 ✅ Đáp án hệ thống. **Cách tính:** dùng tính chất cộng của tích phân xác định: ∫₀⁸ = ∫₀⁵ + ∫₅⁸.
+> 1. ∫₅⁸ f(x)dx = ∫₀⁸ f(x)dx − ∫₀⁵ f(x)dx = 10 − 6 = 4.
+> 2. **Kết quả: 4.**
+> 3. ⚡ Lỗi hay gặp: cộng hai tích phân thay vì trừ (ra 16), hoặc trừ ngược dấu (ra −4).
+
+**Câu 241.** Giá trị trung bình của hàm f(x) = 2x + 1 trên đoạn [0;4] là bao nhiêu? _(Đề mẫu 1 — Từ xa)_
+
+- A. 3
+- B. 4
+- **C. 5** ✅
+- D. 6
+
+> 💡 ✅ Đáp án hệ thống. **Cách tính:** giá trị trung bình = (1/(b−a))·∫ₐᵇ f(x)dx.
+> 1. f̄ = (1/4)·∫₀⁴(2x+1)dx = (1/4)·[x²+x]₀⁴ = (1/4)(16+4) = (1/4)(20) = 5.
+> 2. **Kết quả: 5.**
+> 3. ⚡ Lỗi hay gặp: quên chia cho độ dài khoảng (b−a) = 4, hoặc tính sai nguyên hàm x²+x.
+
+**Câu 242.** Sử dụng quy tắc hình thang với n = 4, ta được kết quả gần đúng của tích phân xác định ∫₀¹(x+1) dx là _(Đề mẫu 1 — Từ xa)_
+
+- A. 1.25
+- **B. 1.50** ✅
+- C. 1.75
+- D. 2.00
+
+> 💡 ✅ Đáp án hệ thống. **Cách tính:** quy tắc hình thang T = (h/2)[f(x₀)+2f(x₁)+2f(x₂)+2f(x₃)+f(x₄)], h=(1−0)/4=0.25.
+> 1. Các nút: x₀=0,x₁=0.25,x₂=0.5,x₃=0.75,x₄=1; f(xᵢ)=xᵢ+1: 1.00, 1.25, 1.50, 1.75, 2.00.
+> 2. T = (0.25/2)[1.00+2(1.25)+2(1.50)+2(1.75)+2.00] = 0.125×12.00 = 1.50.
+> 3. **Kết quả: 1.50** (hàm bậc nhất nên quy tắc hình thang cho kết quả chính xác tuyệt đối, trùng với tích phân thật: ∫₀¹(x+1)dx=1.5).
+> 4. ⚡ Lỗi hay gặp: quên nhân hệ số 2 cho các nút giữa, hoặc tính sai h = (b−a)/n.
+
+**Câu 243.** Hàm số f(x, y) = x² + y² − 2x − 4y + 10 có bao nhiêu điểm tới hạn? _(Đề mẫu 1 — Từ xa)_
+
+- A. 0
+- **B. 1** ✅
+- C. 2
+- D. 3
+
+> 💡 ✅ Đáp án hệ thống. **Cách tính:** điểm tới hạn là nghiệm của hệ fₓ=0, f_y=0.
+> 1. fₓ = 2x − 2 = 0 ⟹ x = 1. f_y = 2y − 4 = 0 ⟹ y = 2.
+> 2. Hệ có nghiệm duy nhất (1, 2).
+> 3. **Kết quả: có đúng 1 điểm tới hạn.**
+> 4. ⚡ Lỗi hay gặp: nhầm hệ số, giải sai x hoặc y, hoặc nghĩ hàm bậc 2 hai biến luôn có nhiều điểm tới hạn.
+
+**Câu 244.** Sản lượng hàng ngày của một nhà máy là Q(K, L) = 5K^0.4·L^0.6 đơn vị sản phẩm, trong đó K là số đơn vị vốn và L là số đơn vị lao động được sử dụng mỗi ngày. Hiện tại, nhà máy sử dụng 16 đơn vị vốn và 81 đơn vị lao động. Khi đó, sản lượng cận biên của vốn (MPK) là: _(Đề mẫu 1 — Từ xa)_
+
+- **A. 1.5** ✅
+- B. 2.0
+- C. 2.5
+- D. 3.0
+
+> 💡 ✅ Đáp án hệ thống. **Cách tính:** MPK = ∂Q/∂K = 5·0.4·K^(−0.6)·L^0.6 = 2K^(−0.6)L^0.6.
+> 1. Theo đáp án đề mẫu: MPK(16,81) = 2·16^(−0.6)·81^0.6 ≈ 2×0.75 = 1.5.
+> 2. **Kết quả theo đáp án đề mẫu: 1.5.**
+> 3. ⚠️ Tính trực tiếp theo đúng K=16, L=81 như đề cho thì 16^(−0.6)·81^0.6 = (81/16)^0.6 ≈ 2.65, ra MPK ≈ 5.29, không khớp phương án nào; cách thay số trong đáp án đề mẫu lại khớp nếu hoán đổi vai trò K=81, L=16 (16^0.6·81^(−0.6) ≈ 0.75). Có thể đề mẫu bị lỗi khi thay số. Giữ đáp án hệ thống A = 1.5 theo đáp án đề mẫu.
+> 4. ⚡ Lỗi hay gặp: nhầm vai trò K và L khi thay số vào công thức đạo hàm riêng.
+
+## Đề mẫu 2 — Từ xa (trắc nghiệm)
+
+> 8 câu trắc nghiệm trong đề thi mẫu thi từ xa, đáp án lấy từ đáp án đề mẫu.
+
+**Câu 245.** Dân số của một tỉnh ở thời điểm t năm sau kể từ năm 2010 là P(t) = (30t+8)/(t+4) triệu người. Tốc độ tăng dân số của tỉnh vào thời điểm cuối năm 2022 gần nhất với giá trị nào sau đây? _(Đề mẫu 2 — Từ xa)_
+
+- A. 0.61 triệu người/năm
+- **B. 0.44 triệu người/năm** ✅
+- C. 1.20 triệu người/năm
+- D. 0.29 triệu người/năm
+
+> 💡 ✅ Đáp án hệ thống. **Cách tính:** cuối năm 2022 ứng với t = 2022−2010 = 12. Tốc độ tăng dân số là P'(t).
+> 1. Dùng quy tắc thương: P'(t) = [30(t+4) − (30t+8)(1)] / (t+4)² = (30t+120−30t−8)/(t+4)² = 112/(t+4)².
+> 2. P'(12) = 112/16² = 112/256 ≈ 0.4375.
+> 3. **Kết quả: ≈ 0.44 triệu người/năm.**
+> 4. ⚡ Lỗi hay gặp: quên bình phương mẫu số (t+4)² khi dùng quy tắc thương; tính sai t = 2022−2010.
+
+**Câu 246.** Tổng chi phí của một doanh nghiệp là C(q) = 0.003q³ − 0.05q² + 40q + 8,000 đô-la, trong đó q là số đơn vị hàng hoá được sản xuất. Chi phí thực tế để sản xuất đơn vị hàng hoá thứ 50 là: _(Đề mẫu 2 — Từ xa)_
+
+- A. 56.103 (đô-la)
+- B. 58.103 (đô-la)
+- **C. 57.103 (đô-la)** ✅
+- D. 60.103 (đô-la)
+
+> 💡 ✅ Đáp án hệ thống. **Cách tính:** chi phí thực tế (không phải ước tính) của đơn vị thứ 50 bằng C(50) − C(49), không dùng đạo hàm.
+> 1. C(50) = 0.003(50³) − 0.05(50²) + 40(50) + 8000 = 0.003(125000) − 0.05(2500) + 2000 + 8000 = 375 − 125 + 2000 + 8000 = 10,250.
+> 2. C(49) = 0.003(49³) − 0.05(49²) + 40(49) + 8000 = 0.003(117649) − 0.05(2401) + 1960 + 8000 = 352.947 − 120.05 + 1960 + 8000 = 10,192.897.
+> 3. C(50) − C(49) = 10250 − 10192.897 = 57.103.
+> 4. **Kết quả: 57.103 đô-la.**
+> 5. ⚡ Lỗi hay gặp: dùng C'(49) hoặc C'(50) (chi phí cận biên ước tính) thay vì hiệu C(50)−C(49) (chi phí thực tế) — đề hỏi rõ "chi phí thực tế".
+
+**Câu 247.** Hàm y = (3x−2)⁴(x+1)³ có bao nhiêu điểm cực trị tương đối? _(Đề mẫu 2 — Từ xa)_
+
+- A. 0
+- **B. 2** ✅
+- C. 3
+- D. 4
+
+> 💡 ✅ Đáp án hệ thống. **Cách tính:** tìm y' rồi xét dấu quanh mỗi nghiệm.
+> 1. y' = 4·3(3x−2)³(x+1)³ + (3x−2)⁴·3(x+1)² = 3(3x−2)³(x+1)²[4(x+1)+(3x−2)] = 3(3x−2)³(x+1)²(7x+2).
+> 2. y' = 0 tại x = 2/3, x = −1, x = −2/7.
+> 3. Tại x = −2/7: (3x−2)³ đổi dấu ⟹ cực trị. Tại x = −1: số mũ chẵn (x+1)² không đổi dấu ⟹ không phải cực trị. Tại x = 2/3: (3x−2)³ đổi dấu ⟹ cực trị.
+> 4. **Kết quả: có 2 điểm cực trị tương đối** (tại x=−2/7 và x=2/3).
+> 5. ⚡ Lỗi hay gặp: đếm luôn cả nghiệm x=−1 vào số điểm cực trị dù số mũ chẵn không đổi dấu.
+
+**Câu 248.** Chi phí cận biên của một xưởng sản xuất là C'(q) = 4q(q − 3) đô-la mỗi đơn vị khi mức sản xuất là q đơn vị. Nếu mức sản xuất tăng từ 5 đơn vị lên 10 đơn vị thì tổng chi phí sản xuất tăng bao nhiêu đô-la? _(Đề mẫu 2 — Từ xa)_
+
+- A. 802.03
+- B. 945.23
+- **C. 716.67** ✅
+- D. 1102.45
+
+> 💡 ✅ Đáp án hệ thống. **Cách tính:** tổng chi phí tăng thêm = ∫₅¹⁰ C'(q) dq.
+> 1. C'(q) = 4q² − 12q.
+> 2. ∫(4q²−12q)dq = (4/3)q³ − 6q².
+> 3. Tại q=10: (4/3)(1000)−6(100) = 1333.333−600 = 733.333. Tại q=5: (4/3)(125)−6(25) = 166.667−150 = 16.667.
+> 4. Chênh lệch: 733.333 − 16.667 = 716.667.
+> 5. **Kết quả: ≈ 716.67 đô-la.**
+> 6. ⚡ Lỗi hay gặp: quên nhân/chia hệ số 4/3 khi lấy nguyên hàm của 4q², hoặc tính nhầm cận.
+
+**Câu 249.** Người tiêu dùng sẽ mua q đơn vị một loại hàng hóa khi giá hàng hoá đó p = 20 − 2q đô-la mỗi đơn vị. Thặng dư của người tiêu dùng khi mua 5 đơn vị hàng hóa đó là bao nhiêu? _(Đề mẫu 2 — Từ xa)_
+
+- A. 20 đô-la
+- B. 22 đô-la
+- **C. 25 đô-la** ✅
+- D. 18 đô-la
+
+> 💡 ✅ Đáp án hệ thống. **Cách tính:** CS = ∫₀^q₀ p(q)dq − p₀·q₀, với q₀=5, p₀=p(5).
+> 1. p₀ = 20−2(5) = 10.
+> 2. ∫₀⁵(20−2q)dq = [20q−q²]₀⁵ = 100−25 = 75.
+> 3. CS = 75 − 10×5 = 75−50 = 25.
+> 4. **Kết quả: 25 đô-la.**
+> 5. ⚡ Lỗi hay gặp: quên trừ p₀·q₀ (chi tiêu thực tế), nhầm CS với tổng mức sẵn lòng chi (75).
+
+**Câu 250.** Hãng hàng không Pacific Air xác định lợi nhuận cận biên từ việc bán x chỗ ngồi trên chuyến bay từ Đà Nẵng đến Hà Nội, tính theo trăm đô-la, được cho bởi hàm P'(x) = √x − 8. Biết rằng khi bán được 64 ghế thì hãng hoà vốn (lợi nhuận bằng 0). Tìm lợi nhuận khi hãng bán được 144 ghế. _(Đề mẫu 2 — Từ xa)_
+
+- A. 154.67
+- **B. 170.67** ✅
+- C. 160.00
+- D. 180.00
+
+> 💡 ✅ Đáp án hệ thống. **Cách tính:** P(x) = ∫P'(x)dx, dùng điều kiện P(64)=0 để tìm hằng số C.
+> 1. P(x) = ∫(√x−8)dx = (2/3)x^(3/2) − 8x + C.
+> 2. P(64) = (2/3)(512) − 8(64) + C = 341.33 − 512 + C = 0 ⟹ C = 170.67.
+> 3. P(x) = (2/3)x^(3/2) − 8x + 170.67.
+> 4. P(144) = (2/3)(1728) − 8(144) + 170.67 = 1152 − 1152 + 170.67 = 170.67.
+> 5. **Kết quả: 170.67 (trăm đô-la).**
+> 6. ⚡ Lỗi hay gặp: quên cộng hằng số C sau khi tìm từ điều kiện ban đầu, hoặc tính sai 64^(3/2)=512.
+
+**Câu 251.** Cho hàm f(x, y) = x² + 3xy + 2y² − x. Khi đó f_y(1, −1) bằng: _(Đề mẫu 2 — Từ xa)_
+
+- **A. −1** ✅
+- B. 3
+- C. −5
+- D. 1
+
+> 💡 ✅ Đáp án hệ thống. **Cách tính:**
+> 1. f_y = 3x + 4y.
+> 2. f_y(1,−1) = 3(1) + 4(−1) = 3 − 4 = −1.
+> 3. **Kết quả: −1.**
+> 4. ⚡ Lỗi hay gặp: nhầm f_y với f_x (= 2x+3y−1 = 2−3−1=−2), hoặc quên hệ số 4 của y trong 2y².
+
+**Câu 252.** Hàm số f(x, y) = (1/2)x² + 3xy + 5y² − 8x − 10 có một điểm tới hạn là: _(Đề mẫu 2 — Từ xa)_
+
+- **A. (80, −24)** ✅
+- B. (40, −24)
+- C. (56, −13)
+- D. (34, −10)
+
+> 💡 ✅ Đáp án hệ thống. **Cách tính:** giải hệ fₓ=0, f_y=0.
+> 1. fₓ = x + 3y − 8; f_y = 3x + 10y.
+> 2. fₓ=0 ⟹ x = 8−3y. Thế vào f_y=0: 3(8−3y)+10y=0 ⟺ 24−9y+10y=0 ⟺ y=−24.
+> 3. x = 8−3(−24) = 8+72 = 80.
+> 4. **Kết quả: điểm tới hạn (80, −24).**
+> 5. ⚡ Lỗi hay gặp: nhầm hệ số 1/2 của x² khi đạo hàm (dễ nhân nhầm ra hệ số 1 hoặc 2 cho x).
+
+## Đề mẫu 3 — Từ xa (trắc nghiệm)
+
+> 8 câu trắc nghiệm trong đề thi mẫu thi từ xa, đáp án lấy từ đáp án đề mẫu.
+
+**Câu 253.** Nghiên cứu thị trường chỉ ra rằng cầu đối với một loại đồ chơi trẻ em là D(p) = −2p + 30. Tại mức giá p = 8, hệ số co giãn của cầu theo giá là: _(Đề mẫu 3 — Từ xa)_
+
+- A. −1.14
+- **B. 1.14** ✅
+- C. −0.57
+- D. 0.57
+
+> 💡 ✅ Đáp án hệ thống. **Cách tính:** E = −D'(p)·p/D(p) (quy ước lấy giá trị dương theo công thức này).
+> 1. D'(p) = −2. D(8) = −2(8)+30 = 14.
+> 2. E = −(−2)(8)/14 = 16/14 ≈ 1.14.
+> 3. **Kết quả: 1.14** (ứng với phương án có giá trị 1.14 trong đề).
+> 4. ⚠️ Đáp án đề mẫu ghi nhãn "B. −1.14" nhưng giá trị tính ra và giá trị liệt kê ở phương án B trong đề là 1.14 (dương) — đây là lỗi đánh máy thừa dấu trừ trong đáp án đề mẫu, giữ giá trị đúng là 1.14.
+> 5. ⚡ Lỗi hay gặp: quên dấu trừ trong công thức E, dẫn tới nhầm dấu của D'(p).
+
+**Câu 254.** Diện tích của miền phẳng nằm bên dưới đường cong f(x) = √x·(x + 3) trên đoạn 0 ≤ x ≤ 4 là: _(Đề mẫu 3 — Từ xa)_
+
+- A. 144/5
+- **B. 28.8** ✅
+- C. 30
+- D. 32
+
+> 💡 ✅ Đáp án hệ thống. **Cách tính:** khai triển f(x) = √x·(x+3) = x^(3/2) + 3x^(1/2) rồi lấy tích phân.
+> 1. ∫₀⁴[x^(3/2)+3x^(1/2)]dx = [(2/5)x^(5/2) + 2x^(3/2)]₀⁴.
+> 2. Tại x=4: x^(5/2)=32, x^(3/2)=8 ⟹ (2/5)(32)+2(8) = 12.8+16 = 28.8.
+> 3. **Kết quả: 28.8** (= 144/5).
+> 4. ⚠️ Phương án A (144/5) và B (28.8) trong đề là cùng một giá trị viết hai dạng khác nhau — có thể là lỗi soạn đề; giữ đáp án hệ thống là B.
+> 5. ⚡ Lỗi hay gặp: quên khai triển căn thức trước khi lấy nguyên hàm, hoặc tính sai số mũ 5/2 và 3/2.
+
+**Câu 255.** Hàm y = f(x) có đạo hàm y' = (2x − 1)³(x + 3)²(x − 2)⁴·e^(x+1) có bao nhiêu điểm cực tiểu tương đối? _(Đề mẫu 3 — Từ xa)_
+
+- A. 0
+- **B. 1** ✅
+- C. 2
+- D. 3
+
+> 💡 ✅ Đáp án hệ thống. **Cách tính:** xét dấu y' quanh từng nghiệm, chú ý số mũ chẵn/lẻ.
+> 1. y' = 0 tại x = 1/2, x = −3, x = 2.
+> 2. (x+3)² ≥ 0, (x−2)⁴ ≥ 0, e^(x+1) > 0 luôn dương nên dấu y' chỉ phụ thuộc (2x−1)³.
+> 3. Tại x = 1/2: (2x−1)³ đổi dấu từ âm sang dương ⟹ cực tiểu. Tại x = −3 và x = 2: số mũ chẵn, không đổi dấu ⟹ không phải cực trị.
+> 4. **Kết quả: có 1 điểm cực tiểu tương đối** (tại x = 1/2).
+> 5. ⚡ Lỗi hay gặp: đếm luôn các nghiệm có số mũ chẵn (x=−3, x=2) là điểm cực trị.
+
+**Câu 256.** Hàm L(x), với 0 ≤ x ≤ 1, có đồ thị là đường cong Lorenz, không thể nhận giá trị nào tại x = 0.4? _(Đề mẫu 3 — Từ xa)_
+
+- A. 0.1
+- B. 0.25
+- C. 0.4
+- **D. 0.55** ✅
+
+> 💡 ✅ Đáp án hệ thống. **Lý thuyết:** đường cong Lorenz L(x) luôn thỏa L(0)=0, L(1)=1 và 0 ≤ L(x) ≤ x với mọi x ∈ [0,1] (đường cong luôn nằm dưới hoặc chạm đường bình đẳng tuyệt đối y=x).
+> 1. Tại x=0.4, cần L(0.4) ≤ 0.4.
+> 2. Các giá trị 0.1, 0.25, 0.4 đều ≤ 0.4, hợp lệ. Giá trị 0.55 > 0.4, không thể xảy ra.
+> 3. **Kết quả: 0.55.**
+> 4. ⚡ Lỗi hay gặp: quên điều kiện L(x) ≤ x, tưởng chỉ cần 0 ≤ L(x) ≤ 1 là đủ.
+
+**Câu 257.** Người tiêu dùng sẽ mua q đơn vị một loại hàng hóa khi giá hàng hoá đó là p = 20 − 2q đô-la mỗi đơn vị. Người tiêu dùng sẵn lòng chi bao nhiêu để mua đến 6 đơn vị hàng hóa đó? _(Đề mẫu 3 — Từ xa)_
+
+- **A. 84** ✅
+- B. 88
+- C. 96
+- D. 72
+
+> 💡 ✅ Đáp án hệ thống. **Cách tính:** mức sẵn lòng chi = diện tích dưới đường cầu từ 0 đến q (không trừ chi tiêu thực tế, khác với thặng dư tiêu dùng).
+> 1. ∫₀⁶(20−2q)dq = [20q−q²]₀⁶ = 120−36 = 84.
+> 2. **Kết quả: 84 đô-la.**
+> 3. ⚡ Lỗi hay gặp: nhầm với thặng dư tiêu dùng (phải trừ thêm p₀·q₀), hoặc tính sai cận.
+
+**Câu 258.** Hàm f(x, y) = x² + 6xy + ay² + 2y đạt cực tiểu tại điểm tới hạn duy nhất nếu _(Đề mẫu 3 — Từ xa)_
+
+- A. a = 9
+- **B. a = 10** ✅
+- C. a = 8
+- D. a = 7
+
+> 💡 ✅ Đáp án hệ thống. **Cách tính:** dùng tiêu chuẩn đạo hàm cấp hai cho hàm hai biến.
+> 1. fₓ = 2x+6y=0 ⟹ x=−3y. f_y = 6x+2ay+2=0.
+> 2. Thế x=−3y: 6(−3y)+2ay+2=0 ⟹ y(2a−18)=−2 ⟹ có nghiệm duy nhất khi 2a−18≠0, tức a≠9.
+> 3. Điều kiện cực tiểu: fₓₓ>0 và D=fₓₓ·f_yy−fₓy²>0. fₓₓ=2, f_yy=2a, fₓy=6 ⟹ D=4a−36>0 ⟹ a>9.
+> 4. Trong các phương án, chỉ a=10 thỏa mãn a>9 (và a≠9).
+> 5. **Kết quả: a = 10.**
+> 6. ⚡ Lỗi hay gặp: chọn a=9 (khi đó hệ phương trình không có nghiệm duy nhất) hoặc quên kiểm tra D>0.
+
+**Câu 259.** Cho hàm hai biến f(x, y) = x²y − 5xy + 3y² − 2x. Khi đó f_xy(2, 1) bằng: _(Đề mẫu 3 — Từ xa)_
+
+- A. 9
+- **B. −1** ✅
+- C. 4
+- D. 0
+
+> 💡 ✅ Đáp án hệ thống. **Cách tính:**
+> 1. fₓ = 2xy − 5y − 2.
+> 2. fₓy = ∂/∂y(fₓ) = 2x − 5.
+> 3. fₓy(2,1) = 2(2) − 5 = 4 − 5 = −1.
+> 4. **Kết quả: −1.**
+> 5. ⚡ Lỗi hay gặp: nhầm dấu của số hạng −5xy khi đạo hàm, ra fₓy = 2x+5 = 9 (phương án nhiễu A).
+
+**Câu 260.** Một dự án về dân số ước lượng được rằng t năm sau kể từ thời điểm hiện tại, dân số ở một khu vực là P(t) = −t³ + 9t² + 48t + 200 nghìn người. Tốc độ thay đổi của dân số thay đổi xấp xỉ bao nhiêu trong tháng đầu tiên của năm thứ ba? _(Đề mẫu 3 — Từ xa)_
+
+- A. Tăng 0.40 (nghìn người/năm²)
+- **B. Tăng 0.50 (nghìn người/năm²)** ✅
+- C. Tăng 0.60 (nghìn người/năm²)
+- D. Tăng 0.30 (nghìn người/năm²)
+
+> 💡 ✅ Đáp án hệ thống. **Cách tính:** "tốc độ thay đổi của tốc độ thay đổi" là đạo hàm cấp hai P''(t); tháng đầu của năm thứ ba ứng với t=2, Δt=1/12.
+> 1. P'(t) = −3t²+18t+48 (tốc độ thay đổi dân số). P''(t) = −6t+18.
+> 2. P''(2) = −12+18 = 6.
+> 3. Ước tính mức thay đổi của P' trong Δt=1/12 năm: ΔP' ≈ P''(2)·Δt = 6×(1/12) = 0.5.
+> 4. **Kết quả: tăng khoảng 0.50 (nghìn người/năm²).**
+> 5. ⚡ Lỗi hay gặp: dùng t=3 (năm thứ ba) thay vì t=2 (thời điểm bắt đầu năm thứ ba, vì "năm thứ ba" là khoảng từ t=2 đến t=3).
+
+## Đề mẫu — Từ xa (tự luận)
+
+> Nguồn: [Đề mẫu 1](tai-lieu/00-de-mau-1-tu-xa.docx), [Đề mẫu 2](tai-lieu/00-de-mau-2-tu-xa.docx), [Đề mẫu 3](tai-lieu/00-de-mau-3-tu-xa.docx) — Từ xa. Lời giải lấy theo đáp án đề mẫu, bổ sung bước trung gian.
+
+**Câu 261.** Một hãng cho thuê tàu du lịch (sức chứa tối đa 60 người) cho nhóm từ 40 người trở lên. Nếu nhóm có đúng 40 người thì mỗi người phải trả $80. Nếu nhóm có trên 40 người thì giá thuê của mỗi người trong nhóm được giảm đi $1 cho mỗi người vượt quá 40. Xác định quy mô nhóm để doanh thu đạt tối đa. _(Đề mẫu 1 — Từ xa)_
+
+> ✅ **Lời giải (theo đáp án đề mẫu):**
+> - **Đặt biến:** gọi x là số người vượt quá 40 (0 ≤ x ≤ 20, vì tàu chứa tối đa 60 người). Số người trong nhóm: (40+x). Giá vé mỗi người: (80−x) đô-la.
+> - **Hàm doanh thu:** R(x) = (40+x)(80−x) = 3200 + 40x − x².
+> - **Đạo hàm:** R'(x) = 40 − 2x; R''(x) = −2 < 0 (luôn lõm xuống, R'=0 cho cực đại).
+> - **Giải:** R'(x) = 0 ⟺ x = 20. Vì R''(20) < 0 nên đây là cực đại.
+> - **Kết quả:** doanh thu tối đa R(20) = (60)(60) = **$3,600**, đạt được khi nhóm có đúng **60 người**, mỗi người trả **$60**.
+> - ⚡ **Lỗi hay gặp:** quên ràng buộc x ≤ 20 (sức chứa tối đa 60 người); nhầm dấu khi khai triển (40+x)(80−x).
+
+**Câu 262.** Tìm tích phân bất định: ∫ (x²+1)/(x−1) dx _(Đề mẫu 1 — Từ xa)_
+
+> ✅ **Lời giải (theo đáp án đề mẫu):**
+> - **Bước 1 (chia đa thức):** x² + 1 = (x−1)(x+1) + 2, suy ra (x²+1)/(x−1) = (x+1) + 2/(x−1).
+> - **Bước 2 (lấy tích phân từng hạng tử):** ∫(x+1)dx + ∫2/(x−1)dx = x²/2 + x + 2·ln|x−1| + C.
+> - **Kết quả:** ∫(x²+1)/(x−1) dx = **x²/2 + x + 2·ln|x−1| + C**.
+> - ⚡ **Lỗi hay gặp:** quên thực hiện phép chia đa thức trước, cố lấy nguyên hàm trực tiếp của (x²+1)/(x−1); quên hệ số 2 trước ln|x−1|.
+
+**Câu 263.** Một người tiêu dùng có $400 để mua hai loại hàng hóa, trong đó hàng hóa thứ nhất có giá $8/đơn vị và hàng hóa thứ hai có giá $10/đơn vị. Hàm lợi ích của người tiêu dùng là U(x,y) = 5x^0.4·y^0.6. Tìm số đơn vị hàng hóa mỗi loại để người tiêu dùng đạt lợi ích tối đa. _(Đề mẫu 1 — Từ xa)_
+
+> ✅ **Lời giải (theo đáp án đề mẫu):**
+> - **Ràng buộc ngân sách:** 8x + 10y = 400.
+> - **Hệ phương trình Lagrange:** Uₓ = λ·8, U_y = λ·10, 8x+10y=400, với Uₓ=2x^(−0.6)y^0.6, U_y=3x^0.4y^(−0.4).
+> - **Chia hai phương trình đầu:** Uₓ/U_y = 8/10 ⟺ (2x^(−0.6)y^0.6)/(3x^0.4y^(−0.4)) = 4/5 ⟺ (2/3)(y/x) = 4/5 ⟺ y = (6/5)x.
+> - **Thế vào ràng buộc:** 8x + 10(6x/5) = 400 ⟺ 8x+12x=400 ⟺ 20x=400 ⟺ x=20; y = (6/5)(20) = 24.
+> - **Kết quả:** mua **20 đơn vị** hàng hóa thứ nhất và **24 đơn vị** hàng hóa thứ hai để đạt lợi ích tối đa.
+> - ⚡ **Lỗi hay gặp:** nhầm vai trò số mũ 0.4/0.6 giữa x và y; quên kiểm tra ràng buộc ngân sách sau khi tìm tỉ lệ y/x.
+
+**Câu 264.** Tìm cực đại tuyệt đối và cực tiểu tuyệt đối của hàm f(x) = x³ − 3x² − 9x + 5 trên đoạn −2 ≤ x ≤ 1. _(Đề mẫu 2 — Từ xa)_
+
+> ✅ **Lời giải (theo đáp án đề mẫu):**
+> - **Đạo hàm:** f'(x) = 3x² − 6x − 9 = 3(x−3)(x+1).
+> - **Điểm tới hạn trong đoạn:** f'(x)=0 ⟺ x=3 (ngoài đoạn [−2,1], loại) hoặc x=−1 (trong đoạn, nhận).
+> - **So sánh giá trị tại các điểm tới hạn và hai đầu mút:** f(−2) = −8−12+18+5 = 3; f(−1) = −1−3+9+5 = 10; f(1) = 1−3−9+5 = −6.
+> - **Kết quả:** **cực đại tuyệt đối f(−1) = 10**; **cực tiểu tuyệt đối f(1) = −6**.
+> - ⚡ **Lỗi hay gặp:** xét luôn x=3 dù nằm ngoài đoạn đang xét; quên so sánh với hai đầu mút khi tìm cực trị tuyệt đối trên đoạn đóng.
+
+**Câu 265.** Minh đang xem xét một khoản đầu tư trong 4 năm. Anh ấy ước tính rằng t năm sau kể từ bây giờ, khoản đầu tư sẽ tạo ra một dòng thu nhập liên tục với tốc độ 5,000 + 80t đô-la mỗi năm. Nếu lãi suất hiện hành giữ ổn định ở mức 6% mỗi năm, được tính gộp liên tục trong suốt khoảng thời gian 4 năm thì khoản đầu tư của anh ấy có giá trị bao nhiêu ở thời điểm 4 năm sau kể từ bây giờ? _(Đề mẫu 2 — Từ xa)_
+
+> ✅ **Lời giải (theo đáp án đề mẫu):**
+> - **Công thức giá trị tương lai của dòng thu nhập liên tục:** FV = e^(rT)·∫₀ᵀ f(t)·e^(−rt) dt, với f(t)=5000+80t, r=0.06, T=4.
+> - **Tách tích phân:** I = 5000·∫₀⁴e^(−0.06t)dt + 80·∫₀⁴t·e^(−0.06t)dt.
+> - **Phần 1:** ∫₀⁴e^(−0.06t)dt = [−e^(−0.06t)/0.06]₀⁴ = (1−e^(−0.24))/0.06 ≈ 0.21337/0.06 ≈ 3.5562 ⟹ 5000×3.5562 ≈ 17,781.
+> - **Phần 2 (tích phân từng phần, u=t, dv=e^(−0.06t)dt):** ∫₀⁴t·e^(−0.06t)dt ≈ 6.828 ⟹ 80×6.828 ≈ 546.24.
+> - **Tổng I ≈ 17,781 + 546.24 = 18,327.24.**
+> - **Giá trị tương lai:** FV = e^(0.24)×18,327.24 ≈ 1.27125×18,327.24 ≈ **$23,304**.
+> - ⚡ **Lỗi hay gặp:** quên nhân hệ số e^(rT) ra ngoài (chỉ tính giá trị hiện tại rồi dừng lại); sai dấu số mũ khi tính e^(−rt).
+
+**Câu 266.** Sản lượng hàng ngày của một doanh nghiệp là Q = 80K^(1/3)·L^(1/2) đơn vị, trong đó K là đầu tư vốn (tính theo đơn vị $1,000) và L là quy mô lao động (tính theo giờ lao động) được sử dụng mỗi ngày. Hiện tại, đầu tư vốn của doanh nghiệp là $8,000,000 và 900 giờ lao động được sử dụng mỗi ngày. Tính gần đúng mức thay đổi của sản lượng khi doanh nghiệp tăng đầu tư vốn thêm $2,000 và giảm đi 3 giờ lao động. _(Đề mẫu 2 — Từ xa)_
+
+> ✅ **Lời giải (theo đáp án đề mẫu):**
+> - **Đổi đơn vị:** K₀ = 8,000,000/1,000 = 8,000 (đơn vị $1,000); L₀ = 900; ΔK = 2,000/1,000 = +2; ΔL = −3.
+> - **Đạo hàm riêng:** Q_K = 80·(1/3)·K^(−2/3)·L^0.5 = (80/3)K^(−2/3)L^0.5; Q_L = 80·K^(1/3)·(1/2)·L^(−0.5) = 40K^(1/3)L^(−0.5).
+> - **Thay số:** K₀^(1/3) = 20 (vì 20³=8000), K₀^(−2/3) = 1/400, L₀^0.5 = 30, L₀^(−0.5) = 1/30.
+> - Q_K = (80/3)·(1/400)·30 = 2400/1200 = **2**. Q_L = 40·20·(1/30) = 800/30 ≈ **26.667**.
+> - **Công thức xấp xỉ:** ΔQ ≈ Q_K·ΔK + Q_L·ΔL = 2(2) + 26.667(−3) = 4 − 80 = **−76**.
+> - **Kết quả:** sản lượng **giảm khoảng 76 đơn vị**.
+> - ⚡ **Lỗi hay gặp:** quên đổi đơn vị K, ΔK về cùng thang $1,000 với công thức; nhầm dấu ΔL (giảm lao động là số âm).
+
+**Câu 267.** Doanh thu thu được từ việc bán một loại xe đạp điện ở thời điểm t tuần sau khi đưa ra thị trường được cho bởi: R(t) = (80t − t²)/(t²+80) triệu đô-la. Thời điểm nào doanh thu đạt tối đa? Doanh thu tối đa bằng bao nhiêu? _(Đề mẫu 3 — Từ xa)_
+
+> ✅ **Lời giải (theo đáp án đề mẫu):**
+> - **Đạo hàm (quy tắc thương):** R'(t) = [(80−2t)(t²+80) − (80t−t²)(2t)] / (t²+80)².
+> - **Khai triển tử số:** (80−2t)(t²+80) − 2t(80t−t²) = 80t²+6400−2t³−160t − 160t²+2t³ = −80t²−160t+6400 = −80(t²+2t−80) = −80(t+10)(t−8).
+> - **Giải R'(t)=0:** t=8 (nhận, vì t>0) hoặc t=−10 (loại).
+> - **Xét dấu:** R'(t) > 0 khi t < 8, R'(t) < 0 khi t > 8 ⟹ t=8 là điểm cực đại.
+> - **Tính R(8):** R(8) = (640−64)/(64+80) = 576/144 = **4**.
+> - **Kết quả:** doanh thu đạt tối đa tại **tuần thứ 8**, đạt **4 triệu đô-la**.
+> - ⚡ **Lỗi hay gặp:** khai triển sai tử số khi dùng quy tắc thương; quên loại nghiệm âm t=−10.
+
+**Câu 268.** Người ta ước lượng được tốc độ thay đổi giá p (đô-la) của một loại hàng hóa là dp/dx = −120x/√(4+x²), trong đó x là cầu của người tiêu dùng, đo bằng trăm đơn vị. Giả sử lượng cầu là 300 đơn vị (x=3) khi giá p = $50 mỗi đơn vị. Tìm hàm cầu p(x). _(Đề mẫu 3 — Từ xa)_
+
+> ✅ **Lời giải (theo đáp án đề mẫu):**
+> - **Đổi biến:** đặt u = 4+x², du = 2x dx ⟹ x dx = du/2.
+> - **Tính tích phân:** p(x) = ∫−120x/√(4+x²) dx = ∫−120/(2√u) du = −60∫u^(−1/2)du = −60·2√u + C = −120√(4+x²) + C.
+> - **Dùng điều kiện p(3)=50:** 50 = −120√(4+9) + C = −120√13 + C ⟹ C = 50 + 120√13 ≈ 50+432.67 = 482.67.
+> - **Kết quả:** p(x) = **−120√(4+x²) + 50 + 120√13** (≈ −120√(4+x²) + 482.67).
+> - ⚡ **Lỗi hay gặp:** quên đổi biến x dx = du/2 (sót hệ số 1/2); quên cộng hằng số tích phân C trước khi thay điều kiện ban đầu.
+
+**Câu 269.** Tìm giá trị cực đại của hàm: f(x, y) = x²y với điều kiện ràng buộc: x² + y = 3. _(Đề mẫu 3 — Từ xa)_
+
+> ✅ **Lời giải (theo đáp án đề mẫu):**
+> - **Thiết lập Lagrange** với g(x,y) = x²+y−3: fₓ = 2xy = λ·2x (1); f_y = x² = λ·1 (2); x²+y=3 (3).
+> - **Từ (1):** 2xy = 2λx ⟹ nếu x≠0 thì y=λ (xét x=0 thì (2) cho λ=0, khi đó y=3 từ (3), và f(0,3)=0, không phải cực đại).
+> - **Từ (2):** λ = x² ⟹ kết hợp với y=λ: y = x².
+> - **Thế vào (3):** x² + x² = 3 ⟹ x² = 3/2 ⟹ x = ±√(3/2), y = 3/2.
+> - **Tính f:** f = x²·y = (3/2)(3/2) = **9/4**.
+> - **Kết quả:** giá trị cực đại của f là **9/4**, đạt được tại x = ±√(3/2), y = 3/2.
+> - ⚡ **Lỗi hay gặp:** chia 2xy=2λx cho x mà không xét riêng trường hợp x=0; nhầm y=λ với y=λ² hoặc ngược lại.
+
+## Trắc nghiệm hệ thống — lần 1 (LTTN tổng hợp lần 3)
+
+> 30 câu LTTN tổng hợp không tính điểm (Tuần 9), đáp án lấy từ trang xem lại (review). Chỉ ghi các câu mới (24/30 câu trùng với câu đã có trong ngân hàng).
+
+**Câu 270.** Dân số của một vùng được mô hình hóa bởi hàm P(t) = 200/(t²+10t+5) − 80/(3t+1) + 100 (nghìn người), trong đó t là số năm kể từ thời điểm hiện tại. Dân số trong dài hạn của vùng đó là: _(Hệ thống — LTTN tổng hợp lần 3)_
+
+- A. 20 (nghìn người)
+- **B. 100 (nghìn người)** ✅
+- C. 30 (nghìn người)
+- D. 50 (nghìn người)
+
+> 💡 ✅ Đáp án hệ thống. **Cách tính:** xét giới hạn khi t → +∞.
+> 1. Khi t→+∞: 200/(t²+10t+5) → 0 (bậc mẫu cao hơn tử) và 80/(3t+1) → 0.
+> 2. P(t) → 0 − 0 + 100 = 100.
+> 3. **Kết quả: 100 nghìn người.**
+> 4. ⚡ Lỗi hay gặp: tưởng các phân thức tiến tới một hằng số khác 0, quên rằng mẫu bậc cao hơn tử thì phân thức → 0.
+
+**Câu 271.** Trong các kết luận sau, kết luận nào đúng khi giải bài toán tìm cực trị tuyệt đối của hàm số f(x) = 2x + 32/x trên khoảng x < 0? _(Hệ thống — LTTN tổng hợp lần 3)_
+
+- A. Bài toán không tìm được cả cực đại tuyệt đối và cực tiểu tuyệt đối.
+- B. f(−4) không phải là cực trị tuyệt đối của bài toán.
+- **C. Cực đại tuyệt đối là f(−4) và không có cực tiểu tuyệt đối.** ✅
+- D. Cực tiểu tuyệt đối là f(−4) và không có cực đại tuyệt đối.
+
+> 💡 ✅ Đáp án hệ thống. **Cách tính:** khoảng x<0 không đóng ⟹ dùng đạo hàm cấp hai với số tới hạn duy nhất.
+> 1. f'(x) = 2 − 32/x². f'(x)=0 ⟺ x²=16 ⟺ x=−4 (nhận, vì x<0) — số tới hạn duy nhất trên x<0.
+> 2. f''(x) = 64/x³. f''(−4) = 64/(−64) = −1 < 0 ⟹ cực đại tuyệt đối tại x=−4.
+> 3. f(−4) = −8−8 = −16... (giá trị cụ thể không cần, chỉ cần kết luận dạng cực trị).
+> 4. Khi x→0⁻: 32/x→−∞ nên f→−∞; khi x→−∞: 2x→−∞ nên f→−∞ — không có cực tiểu tuyệt đối (hàm giảm vô hạn ở cả hai đầu).
+> 5. **Kết quả: cực đại tuyệt đối là f(−4) và không có cực tiểu tuyệt đối.**
+> 6. ⚡ Lỗi hay gặp: quên xét giới hạn ở hai đầu khoảng mở để kết luận có/không có cực trị kia; nhầm dấu f'' dẫn tới kết luận ngược (cực tiểu thay vì cực đại).
+
+**Câu 272.** Nghiên cứu thị trường chỉ ra rằng cầu đối với một loại đồ chơi trẻ em là D(p) = −1.5p + 25. Tại mức giá p = 12, hệ số co giãn của cầu theo giá là: _(Hệ thống — LTTN tổng hợp lần 3)_
+
+- A. −2.57
+- **B. 2.57** ✅
+- C. 1
+- D. 0.57
+
+> 💡 ✅ Đáp án hệ thống. **Cách tính:** E = −D'(p)·p/D(p).
+> 1. D'(p) = −1.5. D(12) = −1.5(12)+25 = −18+25 = 7.
+> 2. E = −(−1.5)(12)/7 = 18/7 ≈ 2.57.
+> 3. **Kết quả: 2.57.**
+> 4. ⚡ Lỗi hay gặp: quên dấu trừ trong công thức E dẫn tới chọn nhầm giá trị âm.
+
+**Câu 273.** Khi giải bài toán "Tìm cực trị của hàm f(x, y) = x² + y² với điều kiện ràng buộc 2x + y = 4" bằng phương pháp nhân tử Lagrange, ta tìm được giá trị của nhân tử Lagrange λ là: _(Hệ thống — LTTN tổng hợp lần 3)_
+
+- A. λ = 4/5
+- B. λ = 3/5
+- **C. λ = 8/5** ✅
+- D. λ = 3/4
+
+> 💡 ✅ Đáp án hệ thống. **Cách tính:** g(x,y)=2x+y=4, hệ Lagrange: fₓ=2x=λ·2, f_y=2y=λ·1.
+> 1. Từ fₓ: x=λ. Từ f_y: y=λ/2.
+> 2. Thế vào ràng buộc: 2λ+λ/2=4 ⟺ (5/2)λ=4 ⟺ λ=8/5.
+> 3. **Kết quả: λ = 8/5.**
+> 4. ⚡ Lỗi hay gặp: quên chia hệ số g_y=1 khi giải y=λ/2 (nhầm y=λ như trường hợp g_y=2).
+
+**Câu 274.** Cho tích phân suy rộng I = ∫₁^(+∞) (2x+1)e^(3x) dx. Khẳng định nào sau đây đúng? _(Hệ thống — LTTN tổng hợp lần 3)_
+
+- **A. Tích phân suy rộng phân kỳ.** ✅
+- B. Tích phân suy rộng hội tụ và I = 3e³.
+- C. Tích phân suy rộng hội tụ và I = 3ln2.
+- D. I = (2/3)e³.
+
+> 💡 ✅ Đáp án hệ thống. **Cách tính:** xét giới hạn của hàm dưới dấu tích phân khi x→+∞.
+> 1. Khi x→+∞, e^(3x)→+∞ rất nhanh, và (2x+1)e^(3x) cũng →+∞ (không tiến về 0).
+> 2. Vì hàm dưới dấu tích phân không tiến về 0 khi x→+∞, tích phân ∫₁^(+∞)(2x+1)e^(3x)dx không thể hội tụ.
+> 3. **Kết quả: tích phân suy rộng phân kỳ.**
+> 4. ⚡ Lỗi hay gặp: cố lấy nguyên hàm rồi thay cận +∞ máy móc mà không nhận ra giới hạn tiến ra +∞ ngay từ đầu (khác với dạng e^(−kx) giảm về 0).
+
+**Câu 275.** Cho α < 0 < β, khi đó giá trị của tích phân ∫_α^β x|x| dx là _(Hệ thống — LTTN tổng hợp lần 3)_
+
+- A. (1/3)(α² + β²)
+- B. (1/3)(β² − α²)
+- **C. (1/3)(α³ + β³)** ✅
+- D. Không là giá trị nào trong 3 giá trị trên.
+
+> 💡 ✅ Đáp án hệ thống. **Cách tính:** x|x| = −x² khi x<0, = x² khi x≥0; tách tích phân tại 0.
+> 1. ∫_α^0 x|x|dx = ∫_α^0(−x²)dx = [−x³/3]_α^0 = 0−(−α³/3) = α³/3.
+> 2. ∫_0^β x|x|dx = ∫_0^β x²dx = [x³/3]_0^β = β³/3.
+> 3. Tổng: ∫_α^β x|x|dx = α³/3 + β³/3 = (1/3)(α³+β³).
+> 4. **Kết quả: (1/3)(α³+β³).**
+> 5. ⚡ Lỗi hay gặp: quên đổi dấu x|x| thành −x² khi x<0, tính nhầm thành (1/3)(β²−α²) hoặc (1/3)(α²+β²) (bỏ qua giá trị tuyệt đối).
+
+## Trắc nghiệm hệ thống — lần 1 (LTTN tổng hợp lần 4)
+
+> 30 câu LTTN tổng hợp không tính điểm (Tuần 9), đáp án lấy từ trang xem lại (review). Chỉ ghi các câu mới (15/30 câu trùng với câu đã có trong ngân hàng).
+
+**Câu 276.** Rajit dự định chi $60,000 cho phát triển và quảng bá cho một cuốn sách mới. Anh ấy ước tính rằng nếu chi x nghìn đô-la cho phát triển và y nghìn đô-la cho quảng bá thì sẽ bán được S(x,y) = 20x^(3/2)y bản của cuốn sách đó. Rajit nên phân bổ nguồn tiền trên vào việc phát triển và quảng bá như thế nào để thu được doanh số tối đa? Bản chất của bài toán này là: _(Hệ thống — LTTN tổng hợp lần 4)_
+
+- **A. Tìm (x, y) để hàm hai biến S(x,y) đạt cực đại, với điều kiện x+y=60.** ✅
+- B. Tìm (x, y) để hàm hai biến S(x,y) đạt cực đại, với điều kiện x+y=60,000.
+- C. Tìm (x, y) để hàm hai biến S(x,y) đạt cực tiểu, với điều kiện x+y=60.
+- D. Tìm (x, y) để hàm hai biến S(x,y) đạt cực tiểu, với điều kiện x+y=60,000.
+
+> 💡 ✅ Đáp án hệ thống. **Lý thuyết:** nhận diện bài toán tối ưu có điều kiện ràng buộc.
+> 1. Ngân sách $60,000 = 60 nghìn đô-la, với x,y cũng tính bằng nghìn đô-la ⟹ ràng buộc x+y=60 (không phải 60,000, vì x,y đã tính theo đơn vị nghìn).
+> 2. Mục tiêu là tối đa hóa doanh số bán được S(x,y) (không phải tối thiểu hóa).
+> 3. **Kết quả: tìm (x,y) để S(x,y) đạt cực đại với điều kiện x+y=60.**
+> 4. ⚡ Lỗi hay gặp: dùng x+y=60,000 vì quên rằng x, y đã tính theo đơn vị nghìn đô-la, không phải đô-la.
+
+**Câu 277.** Hàm f(x, y) = x³ − x²y + 3y³ có _(Hệ thống — LTTN tổng hợp lần 4)_
+
+- A. 4 điểm tới hạn.
+- B. 3 điểm tới hạn.
+- C. 2 điểm tới hạn.
+- **D. 1 điểm tới hạn.** ✅
+
+> 💡 ✅ Đáp án hệ thống. **Cách tính:** giải hệ fₓ=0, f_y=0.
+> 1. fₓ = 3x² − 2xy = x(3x−2y). f_y = −x² + 9y².
+> 2. fₓ=0 ⟹ x=0 hoặc x=2y/3.
+> 3. Nếu x=0: f_y=9y²=0 ⟹ y=0. Điểm (0,0).
+> 4. Nếu x=2y/3: f_y=−(2y/3)²+9y² = (−4/9+9)y² = (77/9)y² = 0 ⟹ y=0 ⟹ x=0 (trùng điểm trên).
+> 5. **Kết quả: chỉ có 1 điểm tới hạn, là (0, 0).**
+> 6. ⚡ Lỗi hay gặp: tưởng hệ hai phương trình bậc hai luôn cho nhiều nghiệm phân biệt mà không kiểm tra kỹ từng trường hợp.
+
+**Câu 278.** Người ta ước lượng được tốc độ thay đổi giá p (đô-la) của một loại hàng hóa là dp/dx = −100x/√(21+x²), trong đó x là cầu của người tiêu dùng (số lượng hàng hóa được mua ở mức giá p), đo bằng (trăm) đơn vị. Giả sử lượng cầu là 200 đơn vị (x=2) khi giá p=$20 mỗi đơn vị. Hàm cầu p(x) là: _(Hệ thống — LTTN tổng hợp lần 4)_
+
+- A. p(x) = −200√(21+x²) + 520
+- **B. p(x) = −100√(21+x²) + 520** ✅
+- C. p(x) = −100√(21+x²) + 460
+- D. p(x) = −200√(21+x²) + 460
+
+> 💡 ✅ Đáp án hệ thống. **Cách tính:** đặt u=21+x², du=2x dx.
+> 1. p(x) = ∫−100x/√(21+x²) dx = ∫−50/√u du = −100√u + C = −100√(21+x²) + C.
+> 2. Dùng điều kiện p(2)=20: −100√(21+4)+C=20 ⟹ −100√25+C=20 ⟹ −500+C=20 ⟹ C=520.
+> 3. **Kết quả: p(x) = −100√(21+x²) + 520.**
+> 4. ⚡ Lỗi hay gặp: quên hệ số 1/2 khi đổi biến x dx=du/2; tính sai √25=5 rồi nhân nhầm hệ số 100.
+
+**Câu 279.** Theo hồ sơ, x năm sau kể từ năm 2020, mức thuế tài sản trung bình của mỗi căn hộ 4 phòng ngủ ở vùng ngoại ô của một thành phố lớn là T(x) = 3x² + 40x + 1,800 đô-la. Tốc độ thay đổi phần trăm của mức thuế tài sản trung bình vào năm 2030 là: _(Hệ thống — LTTN tổng hợp lần 4)_
+
+- **A. 4 mỗi năm** ✅
+- B. 2 mỗi năm
+- C. 5 mỗi năm
+- D. 1 mỗi năm
+
+> 💡 ✅ Đáp án hệ thống. **Cách tính:** tốc độ % = 100·T'(x)/T(x), tại x=2030−2020=10.
+> 1. T'(x) = 6x+40 ⟹ T'(10) = 60+40 = 100.
+> 2. T(10) = 3(100)+40(10)+1800 = 300+400+1800 = 2500.
+> 3. Tốc độ % = 100×100/2500 = 4.
+> 4. **Kết quả: 4% mỗi năm.**
+> 5. ⚡ Lỗi hay gặp: quên nhân 100 (chỉ tính T'/T); tính sai x=2030−2020.
+
+**Câu 280.** Người ta xác định được rằng t năm sau kể từ bây giờ, một khu căn hộ phức hợp sẽ sinh ra lợi nhuận cho chủ sở hữu với tốc độ f(t) = 100,000 + 900t đô-la mỗi năm. Nếu lợi nhuận được sinh ra trong khoảng thời gian vô hạn và lãi suất hiện hành hằng năm ổn định ở mức 5%, được tính gộp liên tục thì giá trị hiện tại của khu căn hộ phức hợp là bao nhiêu? _(Hệ thống — LTTN tổng hợp lần 4)_
+
+- A. $3,100,000
+- B. $2,580,000
+- **C. $2,360,000** ✅
+- D. $4,210,000
+
+> 💡 ✅ Đáp án hệ thống. **Cách tính:** giá trị hiện tại của dòng thu nhập vô hạn PV = ∫₀^∞ f(t)e^(−rt) dt, với f(t)=100000+900t, r=0.05.
+> 1. PV = ∫₀^∞ 100000·e^(−0.05t)dt + ∫₀^∞ 900t·e^(−0.05t)dt.
+> 2. Phần 1: 100000·[−e^(−0.05t)/0.05]₀^∞ = 100000×(1/0.05) = 100000×20 = 2,000,000.
+> 3. Phần 2: dùng công thức ∫₀^∞ t·e^(−rt)dt = 1/r² ⟹ 900×(1/0.05²) = 900×400 = 360,000.
+> 4. PV = 2,000,000 + 360,000 = 2,360,000.
+> 5. **Kết quả: $2,360,000.**
+> 6. ⚡ Lỗi hay gặp: quên công thức ∫₀^∞ t·e^(−rt)dt=1/r² cho phần tuyến tính theo t; nhầm r² với r.
+
+**Câu 281.** Cho hàm f(x) liên tục trên đoạn −1 ≤ x ≤ 6, biết ∫_{−1}^{6} f(x) dx = 3 và ∫₃^6 f(x) dx = 7. Giá trị của ∫_{−1}^{3} f(x) dx là _(Hệ thống — LTTN tổng hợp lần 4)_
+
+- A. 20
+- B. 10
+- C. −6
+- **D. −4** ✅
+
+> 💡 ✅ Đáp án hệ thống. **Cách tính:** dùng tính chất cộng ∫_{−1}^6 = ∫_{−1}^3 + ∫₃^6.
+> 1. 3 = ∫_{−1}^3 f(x)dx + 7.
+> 2. ∫_{−1}^3 f(x)dx = 3 − 7 = −4.
+> 3. **Kết quả: −4.**
+> 4. ⚡ Lỗi hay gặp: cộng hai giá trị đã cho thay vì trừ.
+
+**Câu 282.** Diện tích của miền phẳng nằm bên dưới đường cong f(x) = √x(x+2) trên đoạn 0 ≤ x ≤ 1 là: _(Hệ thống — LTTN tổng hợp lần 4)_
+
+- **A. 26/15** ✅
+- B. 13/5
+- C. 2
+- D. 37/9
+
+> 💡 ✅ Đáp án hệ thống. **Cách tính:** khai triển f(x)=√x(x+2)=x^(3/2)+2x^(1/2) rồi lấy tích phân.
+> 1. ∫₀¹[x^(3/2)+2x^(1/2)]dx = [(2/5)x^(5/2) + (4/3)x^(3/2)]₀¹.
+> 2. Tại x=1: 2/5 + 4/3 = 6/15 + 20/15 = 26/15.
+> 3. **Kết quả: 26/15.**
+> 4. ⚡ Lỗi hay gặp: quên nhân hệ số 2 từ (x+2) vào từng số hạng khi khai triển căn thức.
+
+**Câu 283.** Độ dốc của tiếp tuyến với đồ thị hàm số y = (3−x)e^(2x) tại điểm x₀ = 0 bằng bao nhiêu? _(Hệ thống — LTTN tổng hợp lần 4)_
+
+- A. 1
+- B. 2
+- **C. 5** ✅
+- D. −1
+
+> 💡 ✅ Đáp án hệ thống. **Cách tính:** dùng quy tắc tích kết hợp hàm hợp.
+> 1. y' = −1·e^(2x) + (3−x)·2e^(2x) = e^(2x)[−1+2(3−x)] = e^(2x)(5−2x).
+> 2. Tại x=0: y'(0) = 1×(5−0) = 5.
+> 3. **Kết quả: 5.**
+> 4. ⚡ Lỗi hay gặp: quên nhân hệ số 2 từ đạo hàm e^(2x) (quy tắc hàm hợp); quên dấu trừ khi đạo hàm (3−x).
+
+**Câu 284.** Khi một mặt hàng được định giá p đô-la mỗi đơn vị, cầu của người tiêu dùng là q đơn vị, trong đó p và q liên hệ với nhau bởi phương trình q²+2p²=41. Biểu diễn hệ số co giãn của cầu theo giá như một hàm của giá p. _(Hệ thống — LTTN tổng hợp lần 4)_
+
+- A. E(p) = −2p²/(41−2p²)
+- B. E(p) = p²/(41−2p²)
+- C. E(p) = 2p²/(41−p²)
+- **D. E(p) = 2p²/(41−2p²)** ✅
+
+> 💡 ✅ Đáp án hệ thống. **Cách tính:** đạo hàm ẩn theo p rồi dùng công thức E(p) = −(p/q)(dq/dp).
+> 1. Đạo hàm ẩn: 2q(dq/dp) + 4p = 0 ⟹ dq/dp = −2p/q.
+> 2. E(p) = −(p/q)×(−2p/q) = 2p²/q².
+> 3. Từ ràng buộc: q² = 41−2p², thay vào: E(p) = 2p²/(41−2p²).
+> 4. **Kết quả: E(p) = 2p²/(41−2p²).**
+> 5. ⚡ Lỗi hay gặp: quên hệ số 2 khi đạo hàm 2p² (ra 41−p² ở mẫu thay vì 41−2p²).
+
+**Câu 285.** Dân số của một địa phương ở thời điểm t năm sau kể từ năm 2015 được mô hình hóa bởi hàm P(t) = (26t+10)/(t+5) (triệu người). Tốc độ tăng dân số của địa phương đó vào thời điểm cuối năm 2025 gần nhất với giá trị nào sau đây? _(Hệ thống — LTTN tổng hợp lần 4)_
+
+- A. 1.12 triệu người/năm
+- **B. 0.53 triệu người/năm** ✅
+- C. 1.51 triệu người/năm
+- D. 0.48 triệu người/năm
+
+> 💡 ✅ Đáp án hệ thống. **Cách tính:** cuối năm 2025 ứng với t=2025−2015=10. Tốc độ tăng dân số là P'(t).
+> 1. Quy tắc thương: P'(t) = [26(t+5) − (26t+10)(1)]/(t+5)² = (26t+130−26t−10)/(t+5)² = 120/(t+5)².
+> 2. P'(10) = 120/15² = 120/225 ≈ 0.5333.
+> 3. **Kết quả: ≈ 0.53 triệu người/năm.**
+> 4. ⚡ Lỗi hay gặp: quên bình phương mẫu số (t+5)² khi dùng quy tắc thương.
+
+**Câu 286.** Quản lý của một hãng thiết bị điện tử ước tính rằng tỷ lệ các thiết bị tồn tại lâu hơn t tháng được cho bởi tích phân suy rộng ∫_t^(+∞) 0.008e^(−0.008x) dx. Tỷ lệ thiết bị hỏng trong vòng 5 năm (60 tháng) là bao nhiêu? _(Hệ thống — LTTN tổng hợp lần 4)_
+
+- **A. 0.38** ✅
+- B. 0.62
+- C. 0.52
+- D. 0.48
+
+> 💡 ✅ Đáp án hệ thống. **Cách tính:** tỷ lệ tồn tại lâu hơn t tháng = ∫_t^(+∞) 0.008e^(−0.008x)dx = e^(−0.008t); tỷ lệ hỏng trong vòng t tháng = 1 − (tỷ lệ tồn tại lâu hơn t tháng).
+> 1. Tỷ lệ tồn tại lâu hơn 60 tháng = e^(−0.008×60) = e^(−0.48) ≈ 0.6188.
+> 2. Tỷ lệ hỏng trong vòng 60 tháng = 1 − 0.6188 = 0.3812.
+> 3. **Kết quả: ≈ 0.38.**
+> 4. ⚡ Lỗi hay gặp: lấy luôn tỷ lệ tồn tại lâu hơn (0.62) làm đáp án mà quên tính phần bù (1 − ...).
+
+**Câu 287.** Quản lý một nhà máy xác định rằng khi q nghìn đơn vị một loại sản phẩm được sản xuất mỗi tháng, nhà máy có thể bán tất cả sản phẩm với giá p(q) = 37 − 2q đô-la mỗi đơn vị. Tổng chi phí để sản xuất q đơn vị đó là C(q) = 3q² + 5q + 75 nghìn đô-la. Để tối đa hóa lợi nhuận, nhà máy cần sản xuất và bán được số đơn vị sản phẩm là: _(Hệ thống — LTTN tổng hợp lần 4)_
+
+- A. 3,100 đơn vị
+- B. 3,000 đơn vị
+- **C. 3,200 đơn vị** ✅
+- D. 3,300 đơn vị
+
+> 💡 ✅ Đáp án hệ thống. **Cách tính:** lợi nhuận P(q) = q·p(q) − C(q), tìm cực đại.
+> 1. P(q) = q(37−2q) − (3q²+5q+75) = 37q−2q²−3q²−5q−75 = −5q²+32q−75.
+> 2. P'(q) = −10q+32 = 0 ⟹ q = 3.2 (nghìn đơn vị).
+> 3. **Kết quả: q = 3.2 nghìn đơn vị = 3,200 đơn vị.**
+> 4. ⚡ Lỗi hay gặp: quên gộp hệ số q² từ cả doanh thu và chi phí (−2q²−3q²=−5q²).
+
+**Câu 288.** Nếu ∫₀¹ f(x)dx = M và ∫₀¹ g(x)dx = N thì đẳng thức nào trong các đẳng thức sau là đúng? _(Hệ thống — LTTN tổng hợp lần 4)_
+
+- **A. ∫₀¹(f(x)+g(x))dx = M+N** ✅
+- B. ∫₀¹ f(x)g(x) dx = M·N
+- C. ∫₀¹ 1/f(x) dx = 1/M
+- D. ∫₀¹ f(x)/g(x) dx = M/N
+
+> 💡 ✅ Đáp án hệ thống. **Lý thuyết:** tính chất tuyến tính của tích phân xác định.
+> 1. Tích phân của tổng bằng tổng các tích phân: ∫(f+g)dx = ∫f dx + ∫g dx = M+N, đúng với mọi f, g khả tích.
+> 2. Các đẳng thức còn lại (tích, nghịch đảo, thương) **không** có tính chất tuyến tính tương tự — tích phân của một tích/thương không bằng tích/thương của các tích phân.
+> 3. **Kết quả: đáp án a.**
+> 4. ⚡ Lỗi hay gặp: ngộ nhận tích phân cũng "phân phối" qua phép nhân/chia như qua phép cộng.
+
+**Câu 289.** Cho hàm f(x) có đồ thị dạng giảm xuống một cực tiểu rồi tăng lên một cực đại rồi giảm xuống (đồ thị đi qua gần gốc tọa độ, ví dụ f(x) = −x³+3x có cực tiểu tại x=−1 và cực đại tại x=1). Đồ thị của đạo hàm f'(x) có thể là hình nào trong các hình vẽ sau đây (so với các hình chỉ có một đỉnh lồi duy nhất, luôn không âm)? _(Hệ thống — LTTN tổng hợp lần 4)_
+
+- **A. Hình dạng parabol úp xuống, âm ở hai đầu và dương ở giữa (đổi dấu hai lần).** ✅
+- B. Hình dạng parabol úp xuống, không âm trên toàn miền (chỉ một đỉnh dương).
+- C. Hình dạng parabol úp xuống, không âm trên toàn miền, đỉnh thấp hơn.
+- D. Hình dạng parabol úp xuống, không âm trên toàn miền, đỉnh nằm trên trục tung.
+
+> 💡 ✅ Đáp án hệ thống. **Cách tính:** f có một cực tiểu rồi một cực đại ⟹ f' phải đổi dấu hai lần: âm (f giảm) → dương (f tăng) → âm (f giảm).
+> 1. Với f(x) = −x³+3x: f'(x) = −3x²+3 = 3(1−x)(1+x), là parabol úp xuống, âm khi |x|>1, dương khi |x|<1.
+> 2. Hình đúng phải thể hiện **cả phần âm lẫn phần dương** (đổi dấu hai lần), không thể là một đồ thị luôn không âm (chỉ có một đỉnh dương duy nhất), vì f không thể đơn điệu tăng toàn miền khi có cả cực tiểu lẫn cực đại.
+> 3. **Kết quả: đáp án a** (hình âm–dương–âm).
+> 4. ⚡ Lỗi hay gặp: chọn một hình chỉ có một đỉnh dương (luôn ≥ 0) vì nhầm "đạo hàm luôn dương" trong khi hàm gốc có cả đoạn tăng lẫn đoạn giảm.
+
+![Minh hoạ f(x) có cực tiểu rồi cực đại, và f'(x) tương ứng dạng âm-dương-âm](tai-lieu/hinh/lttn-dao-ham-tu-do-thi.png)
+
+**Câu 290.** Hai nhà máy công nghiệp A và B cách nhau 18 dặm và thải ra lần lượt 80 ppm (phần triệu) và 720 ppm một loại vật chất hạt. Nhà máy A được bao quanh bởi một khu vực giới hạn có bán kính 1 dặm, ở đó không cho phép nhà ở, còn khu vực giới hạn bao quanh nhà máy B có bán kính 2 dặm. Nồng độ chất ô nhiễm đến một điểm Q bất kỳ từ mỗi nhà máy giảm tỷ lệ nghịch với khoảng cách từ nhà máy đó đến Q. Hỏi một ngôi nhà nên ở vị trí nào trên con đường nối hai nhà máy để giảm thiểu ô nhiễm đến từ cả hai nhà máy? _(Hệ thống — LTTN tổng hợp lần 4)_
+
+- A. 13.5 dặm tính từ nhà máy A
+- **B. 4.5 dặm tính từ nhà máy A** ✅
+- C. 12.5 dặm tính từ nhà máy A
+- D. 10 dặm tính từ nhà máy A
+
+> 💡 ✅ Đáp án hệ thống. **Cách tính:** gọi x là khoảng cách từ nhà đến A (1≤x≤16, vì cách B ≥2 dặm). Mức ô nhiễm P(x)=80/x+720/(18−x).
+> 1. P'(x) = −80/x² + 720/(18−x)².
+> 2. P'(x)=0 ⟺ 720x² = 80(18−x)² ⟺ 9x² = (18−x)² ⟺ 3x = ±(18−x).
+> 3. Trường hợp 3x=18−x ⟹ 4x=18 ⟹ x=4.5 (nhận, thuộc [1,16]). Trường hợp 3x=−(18−x) cho x=−9 (loại).
+> 4. **Kết quả: nhà nên đặt cách nhà máy A 4.5 dặm.**
+> 5. ⚡ Lỗi hay gặp: quên ràng buộc miền 1≤x≤16 từ hai vùng cấm bán kính khác nhau (1 dặm và 2 dặm).
+
+## Trắc nghiệm hệ thống — lần 1 (LTTN tổng hợp lần 5)
+
+> 30 câu LTTN tổng hợp không tính điểm (Tuần 9), đáp án lấy từ trang xem lại (review). Chỉ ghi câu mới (29/30 câu trùng với câu đã có trong ngân hàng).
+
+**Câu 291.** Cho hàm số f(x, y) = x³ + 4xy + y² − y. Khi đó f_y(−1, 1) bằng: _(Hệ thống — LTTN tổng hợp lần 5)_
+
+- A. −5
+- **B. −3** ✅
+- C. 2
+- D. 1
+
+> 💡 ✅ Đáp án hệ thống. **Cách tính:**
+> 1. f_y = 4x + 2y − 1.
+> 2. f_y(−1, 1) = 4(−1) + 2(1) − 1 = −4 + 2 − 1 = −3.
+> 3. **Kết quả: −3.**
+> 4. ⚡ Lỗi hay gặp: quên hệ số 2 của y² khi đạo hàm (ra 4x+y−1), hoặc nhầm dấu khi thay x=−1.
+
+## Trắc nghiệm hệ thống — lần 1 (LTTN tổng hợp lần 6)
+
+> 30 câu LTTN tổng hợp không tính điểm (Tuần 9), đáp án lấy từ trang xem lại (review). Chỉ ghi câu mới (26/30 câu trùng với câu đã có trong ngân hàng).
+
+**Câu 292.** Sử dụng quy tắc Simpson với n = 4 để tính gần đúng tích phân ∫₀¹ e^(x²) dx, ta được tích phân xấp xỉ bằng (lấy kết quả đến chữ số thập phân thứ 5): _(Hệ thống — LTTN tổng hợp lần 6)_
+
+- **A. 1.46371** ✅
+- B. 1.46265
+- C. 1.48065
+- D. 1.48032
+
+> 💡 ✅ Đáp án hệ thống. **Cách tính:** quy tắc Simpson với n=4, h=(1-0)/4=0.25.
+> 1. Các nút: x₀=0, x₁=0.25, x₂=0.5, x₃=0.75, x₄=1.
+> 2. f(x)=e^(x²): f(0)=1, f(0.25)=e^0.0625≈1.06449, f(0.5)=e^0.25≈1.28403, f(0.75)=e^0.5625≈1.75505, f(1)=e≈2.71828.
+> 3. Simpson: S = (h/3)[f(x₀)+4f(x₁)+2f(x₂)+4f(x₃)+f(x₄)] = (0.25/3)[1+4(1.06449)+2(1.28403)+4(1.75505)+2.71828].
+> 4. Tổng trong ngoặc ≈ 1+4.25796+2.56806+7.0202+2.71828 ≈ 17.5645. S ≈ (0.08333)(17.5645) ≈ 1.46371.
+> 5. **Kết quả: 1.46371.**
+> 6. ⚡ Lỗi hay gặp: nhầm hệ số 2/4 cho các nút chẵn/lẻ, hoặc tính sai e^(0.0625), e^(0.5625).
+
+**Câu 293.** Một khối protein có khối lượng m (gram) phân hủy thành các axít amin với tốc độ: dm/dt = −20/(t+5)² (g/giờ). Mức thay đổi khối lượng ròng của khối protein này trong 3 giờ đầu là: _(Hệ thống — LTTN tổng hợp lần 6)_
+
+- **A. 1.5 gram** ✅
+- B. 2 gram
+- C. 1 gram
+- D. 2.5 gram
+
+> 💡 ✅ Đáp án hệ thống. **Cách tính:** thay đổi ròng = ∫₀³ (dm/dt) dt.
+> 1. ∫₀³ −20/(t+5)² dt = [20/(t+5)]₀³ = 20/8 − 20/5 = 2.5 − 4 = −1.5.
+> 2. **Kết quả: khối lượng giảm 1.5 gram.**
+> 3. ⚡ Lỗi hay gặp: quên đổi dấu khi lấy nguyên hàm của −20/(t+5)² (nguyên hàm là +20/(t+5), không phải −20/(t+5)).
+
+**Câu 294.** Dân số của một vùng được mô hình hóa bởi hàm P(t) = 20t/(t²+10t+5) − 60/(2t+1) + 100 (nghìn người), trong đó t là số năm kể từ thời điểm hiện tại. Dân số trong dài hạn của vùng đó là: _(Hệ thống — LTTN tổng hợp lần 6)_
+
+- A. 20 (nghìn người)
+- **B. 100 (nghìn người)** ✅
+- C. 30 (nghìn người)
+- D. 50 (nghìn người)
+
+> 💡 ✅ Đáp án hệ thống. **Cách tính:** xét giới hạn khi t→+∞.
+> 1. Khi t→+∞: 20t/(t²+10t+5)→0 (bậc mẫu cao hơn tử) và 60/(2t+1)→0.
+> 2. P(t) → 0 − 0 + 100 = 100.
+> 3. **Kết quả: 100 nghìn người.**
+> 4. ⚡ Lỗi hay gặp: tưởng 20t/(t²+10t+5) tiến tới một hằng số khác 0 vì có t ở tử, quên so sánh bậc với mẫu (mẫu bậc 2 > tử bậc 1 nên vẫn → 0).
+
+**Câu 295.** Tích phân suy rộng ∫_{−∞}^{0} dx/((x−1)(x−2)) nhận giá trị bằng: _(Hệ thống — LTTN tổng hợp lần 6)_
+
+- A. 2
+- **B. ln2** ✅
+- C. 0
+- D. −ln2
+
+> 💡 ✅ Đáp án hệ thống. **Cách tính:** tách phân thức 1/((x−1)(x−2)) = 1/(x−2) − 1/(x−1), lấy nguyên hàm rồi xét giới hạn.
+> 1. ∫dx/((x−1)(x−2)) = ln|x−2| − ln|x−1| + C = ln|（x−2)/(x−1)| + C.
+> 2. Tại x=0: ln|(−2)/(−1)| = ln2. Khi x→−∞: (x−2)/(x−1) → 1, nên ln|...| → ln1 = 0.
+> 3. Giá trị tích phân = ln2 − 0 = ln2.
+> 4. **Kết quả: ln2.**
+> 5. ⚡ Lỗi hay gặp: tách sai dấu phân thức (nhầm 1/(x−1) − 1/(x−2)), dẫn tới kết quả −ln2.

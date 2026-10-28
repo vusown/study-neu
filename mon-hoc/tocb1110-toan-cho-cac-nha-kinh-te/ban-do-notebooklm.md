@@ -15,7 +15,7 @@
 | Mã học phần | **TOCB1110** (đề cương). Mã hệ từ xa (TX…) **cần xác minh** |
 | Học kỳ | 06/09 |
 | Hình thức thi cuối kỳ | Thi viết trên giấy, **60 phút**, trắc nghiệm kết hợp tự luận: **8 câu trắc nghiệm × 0,5đ + 3 câu tự luận × 2đ** |
-| Tổng số câu trong ngân hàng | **216** |
+| Tổng số câu trong ngân hàng | **295** |
 
 ## 1. Nguồn tải lên NotebookLM
 
@@ -24,12 +24,15 @@ Tạo **một notebook cho mỗi môn**, tải lên các file sau.
 | File | Nội dung | Dùng khi hỏi |
 |---|---|---|
 | `ban-do-notebooklm.md` | Bản đồ này | Câu hỏi nằm ở đâu, chủ đề nào có câu nào |
-| `ngan-hang-theo-chu-de.md` | 216 câu gom theo bài, chủ đề, mỗi chủ đề có dòng 🔑 Ghi nhớ | Học thuộc, ôn theo chủ đề, tạo quiz |
-| `ngan-hang-cau-hoi.md` | Cùng 216 câu, xếp theo nguồn (đề thi, lần làm hệ thống) | Tra số câu gốc, nguồn của câu |
+| `ngan-hang-theo-chu-de.md` | 295 câu gom theo bài, chủ đề, mỗi chủ đề có dòng 🔑 Ghi nhớ | Học thuộc, ôn theo chủ đề, tạo quiz |
+| `ngan-hang-cau-hoi.md` | Cùng 295 câu, xếp theo nguồn (đề thi, lần làm hệ thống) | Tra số câu gốc, nguồn của câu |
 | `de-cuong.md` | Tóm tắt kiến thức theo bài, mức ⭐, mục 🎯 Đề hỏi gì | Giải thích kiến thức, vì sao đáp án đúng |
 | `cach-hoc-thuoc.md` | Đề ra gì, bảng thuộc lòng, bẫy, cặp dễ nhầm, lịch học | Mẹo nhớ, bẫy đề, kế hoạch ôn |
 | `README.md` | Thông tin môn, cách tính điểm, lịch học | Điểm, điều kiện thi, hình thức thi |
 | `tai-lieu/00-de-cuong-chi-tiet-hoc-phan.pdf` | Đề cương chi tiết học phần | Tài liệu gốc |
+| `tai-lieu/00-de-mau-1-tu-xa.docx` | Đề mẫu 1 — Từ xa | Tài liệu gốc. Nếu NotebookLM không nhận .docx thì mở bằng Google Docs rồi thêm từ Drive |
+| `tai-lieu/00-de-mau-2-tu-xa.docx` | Đề mẫu 2 — Từ xa | Tài liệu gốc. Nếu NotebookLM không nhận .docx thì mở bằng Google Docs rồi thêm từ Drive |
+| `tai-lieu/00-de-mau-3-tu-xa.docx` | Đề mẫu 3 — Từ xa | Tài liệu gốc. Nếu NotebookLM không nhận .docx thì mở bằng Google Docs rồi thêm từ Drive |
 | `tai-lieu/00-gioi-thieu-chuong-trinh.pdf` | Bài 0 — Giới thiệu chương trình | Tài liệu gốc |
 | `tai-lieu/bai-1-ham-so-va-gioi-han.pdf` | Bài 1 — Hàm số và giới hạn | Tài liệu gốc |
 | `tai-lieu/bai-10-ham-so-nhieu-bien-va-dao-ham-rieng.pdf` | Bài 10 — Hàm số nhiều biến và đạo hàm riêng | Tài liệu gốc |
@@ -112,75 +115,87 @@ Tạo **một notebook cho mỗi môn**, tải lên các file sau.
 | Trắc nghiệm hệ thống — lần 1+2 (LTTN Bài 5) | 137–150 | 14 |
 | Trắc nghiệm hệ thống — lần 1+2 (LTTN Bài 6) | 151–160 | 10 |
 | Trắc nghiệm hệ thống — lần 1 (LTTN tổng hợp) | 161–189 | 29 |
-| Trắc nghiệm hệ thống — lần 2 (LTTN tổng hợp) | 190–216 | 27 |
+| Trắc nghiệm hệ thống — lần 2 (LTTN tổng hợp) | 190–215 | 26 |
+| Trắc nghiệm hệ thống — lần 1 (LTTN Bài 7) | 216–221 | 6 |
+| Trắc nghiệm hệ thống — lần 1 (LTTN Bài 9) | 222–229 | 8 |
+| Trắc nghiệm hệ thống — lần 1 (LTTN Bài 10) | 230–231 | 2 |
+| Trắc nghiệm hệ thống — lần 1 (LTTN Bài 12) | 232–236 | 5 |
+| Đề mẫu 1 — Từ xa (trắc nghiệm) | 237–244 | 8 |
+| Đề mẫu 2 — Từ xa (trắc nghiệm) | 245–252 | 8 |
+| Đề mẫu 3 — Từ xa (trắc nghiệm) | 253–260 | 8 |
+| Đề mẫu — Từ xa (tự luận) | 261–269 | 9 |
+| Trắc nghiệm hệ thống — lần 1 (LTTN tổng hợp lần 3) | 270–275 | 6 |
+| Trắc nghiệm hệ thống — lần 1 (LTTN tổng hợp lần 4) | 276–290 | 15 |
+| Trắc nghiệm hệ thống — lần 1 (LTTN tổng hợp lần 5) | 291–291 | 1 |
+| Trắc nghiệm hệ thống — lần 1 (LTTN tổng hợp lần 6) | 292–295 | 4 |
 
 ## 4. Bản đồ chủ đề
 
 Mỗi dòng là một chủ đề trong `ngan-hang-theo-chu-de.md`. Cột **Câu gốc** dùng để tìm câu trong `ngan-hang-cau-hoi.md`; tìm một số câu trong cột này để biết câu đó thuộc chủ đề nào.
 
-### Bài 1 — Hàm số và giới hạn (21 câu)
+### Bài 1 — Hàm số và giới hạn (24 câu)
 
 | Mã | Chủ đề | Số câu | Câu gốc | Câu ⚡ | Từ khóa |
 |---|---|---|---|---|---|
 | 1.1 | Tập xác định, giá trị của hàm và hàm hợp | 5 | 1–2, 4, 109, 111 | 1–2, 4, 109, 111 | Tập xác định · Giá trị f(a) · từng chỗ · Hàm nhiều công thức · Hàm hợp f[g(x)] · toàn bộ · 1/7/2007 |
 | 1.2 | Hàm doanh thu, chi phí, lợi nhuận và lập mô hình | 6 | 3, 5, 118–119, 121, 180 | 3, 5, 118–119, 121, 180 | R(x) = x·p(x) · P(x) = R(x) − C(x) · AC(x) = C(x)/x · P(x) > 0 · giữa hai nghiệm · x = −b/(2a) · đô la/máy · x = 4 |
-| 1.3 | Cân bằng thị trường và phân tích hòa vốn | 4 | 6–7, 117, 120 | 6–7, 117, 120 | Cân bằng · S(x) = D(x) · pₑ = S(xₑ) = D(xₑ) · dư thừa · thiếu hụt · Hòa vốn · R(x) = C(x) · P(x₀) = R(x₀) − C(x₀) |
-| 1.4 | Giới hạn của hàm số | 6 | 8–9, 107–108, 110, 173 | 8–9, 107–108, 110, 173 | lim_{x→c} P(x) = P(c) · lim_{x→c} P(x)/Q(x) = P(c)/Q(c) nếu Q(c) ≠ 0 · lim_{x→±∞} A/xᵏ = 0 · giá trị dài hạn (tồn dư) · t = 0 · C(5) − C(4) |
+| 1.3 | Cân bằng thị trường và phân tích hòa vốn | 5 | 6–7, 117, 120, 237 | 6–7, 117, 120, 237 | Cân bằng · S(x) = D(x) · pₑ = S(xₑ) = D(xₑ) · dư thừa · thiếu hụt · Hòa vốn · R(x) = C(x) · P(x₀) = R(x₀) − C(x₀) |
+| 1.4 | Giới hạn của hàm số | 8 | 8–9, 107–108, 110, 173, 270, 294 | 8–9, 107–108, 110, 173, 270, 294 | lim_{x→c} P(x) = P(c) · lim_{x→c} P(x)/Q(x) = P(c)/Q(c) nếu Q(c) ≠ 0 · lim_{x→±∞} A/xᵏ = 0 · giá trị dài hạn (tồn dư) · t = 0 · C(5) − C(4) |
 
-### Bài 2 — Đạo hàm và vi phân của hàm số (Phần 1) (21 câu)
+### Bài 2 — Đạo hàm và vi phân của hàm số (Phần 1) (26 câu)
 
 | Mã | Chủ đề | Số câu | Câu gốc | Câu ⚡ | Từ khóa |
 |---|---|---|---|---|---|
-| 2.1 | Đạo hàm theo định nghĩa, tốc độ thay đổi và tốc độ thay đổi phần trăm | 5 | 10, 12–13, 116, 125 | 10, 12–13, 116, 125 | f'(x) = lim_{h→0} [f(x + h) − f(x)]/h · tốc độ thay đổi · f'(c) > 0 tăng, f'(c) < 0 giảm · Thay đổi thực tế · f(k + 1) − f(k) · Tốc độ thay đổi phần trăm = 100·Q'/Q |
+| 2.1 | Đạo hàm theo định nghĩa, tốc độ thay đổi và tốc độ thay đổi phần trăm | 8 | 10, 12–13, 116, 125, 245, 279, 285 | 10, 12–13, 116, 125, 245, 279, 285 | f'(x) = lim_{h→0} [f(x + h) − f(x)]/h · tốc độ thay đổi · f'(c) > 0 tăng, f'(c) < 0 giảm · Thay đổi thực tế · f(k + 1) − f(k) · Tốc độ thay đổi phần trăm = 100·Q'/Q |
 | 2.2 | Quy tắc lũy thừa, tổng, tích, thương | 6 | 11, 14–15, 112–113, 122 | 11, 14–15, 112–113, 122 | (xⁿ)' = n·xⁿ⁻¹ · Tích (f·g)' = f'·g + f·g' · Thương (f/g)' = (f'·g − f·g')/g² |
-| 2.3 | Đạo hàm của hàm hợp | 5 | 16–17, 114–115, 126 | 16–17, 114–115, 126 | dy/dx = (dy/du)·(du/dx) = f'[g(x)]·g'(x) · thay u trở lại theo x · dC/dt = (dC/dx)·(dx/dt) · cả x(t₀) và t₀ |
-| 2.4 | Đạo hàm cấp cao | 5 | 18–19, 123–124, 166 | 18–19, 123–124, 166 | f''(x) = (f'(x))' · Q'(t) = tốc độ sản xuất · Q''(t) = tốc độ thay đổi của tốc độ sản xuất · t = 3 · tốc độ sản xuất đang giảm |
+| 2.3 | Đạo hàm của hàm hợp | 6 | 16–17, 114–115, 126, 283 | 16–17, 114–115, 126, 283 | dy/dx = (dy/du)·(du/dx) = f'[g(x)]·g'(x) · thay u trở lại theo x · dC/dt = (dC/dx)·(dx/dt) · cả x(t₀) và t₀ |
+| 2.4 | Đạo hàm cấp cao | 6 | 18–19, 123–124, 166, 260 | 18–19, 123–124, 166, 260 | f''(x) = (f'(x))' · Q'(t) = tốc độ sản xuất · Q''(t) = tốc độ thay đổi của tốc độ sản xuất · t = 3 · tốc độ sản xuất đang giảm |
 
-### Bài 3 — Đạo hàm và vi phân của hàm số (Phần 2) (26 câu)
+### Bài 3 — Đạo hàm và vi phân của hàm số (Phần 2) (28 câu)
 
 | Mã | Chủ đề | Số câu | Câu gốc | Câu ⚡ | Từ khóa |
 |---|---|---|---|---|---|
-| 3.1 | Phân tích cận biên: chi phí, doanh thu, lợi nhuận cận biên | 6 | 20–21, 127–129, 197 | 20–21, 127–129, 197 | đơn vị thứ x₀ + 1 · thực tế |
-| 3.2 | Xấp xỉ bằng số gia, thay đổi phần trăm và vi phân | 8 | 22–25, 130–131, 133, 209 | 22–25, 130–131, 133, 209 | Δf ≈ f'(x₀)·Δx · Thay đổi phần trăm · Vi phân |
+| 3.1 | Phân tích cận biên: chi phí, doanh thu, lợi nhuận cận biên | 8 | 20–21, 127–129, 197, 238, 246 | 20–21, 127–129, 197, 238, 246 | đơn vị thứ x₀ + 1 · thực tế |
+| 3.2 | Xấp xỉ bằng số gia, thay đổi phần trăm và vi phân | 8 | 22–25, 130–131, 133, 208 | 22–25, 130–131, 133, 208 | Δf ≈ f'(x₀)·Δx · Thay đổi phần trăm · Vi phân |
 | 3.3 | Đạo hàm của hàm ẩn và ứng dụng | 7 | 26–28, 132, 134–135, 174 | 26–28, 132, 134–135, 174 | coi y là hàm của x · độ dốc tiếp tuyến · Δy ≈ dy/dx |
 | 3.4 | Các tốc độ liên quan | 5 | 29–31, 136, 171 | 29–31, 136, 171 | đạo hàm hai vế theo t · sau |
 
-### Bài 4 — Một số ứng dụng của đạo hàm (Phần 1) (21 câu)
+### Bài 4 — Một số ứng dụng của đạo hàm (Phần 1) (25 câu)
 
 | Mã | Chủ đề | Số câu | Câu gốc | Câu ⚡ | Từ khóa |
 |---|---|---|---|---|---|
-| 4.1 | Khoảng tăng, giảm của hàm số | 4 | 32, 147, 167, 178 | 32, 167, 178 | tăng · giảm · quy tắc thương · hệ thống chốt đáp án là khoảng hẹp hơn (1; 9/2) |
-| 4.2 | Cực trị tương đối: kiểm tra bằng đạo hàm cấp một và bài toán ứng dụng | 8 | 33–34, 137, 139, 148–149, 163, 175 | 33–34, 137, 148–149, 163, 175 | Số tới hạn · điểm tới hạn · cực đại · cực tiểu · 2 cực trị tương đối · không đổi dấu |
+| 4.1 | Khoảng tăng, giảm của hàm số | 6 | 32, 147, 167, 178, 239, 289 | 32, 167, 178, 239, 289 | tăng · giảm · quy tắc thương · hệ thống chốt đáp án là khoảng hẹp hơn (1; 9/2) |
+| 4.2 | Cực trị tương đối: kiểm tra bằng đạo hàm cấp một và bài toán ứng dụng | 10 | 33–34, 137, 139, 148–149, 163, 175, 247, 255 | 33–34, 137, 148–149, 163, 175, 247, 255 | Số tới hạn · điểm tới hạn · cực đại · cực tiểu · 2 cực trị tương đối · không đổi dấu |
 | 4.3 | Tính lõm và điểm uốn | 8 | 35–36, 138, 140–141, 150, 186–187 | 35–36, 138, 140–141, 186–187 | hướng lên · hướng xuống · điểm uốn · đổi dấu · 0 điểm uốn |
 | 4.4 | Kiểm tra cực trị bằng đạo hàm cấp hai | 1 | 37 | 37 | cực tiểu · cực đại · chưa kết luận |
 
-### Bài 5 — Một số ứng dụng của đạo hàm (Phần 2) (13 câu)
+### Bài 5 — Một số ứng dụng của đạo hàm (Phần 2) (21 câu)
 
 | Mã | Chủ đề | Số câu | Câu gốc | Câu ⚡ | Từ khóa |
 |---|---|---|---|---|---|
-| 5.1 | Cực trị tuyệt đối | 3 | 38–39, 144 | 38–39, 144 | đoạn đóng · loại · hai mút · khoảng không đóng · duy nhất |
-| 5.2 | Phân tích cận biên: lợi nhuận tối đa, chi phí bình quân tối thiểu | 4 | 40, 145–146, 182 | 40, 145–146, 182 | R'(q) = C'(q) · R''(q) < C''(q) · A(q) = C'(q) · nghìn · 6,000 đơn vị · 10,000 đơn vị · n = 17 tầng · q = 5 nghìn đơn vị · 5 tháng, P = 10 nghìn USD |
-| 5.3 | Độ co giãn của cầu theo giá và doanh thu | 2 | 41, 143 | 41, 143 | E(p) = −(p/q)(dq/dp) · R'(p) = q(p)[1 − E(p)] · tăng · giảm · tối đa · E(5) ≈ 0.18 · p = 10 · p ≈ 92.36 |
-| 5.4 | Bài toán tối ưu hoá ứng dụng | 4 | 42–43, 142, 198 | 42–43, 142, 198 | miền giới hạn · B2 & B3 · và hai mút · x = 5 dặm, 45 ppm · nhóm 47 hoặc 48 người, $2,256 · $26 |
+| 5.1 | Cực trị tuyệt đối | 5 | 38–39, 144, 264, 271 | 38–39, 144, 264, 271 | đoạn đóng · loại · hai mút · khoảng không đóng · duy nhất |
+| 5.2 | Phân tích cận biên: lợi nhuận tối đa, chi phí bình quân tối thiểu | 6 | 40, 145–146, 182, 267, 287 | 40, 145–146, 182, 267, 287 | R'(q) = C'(q) · R''(q) < C''(q) · A(q) = C'(q) · nghìn · 6,000 đơn vị · 10,000 đơn vị · n = 17 tầng · q = 5 nghìn đơn vị · 5 tháng, P = 10 nghìn USD |
+| 5.3 | Độ co giãn của cầu theo giá và doanh thu | 5 | 41, 143, 253, 272, 284 | 41, 143, 253, 272, 284 | E(p) = −(p/q)(dq/dp) · R'(p) = q(p)[1 − E(p)] · tăng · giảm · tối đa · E(5) ≈ 0.18 · p = 10 · p ≈ 92.36 |
+| 5.4 | Bài toán tối ưu hoá ứng dụng | 5 | 42–43, 142, 261, 290 | 42–43, 142, 261, 290 | miền giới hạn · B2 & B3 · và hai mút · x = 5 dặm, 45 ppm · nhóm 47 hoặc 48 người, $2,256 · $26 |
 
-### Bài 6 — Phép toán tích phân (Phần 1) (34 câu)
-
-| Mã | Chủ đề | Số câu | Câu gốc | Câu ⚡ | Từ khóa |
-|---|---|---|---|---|---|
-| 6.1 | Nguyên hàm và tích phân bất định | 5 | 44–45, 151, 188, 212 | 44–45, 151, 188, 212 | F'(x) = f(x) · lấy đạo hàm · ∫ xⁿ dx = xⁿ⁺¹/(n + 1) + C (n ≠ −1) · ∫ (1/x) dx = ln|x| + C · ∫ eᵏˣ dx = eᵏˣ/k + C · −(4/3)x⁻¹ᐟ² + C · e⁻⁵ˣ/(−5) + C |
-| 6.2 | Tìm hàm tổng khi biết hàm cận biên / tốc độ thay đổi | 4 | 46, 49, 152, 156 | 46, 49, 152, 156 | ∫ (hàm cận biên) · điều kiện cho trước · C̄ = 212 · C(5) = $1,587 · C = 705 · $132.24 · $300 · 4.09 · ≈ 409 đơn vị · trăm |
-| 6.3 | Phương pháp đổi biến | 7 | 47–48, 153–154, 185, 195, 202 | 47–48, 153–154, 185, 195, 202 | (1) · (2) · (3) · (4) · (2x + 3)⁸/16 + C · (1/3)(2x + 7)³ᐟ² + C · (4x² − 3)⁶/6 + C · (ln x)³/3 + C · phải nhân 1/a |
-| 6.4 | Tích phân xác định, định lý cơ bản, diện tích | 12 | 50–54, 155, 157–158, 162, 203, 213, 215 | 50–54, 155, 157–158, 162, 203, 213, 215 | ∫ₐᵇ f(x) dx = F(b) − F(a) · diện tích · phân đoạn · đổi cận · 1.25 ⟹ 12,500 ft² · 5/3 − 1/e · ln 4 − 21 ≈ −19.6137 · ≈ −0.721 |
-| 6.5 | Thay đổi ròng | 6 | 55–56, 159–160, 170, 207 | 55–56, 159–160, 170, 207 | Q(b) − Q(a) = ∫ₐᵇ Q'(x) dx · mà không cần hằng số C · $208 · $1,384 · $1,440 · 1.5 gram |
-
-### Bài 7 — Phép toán tích phân (Phần 2) (13 câu)
+### Bài 6 — Phép toán tích phân (Phần 1) (51 câu)
 
 | Mã | Chủ đề | Số câu | Câu gốc | Câu ⚡ | Từ khóa |
 |---|---|---|---|---|---|
-| 7.1 | Diện tích giữa hai đường cong và lợi nhuận vượt trội ròng | 2 | 57–58 | 57–58 | A = ∫ₐᵇ [f(x) − g(x)] dx · trên · dưới · NE = E(N) − E(0) = ∫₀ᴺ [P₂'(t) − P₁'(t)] dt · tốc độ sinh lợi · trăm đô la · 1/12 · 15 năm · 1,687.5 trăm đô la = $168,750 |
-| 7.2 | Chỉ số Gini và giá trị trung bình | 4 | 59–60, 164, 205 | 59–60, 164, 205 | GI = Diện tích R₁ / Diện tích R₂ = 2∫₀¹ [x − L(x)] dx · Gini càng nhỏ càng công bằng · V = (1/(b − a)) ∫ₐᵇ f(x) dx · 0.2593 · 0.2667 · 250 nghìn đô la/tháng |
-| 7.3 | Giá trị tương lai và giá trị hiện tại của dòng thu nhập | 2 | 61–62 | 61–62 | FV = ∫₀ᵀ f(t) e^{r(T − t)} dt · PV = ∫₀ᵀ f(t) e^{−rt} dt · giá trị ròng = PV − chi phí ban đầu · 2,602.66 đô la · 5,274.39 · 5,695.94 |
-| 7.4 | Mức sẵn lòng chi tiêu, thặng dư tiêu dùng và thặng dư sản xuất | 5 | 63–64, 190, 196, 208 | 63–64, 190, 196, 208 | WS = ∫₀^{q₀} D(q) dq · CS = ∫₀^{q₀} D(q) dq − p₀q₀ · PS = p₀q₀ − ∫₀^{q₀} S(q) dq · 660 đô la · 66.67 · 183.33 |
+| 6.1 | Nguyên hàm và tích phân bất định | 6 | 44–45, 151, 188, 211, 262 | 44–45, 151, 188, 211, 262 | F'(x) = f(x) · lấy đạo hàm · ∫ xⁿ dx = xⁿ⁺¹/(n + 1) + C (n ≠ −1) · ∫ (1/x) dx = ln|x| + C · ∫ eᵏˣ dx = eᵏˣ/k + C · −(4/3)x⁻¹ᐟ² + C · e⁻⁵ˣ/(−5) + C |
+| 6.2 | Tìm hàm tổng khi biết hàm cận biên / tốc độ thay đổi | 6 | 46, 49, 152, 156, 224, 250 | 46, 49, 152, 156, 224, 250 | ∫ (hàm cận biên) · điều kiện cho trước · C̄ = 212 · C(5) = $1,587 · C = 705 · $132.24 · $300 · 4.09 · ≈ 409 đơn vị · trăm · 66.67 trăm đô-la |
+| 6.3 | Phương pháp đổi biến | 11 | 47–48, 153–154, 185, 195, 201, 222, 225, 268, 278 | 47–48, 153–154, 185, 195, 201, 222, 225, 268, 278 | (1) · (2) · (3) · (4) · (2x + 3)⁸/16 + C · (1/3)(2x + 7)³ᐟ² + C · (4x² − 3)⁶/6 + C · (ln x)³/3 + C · phải nhân 1/a |
+| 6.4 | Tích phân xác định, định lý cơ bản, diện tích | 20 | 50–54, 155, 157–158, 162, 202, 212, 214, 223, 226, 240, 254, 275, 281–282, 288 | 50–54, 155, 157–158, 162, 202, 212, 214, 223, 226, 240, 254, 275, 281–282, 288 | ∫ₐᵇ f(x) dx = F(b) − F(a) · diện tích · phân đoạn · đổi cận · 1.25 ⟹ 12,500 ft² · 5/3 − 1/e · ln 4 − 21 ≈ −19.6137 · ≈ −0.721 |
+| 6.5 | Thay đổi ròng | 8 | 55–56, 159–160, 170, 206, 248, 293 | 55–56, 159–160, 170, 206, 248, 293 | Q(b) − Q(a) = ∫ₐᵇ Q'(x) dx · mà không cần hằng số C · $208 · $1,384 · $1,440 · 1.5 gram |
+
+### Bài 7 — Phép toán tích phân (Phần 2) (25 câu)
+
+| Mã | Chủ đề | Số câu | Câu gốc | Câu ⚡ | Từ khóa |
+|---|---|---|---|---|---|
+| 7.1 | Diện tích giữa hai đường cong và lợi nhuận vượt trội ròng | 4 | 57–58, 216–217 | 57–58, 216–217 | A = ∫ₐᵇ [f(x) − g(x)] dx · trên · dưới · NE = E(N) − E(0) = ∫₀ᴺ [P₂'(t) − P₁'(t)] dt · tốc độ sinh lợi · trăm đô la · 1/12 · 15 năm · 1,687.5 trăm đô la = $168,750 · 1/6 · 235.5 trăm đô la |
+| 7.2 | Chỉ số Gini và giá trị trung bình | 8 | 59–60, 164, 204, 218–219, 241, 256 | 59–60, 164, 204, 218–219, 241, 256 | GI = Diện tích R₁ / Diện tích R₂ = 2∫₀¹ [x − L(x)] dx · Gini càng nhỏ càng công bằng · V = (1/(b − a)) ∫ₐᵇ f(x) dx · 0.2593 · 0.2667 · 250 nghìn đô la/tháng · L(x) ≤ x · không thể xảy ra · 1/2 |
+| 7.3 | Giá trị tương lai và giá trị hiện tại của dòng thu nhập | 5 | 61–62, 220, 265, 280 | 61–62, 220, 265, 280 | FV = ∫₀ᵀ f(t) e^{r(T − t)} dt · PV = ∫₀ᵀ f(t) e^{−rt} dt · giá trị ròng = PV − chi phí ban đầu · 2,602.66 đô la · 5,274.39 · 5,695.94 · hằng số · $4,424 |
+| 7.4 | Mức sẵn lòng chi tiêu, thặng dư tiêu dùng và thặng dư sản xuất | 8 | 63–64, 190, 196, 207, 221, 249, 257 | 63–64, 190, 196, 207, 221, 249, 257 | WS = ∫₀^{q₀} D(q) dq · CS = ∫₀^{q₀} D(q) dq − p₀q₀ · PS = p₀q₀ − ∫₀^{q₀} S(q) dq · 660 đô la · 66.67 · 183.33 |
 
 ### Bài 8 — Một số chủ đề tích phân chọn lọc (Phần 1) (6 câu)
 
@@ -190,40 +205,40 @@ Mỗi dòng là một chủ đề trong `ngan-hang-theo-chu-de.md`. Cột **Câu
 | 8.2 | Ứng dụng tích phân từng phần: giá trị tương lai của dòng thu nhập | 1 | 68 | 68 | FV = ∫₀ᵀ f(t)e^{r(T − t)} dt · u = f(t) · dv = e^{r(T − t)} dt · v = e^{r(T − t)}/(−r) · −25 · 17,274.04 · $17,274 |
 | 8.3 | Bảng tích phân và phương trình logistic | 2 | 69–70 | 69–70 | Công thức 16 · Công thức 6 · Phương trình logistic dQ/dt = kQ(M − Q) · a = √2 · (1/3)(1/(2√2)) ln|(√2 + x)/(√2 − x)| + C · N(t) = 26e^{0.65t}/(12 + e^{0.65t}) |
 
-### Bài 9 — Một số chủ đề tích phân chọn lọc (Phần 2) (12 câu)
+### Bài 9 — Một số chủ đề tích phân chọn lọc (Phần 2) (20 câu)
 
 | Mã | Chủ đề | Số câu | Câu gốc | Câu ⚡ | Từ khóa |
 |---|---|---|---|---|---|
-| 9.1 | Tính gần đúng tích phân xác định: hình thang, Simpson, số liệu thực nghiệm | 5 | 71–73, 194, 211 | 71–73, 194, 211 | Hình thang · Simpson · chẵn · 3.0653 · 3.059239 · 320 feet vuông |
-| 9.2 | Tích phân suy rộng: hội tụ hay phân kỳ | 6 | 74–77, 183, 210 | 74–77, 183, 210 | hội tụ · phân kỳ · lim_{N→+∞} Nᵖe^{−kN} = 0 · cả hai · 1/4 · 3/4 |
-| 9.3 | Ứng dụng tích phân suy rộng: tỷ lệ thiết bị tồn tại | 1 | 78 | 78 | e^{−0.008t} · 1 − e^{−0.008T} · tháng · 0.6171 · 0.6188 |
+| 9.1 | Tính gần đúng tích phân xác định: hình thang, Simpson, số liệu thực nghiệm | 9 | 71–73, 194, 210, 227–228, 242, 292 | 71–73, 194, 210, 227–228, 242, 292 | Hình thang · Simpson · chẵn · 3.0653 · 3.059239 · 320 feet vuông · 1.48065 |
+| 9.2 | Tích phân suy rộng: hội tụ hay phân kỳ | 9 | 74–77, 183, 209, 229, 274, 295 | 74–77, 183, 209, 229, 274, 295 | hội tụ · phân kỳ · lim_{N→+∞} Nᵖe^{−kN} = 0 · cả hai · 1/4 · 3/4 |
+| 9.3 | Ứng dụng tích phân suy rộng: tỷ lệ thiết bị tồn tại | 2 | 78, 286 | 78, 286 | e^{−0.008t} · 1 − e^{−0.008T} · tháng · 0.6171 · 0.6188 |
 
-### Bài 10 — Hàm số nhiều biến và đạo hàm riêng (22 câu)
-
-| Mã | Chủ đề | Số câu | Câu gốc | Câu ⚡ | Từ khóa |
-|---|---|---|---|---|---|
-| 10.1 | Hàm hai biến: tập xác định, giá trị hàm, hàm doanh thu, đường mức | 5 | 79–81, 165, 191 | 79–81, 165, 191 | R(x, y) = x·D₁ + y·D₂ · f(x, y) = C · −13 · −20x² − 10y² + 70xy + 300x + 200y · đường tròn đồng tâm O |
-| 10.2 | Cobb-Douglas, đường bàng quan và đường đẳng lượng | 4 | 82–84, 201 | 82–84, 201 | Cobb-Douglas · Q(2K, 2L) = 2Q(K, L) · $1,000 · U(x, y) = C · Q(x, y) = C · thay đổi · 48,000 · 96,000 · 1,280 |
-| 10.3 | Đạo hàm riêng cấp 1 và cấp 2 | 5 | 85, 88, 168, 193, 216 | 85, 88, 168, 193, 216 | coi y là hằng số · coi x là hằng số · fₓₓ = (fₓ)ₓ, fₓᵧ = (fₓ)_y, f_yx = (f_y)ₓ, f_yy = (f_y)_y · yˣ ln y · x·y^{x−1} · −11 |
-| 10.4 | Phân tích cận biên và hàng hoá thay thế, bổ sung | 4 | 86–87, 172, 189 | 86–87, 172, 189 | Q_K · Q_L · Hàng hoá thay thế · bổ sung · đạo hàm chéo · 23.64 · 26.84 · thay thế |
-| 10.5 | Đạo hàm hàm hợp và xấp xỉ số gia | 4 | 89–91, 169 | 89–91, 169 | dz/dt = (∂z/∂x)(dx/dt) + (∂z/∂y)(dy/dt) · Δz ≈ (∂z/∂x)·Δx + (∂z/∂y)·Δy · hiện tại · có dấu · −3.65 · −12 · −19 |
-
-### Bài 11 — Cực trị của hàm số nhiều biến (Phần 1) (13 câu)
+### Bài 10 — Hàm số nhiều biến và đạo hàm riêng (29 câu)
 
 | Mã | Chủ đề | Số câu | Câu gốc | Câu ⚡ | Từ khóa |
 |---|---|---|---|---|---|
-| 11.1 | Điểm tới hạn và phân loại điểm tới hạn | 8 | 92–94, 179, 192, 199–200, 214 | 92–94, 179, 192, 199–200, 214 | fₓ = 0, f_y = 0 · D = fₓₓ·f_yy − (fₓ_y)² · D < 0 → yên ngựa · D > 0, fₓₓ > 0 → cực tiểu · D > 0, fₓₓ < 0 → cực đại · D = 0 → không kết luận · a = 5 · (2,2) |
-| 11.2 | Bài toán tối ưu ứng dụng của hàm hai biến | 4 | 95–96, 204, 206 | 95–96, 204, 206 | Lợi nhuận = Σ (số lượng bán)·(giá bán − chi phí) · bình phương khoảng cách · cực đại · cực tiểu · 53 cents · 55 cents · W(3, 5/3) |
+| 10.1 | Hàm hai biến: tập xác định, giá trị hàm, hàm doanh thu, đường mức | 6 | 79–81, 165, 191, 230 | 79–81, 165, 191, 230 | R(x, y) = x·D₁ + y·D₂ · f(x, y) = C · −13 · −20x² − 10y² + 70xy + 300x + 200y · đường tròn đồng tâm O · 86,400 đơn vị |
+| 10.2 | Cobb-Douglas, đường bàng quan và đường đẳng lượng | 5 | 82–84, 200, 231 | 82–84, 200, 231 | Cobb-Douglas · Q(2K, 2L) = 2Q(K, L) · $1,000 · U(x, y) = C · Q(x, y) = C · thay đổi · 48,000 · 96,000 · 1,280 · gấp đôi |
+| 10.3 | Đạo hàm riêng cấp 1 và cấp 2 | 8 | 85, 88, 168, 193, 215, 251, 259, 291 | 85, 88, 168, 193, 215, 251, 259, 291 | coi y là hằng số · coi x là hằng số · fₓₓ = (fₓ)ₓ, fₓᵧ = (fₓ)_y, f_yx = (f_y)ₓ, f_yy = (f_y)_y · yˣ ln y · x·y^{x−1} · −11 |
+| 10.4 | Phân tích cận biên và hàng hoá thay thế, bổ sung | 5 | 86–87, 172, 189, 244 | 86–87, 172, 189, 244 | Q_K · Q_L · Hàng hoá thay thế · bổ sung · đạo hàm chéo · 23.64 · 26.84 · thay thế |
+| 10.5 | Đạo hàm hàm hợp và xấp xỉ số gia | 5 | 89–91, 169, 266 | 89–91, 169, 266 | dz/dt = (∂z/∂x)(dx/dt) + (∂z/∂y)(dy/dt) · Δz ≈ (∂z/∂x)·Δx + (∂z/∂y)·Δy · hiện tại · có dấu · −3.65 · −12 · −19 |
+
+### Bài 11 — Cực trị của hàm số nhiều biến (Phần 1) (19 câu)
+
+| Mã | Chủ đề | Số câu | Câu gốc | Câu ⚡ | Từ khóa |
+|---|---|---|---|---|---|
+| 11.1 | Điểm tới hạn và phân loại điểm tới hạn | 14 | 92–94, 179, 192, 198–199, 213, 232–233, 243, 252, 258, 277 | 92–94, 179, 192, 198–199, 213, 232–233, 243, 252, 258, 277 | fₓ = 0, f_y = 0 · D = fₓₓ·f_yy − (fₓ_y)² · D < 0 → yên ngựa · D > 0, fₓₓ > 0 → cực tiểu · D > 0, fₓₓ < 0 → cực đại · D = 0 → không kết luận · a = 5 · (2,2) · tồn tại · có tâm (a,b) |
+| 11.2 | Bài toán tối ưu ứng dụng của hàm hai biến | 4 | 95–96, 203, 205 | 95–96, 203, 205 | Lợi nhuận = Σ (số lượng bán)·(giá bán − chi phí) · bình phương khoảng cách · cực đại · cực tiểu · 53 cents · 55 cents · W(3, 5/3) |
 | 11.3 | Cực trị tuyệt đối trên miền đóng và bị chặn | 1 | 97 | 97 | 3 bước · trong R · từng đoạn biên · và hai đầu mút · lớn nhất = cực đại tuyệt đối, nhỏ nhất = cực tiểu tuyệt đối · 89 tại (4, 8) · −55 tại (8, 0) và (0, 16) |
 
-### Bài 12 — Cực trị của hàm số nhiều biến (Phần 2) (14 câu)
+### Bài 12 — Cực trị của hàm số nhiều biến (Phần 2) (21 câu)
 
 | Mã | Chủ đề | Số câu | Câu gốc | Câu ⚡ | Từ khóa |
 |---|---|---|---|---|---|
-| 12.1 | Phương pháp nhân tử Lagrange cho hàm hai biến | 6 | 98–100, 176–177, 184 | 98–100, 176–177, 184 | g(x, y) = k · fₓ = λgₓ, f_y = λg_y, g = k · lớn nhất là cực đại, nhỏ nhất là cực tiểu · x = 0 hoặc λ = 1 · cực tiểu −4 tại (0, ±2) · cực đại 1/4 tại (1/2, ±1/√2) · cực đại 4 tại (2, 2), (−2, −2) · cực tiểu −4 tại (−2, 2), (2, −2) · (1,1) |
-| 12.2 | Tối đa hoá lợi ích, phân bổ nguồn lực và bài toán thực tiễn | 5 | 101–103, 161, 181 | 101–103, 161, 181 | hàm mục tiêu · ràng buộc · chia phương trình 1 cho phương trình 2 để khử λ · x = 18, y = 8 · 160 vốn, 24 lao động · 0.0219 · 100 m × 50 m, 200 m rào · ba mặt |
+| 12.1 | Phương pháp nhân tử Lagrange cho hàm hai biến | 9 | 98–100, 176–177, 184, 235, 269, 273 | 98–100, 176–177, 184, 235, 269, 273 | g(x, y) = k · fₓ = λgₓ, f_y = λg_y, g = k · lớn nhất là cực đại, nhỏ nhất là cực tiểu · x = 0 hoặc λ = 1 · cực tiểu −4 tại (0, ±2) · cực đại 1/4 tại (1/2, ±1/√2) · cực đại 4 tại (2, 2), (−2, −2) · cực tiểu −4 tại (−2, 2), (2, −2) · (1,1) |
+| 12.2 | Tối đa hoá lợi ích, phân bổ nguồn lực và bài toán thực tiễn | 7 | 101–103, 161, 181, 263, 276 | 101–103, 161, 181, 263, 276 | hàm mục tiêu · ràng buộc · chia phương trình 1 cho phương trình 2 để khử λ · x = 18, y = 8 · 160 vốn, 24 lao động · 0.0219 · 100 m × 50 m, 200 m rào · ba mặt · cực đại |
 | 12.3 | Cực trị có điều kiện của hàm ba biến | 1 | 105 | 105 | bốn phương trình · 2xy + 2xz |
-| 12.4 | Ý nghĩa của nhân tử Lagrange | 2 | 104, 106 | 104, 106 | λ = dM/dk ≈ thay đổi của M khi k tăng 1 đơn vị · ΔM ≈ λ·Δk · 21.9 đơn vị · λ = $2 · $290 |
+| 12.4 | Ý nghĩa của nhân tử Lagrange | 4 | 104, 106, 234, 236 | 104, 106, 234, 236 | λ = dM/dk ≈ thay đổi của M khi k tăng 1 đơn vị · ΔM ≈ λ·Δk · 21.9 đơn vị · λ = $2 · $290 · 14.332 · $7,500 |
 
 ## 5. Mục lục `de-cuong.md` (Đề cương)
 
@@ -381,7 +396,7 @@ Mỗi dòng là một chủ đề trong `ngan-hang-theo-chu-de.md`. Cột **Câu
 
 ## 7. Câu hỏi mẫu nên hỏi NotebookLM
 
-- "Câu 216 đáp án là gì, vì sao là bẫy? Giải thích theo đề cương."
+- "Câu 295 đáp án là gì, vì sao là bẫy? Giải thích theo đề cương."
 - "Tạo quiz 10 câu từ chủ đề 1.1, chỉ dùng câu có sẵn trong ngân hàng, giữ nguyên đáp án ✅."
 - "Liệt kê tất cả câu ⚡ của Bài 2 kèm đáp án và lý do là bẫy."
 - "Đọc dòng 🔑 Ghi nhớ của mọi chủ đề Bài 1 rồi tóm tắt thành 10 ý."
